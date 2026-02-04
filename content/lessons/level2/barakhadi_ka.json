@@ -1,0 +1,40 @@
+{
+  "id": "l2-barakhadi-ka",
+  "level": "Level 2",
+  "title": "क + मात्रा (का, कि, की)",
+  "targetSkills": ["barakhadi", "sound-symbol"],
+  "durationMinutes": 7,
+  "warmup": {
+    "prompt": "क ला योग्य मात्रा जोडा.",
+    "activity": "drag-matra"
+  },
+  "teach": {
+    "explanation": "क ला मात्रा जोडल्यावर नवीन आवाज तयार होतो.",
+    "examples": ["क + ा = का", "क + ि = कि", "क + ी = की"]
+  },
+  "practice": [
+    {
+      "type": "matra-match",
+      "instructions": "ऐका आणि योग्य बाराखडी निवडा.",
+      "items": ["का", "कि", "की"]
+    },
+    {
+      "type": "word-build",
+      "instructions": "चित्रासाठी योग्य शब्द तयार करा.",
+      "items": ["कीबोर्ड", "किरण", "कागद"]
+    }
+  ],
+  "apply": {
+    "prompt": "वाक्य वाचा.",
+    "expected": ["किरणने कागद घेतला."]
+  },
+  "reward": {
+    "type": "story-unlock",
+    "label": "किरणची कथा"
+  },
+  "assets": {
+    "audio": ["audio/barakhadi/ka.mp3"],
+    "images": ["images/words/kiran.png"],
+    "strokePaths": []
+  }
+}

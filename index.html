@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="mr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Learn Marathi Literacy - Product & Curriculum</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="nav">
+        <div class="logo">Learn Marathi</div>
+        <div class="nav-links">
+          <a href="#outcomes">Outcomes</a>
+          <a href="#curriculum">Curriculum</a>
+          <a href="#lessons">Lessons</a>
+          <a href="#experience">Experience</a>
+          <a href="#system">System</a>
+          <a href="#mvp">MVP</a>
+          <a href="#roadmap">Roadmap</a>
+        </div>
+        <button class="nav-cta">Start Daily Mission</button>
+      </nav>
+      <div class="hero-content">
+        <div>
+          <p class="eyebrow">Marathi Literacy App (Ages 4–10)</p>
+          <h1>Professional, material-inspired learning for Marathi reading & writing.</h1>
+          <p class="subhead">
+            A complete product blueprint that takes kids from अक्षर to कथा with structured lessons, adaptive
+            practice, parent dashboards, and healthy rewards.
+          </p>
+          <div class="hero-actions">
+            <button class="primary">Explore the path</button>
+            <button class="secondary">View parent guide</button>
+          </div>
+          <div class="hero-highlights">
+            <div>
+              <span class="metric">6</span>
+              <span class="label">Levels</span>
+            </div>
+            <div>
+              <span class="metric">5</span>
+              <span class="label">Lesson steps</span>
+            </div>
+            <div>
+              <span class="metric">10</span>
+              <span class="label">Stories (MVP)</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="card-header">
+            <span class="chip">Daily Mission</span>
+            <h2>7-minute literacy sprint</h2>
+            <p class="muted">Structured, bite-sized lessons with instant feedback.</p>
+          </div>
+          <ul class="checklist">
+            <li>Warm-up: अक्षर टॅप करा</li>
+            <li>Teach: स्वर/मात्रा ऑडिओ</li>
+            <li>Practice: 2 मिनी-गेम्स</li>
+            <li>Apply: शब्द व वाक्य वाचन</li>
+            <li>Reward: कथा अनलॉक</li>
+          </ul>
+          <button class="primary full">Begin lesson</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="outcomes" class="section">
+        <div class="section-header">
+          <h2>Core outcomes</h2>
+          <p>Measure success across reading, writing, and motivation.</p>
+        </div>
+        <div class="grid three">
+          <article class="card">
+            <h3>Reading</h3>
+            <ul>
+              <li>Recognize स्वर/व्यंजन, conjuncts, मात्रा.</li>
+              <li>Decode new words beyond memorization.</li>
+              <li>Read sentences, paragraphs, and stories.</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Writing</h3>
+            <ul>
+              <li>Correct stroke order and letter shapes.</li>
+              <li>Write बाराखडी combinations accurately.</li>
+              <li>Spell by sound + pattern, not copying.</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Motivation</h3>
+            <ul>
+              <li>Daily 5–10 minute habit with streaks.</li>
+              <li>Confidence-first feedback loops.</li>
+              <li>Parent-approved rewards and limits.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="curriculum" class="section alt">
+        <div class="section-header">
+          <h2>Curriculum map</h2>
+          <p>Progressive levels from pre-literacy to stories and writing.</p>
+        </div>
+        <div class="timeline" id="curriculumTimeline"></div>
+      </section>
+
+      <section id="lessons" class="section">
+        <div class="section-header">
+          <h2>Lesson architecture</h2>
+          <p>Every lesson is a mini adventure that balances instruction, play, and application.</p>
+        </div>
+        <div class="lesson-flow">
+          <div class="flow-step">Warm-up</div>
+          <div class="flow-step">Teach</div>
+          <div class="flow-step">Practice</div>
+          <div class="flow-step">Apply</div>
+          <div class="flow-step">Reward</div>
+        </div>
+        <div class="grid two" id="lessonCards"></div>
+      </section>
+
+      <section id="experience" class="section alt">
+        <div class="section-header">
+          <h2>Complete learning experience</h2>
+          <p>Product principles, content types, and game mechanics designed for kids and parents.</p>
+        </div>
+        <div class="grid three" id="experienceCards"></div>
+      </section>
+
+      <section id="system" class="section">
+        <div class="section-header">
+          <h2>System features</h2>
+          <p>Assessment, personalization, safety, and performance considerations.</p>
+        </div>
+        <div class="grid two" id="systemCards"></div>
+      </section>
+
+      <section id="mvp" class="section alt">
+        <div class="section-header">
+          <h2>MVP scope</h2>
+          <p>Build in 6–10 weeks with a focused, high-impact feature set.</p>
+        </div>
+        <div class="grid two">
+          <article class="card">
+            <h3>Included</h3>
+            <ul id="mvpIncluded"></ul>
+          </article>
+          <article class="card">
+            <h3>Later</h3>
+            <ul id="mvpLater"></ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="dashboard" class="section">
+        <div class="section-header">
+          <h2>Parent & teacher dashboard</h2>
+          <p>Clear progress tracking, mastery insights, and recommended next steps.</p>
+        </div>
+        <div class="grid three">
+          <article class="card">
+            <h3>Weekly progress</h3>
+            <p class="muted">Skills mastered, time spent, and streaks.</p>
+            <div class="progress-block">
+              <div>
+                <span>स्वर</span>
+                <span>10/13</span>
+              </div>
+              <div class="progress-bar"><span style="width: 77%"></span></div>
+            </div>
+            <div class="progress-block">
+              <div>
+                <span>बाराखडी</span>
+                <span>6/10</span>
+              </div>
+              <div class="progress-bar"><span style="width: 60%"></span></div>
+            </div>
+          </article>
+          <article class="card">
+            <h3>Weak areas</h3>
+            <ul>
+              <li>ि / ी confusion</li>
+              <li>क/ख minimal pairs</li>
+              <li>Sentence punctuation</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Next actions</h3>
+            <ul>
+              <li>2 lessons + 1 story this week</li>
+              <li>Print barakhadi worksheet</li>
+              <li>Replay “किरणची कथा”</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="roadmap" class="section alt">
+        <div class="section-header">
+          <h2>Roadmap & monetization</h2>
+          <p>Clear release milestones and parent-friendly business options.</p>
+        </div>
+        <div class="grid two">
+          <article class="card">
+            <h3>Product roadmap</h3>
+            <ul id="roadmapList"></ul>
+          </article>
+          <article class="card">
+            <h3>Monetization options</h3>
+            <ul id="monetizationList"></ul>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div>
+        <h2>Ready to build Marathi literacy together?</h2>
+        <p>Design for kids, data for parents, and stories as the reward.</p>
+      </div>
+      <button class="primary">Request a demo</button>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

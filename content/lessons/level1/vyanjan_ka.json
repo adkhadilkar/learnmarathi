@@ -1,0 +1,45 @@
+{
+  "id": "l1-vyanjan-ka",
+  "level": "Level 1",
+  "title": "व्यंजन क ओळख",
+  "targetSkills": ["letter-recognition", "handwriting"],
+  "durationMinutes": 6,
+  "warmup": {
+    "prompt": "क ओळखा",
+    "activity": "tap-the-letter"
+  },
+  "teach": {
+    "explanation": "हा व्यंजन क आहे. आपण क असा उच्चार करतो.",
+    "examples": ["क - काका", "क - कमळ"]
+  },
+  "practice": [
+    {
+      "type": "minimal-pair",
+      "instructions": "क आणि ख मधील फरक ऐका.",
+      "items": ["क", "ख"]
+    },
+    {
+      "type": "trace",
+      "instructions": "क चे योग्य रेघोटे काढा.",
+      "items": ["क"]
+    },
+    {
+      "type": "find-in-grid",
+      "instructions": "ग्रिडमध्ये क शोधा.",
+      "items": ["क", "ग", "घ"]
+    }
+  ],
+  "apply": {
+    "prompt": "चित्र पाहा आणि शब्द वाचा.",
+    "expected": ["काका", "कमळ"]
+  },
+  "reward": {
+    "type": "coin",
+    "label": "क कौशल्य नाणे"
+  },
+  "assets": {
+    "audio": ["audio/vyanjan/ka.mp3"],
+    "images": ["images/words/kamal.png"],
+    "strokePaths": ["strokes/ka.svg"]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "l1-swar-a",
+  "level": "Level 1",
+  "title": "स्वर अ ओळख",
+  "targetSkills": ["letter-recognition", "sound-symbol"],
+  "durationMinutes": 5,
+  "warmup": {
+    "prompt": "टॅप करा: अ",
+    "activity": "show-three-letters"
+  },
+  "teach": {
+    "explanation": "हा स्वर अ आहे. आपण अ असा उच्चार करतो.",
+    "examples": ["अ - अननस", "अ - अजगर"]
+  },
+  "practice": [
+    {
+      "type": "audio-match",
+      "instructions": "आवाज ऐका आणि योग्य अक्षर टॅप करा.",
+      "items": ["अ", "आ", "इ"]
+    },
+    {
+      "type": "trace",
+      "instructions": "अ चे योग्य रेघोटे दाखवल्याप्रमाणे काढा.",
+      "items": ["अ"]
+    }
+  ],
+  "apply": {
+    "prompt": "चित्र पाहा आणि शब्द वाचा.",
+    "expected": ["अननस", "अजगर"]
+  },
+  "reward": {
+    "type": "sticker",
+    "label": "अ अक्षर स्टिकर"
+  },
+  "assets": {
+    "audio": ["audio/swar/a.mp3", "audio/words/ananas.mp3"],
+    "images": ["images/words/ananas.png", "images/words/ajgar.png"],
+    "strokePaths": ["strokes/a.svg"]
+  }
+}
