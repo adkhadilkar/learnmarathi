@@ -41,15 +41,21 @@ export function Navbar({ theme, toggleTheme }: NavbarProps) {
     <nav className="sticky top-0 z-50 backdrop-blur-xl bg-lavender/85 dark:bg-dark-surface/85 border-b border-card-border dark:border-dark-border/60">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16 gap-4">
-          {/* Logo — tap acorn for easter egg */}
+          {/* Logo — goes home; rains acorns when you're already home 🌰 */}
           <div className="flex items-center gap-2.5">
-            <button onClick={dropAcorns} title="give it a tap 🌰" className="flex items-center gap-2.5 group">
+            <Link
+              to="/"
+              onClick={() => { if (location.pathname === '/') dropAcorns(); }}
+              title="Home — मुख्यपृष्ठ"
+              aria-label="Go to home page"
+              className="flex items-center gap-2.5 group"
+            >
               <AcornLogo />
               <div className="text-left leading-none">
                 <div className="font-display font-bold text-lg sm:text-xl text-rose">मराठी शिकूया</div>
                 <div className="text-[10px] font-bold tracking-[0.14em] text-ink-muted uppercase hidden sm:block">Learn Marathi</div>
               </div>
-            </button>
+            </Link>
           </div>
 
           {/* Desktop Nav */}

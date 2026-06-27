@@ -36,8 +36,8 @@ export function AlphabetCard({ item, index }: AlphabetCardProps) {
           {item.transliteration}
         </p>
 
-        {/* Example word - visible on hover */}
-        <div className="mt-2 min-h-[2.5rem] flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+        {/* Example word — always visible on touch, hover-reveal on desktop */}
+        <div className="mt-2 min-h-[2.5rem] flex flex-col items-center justify-center opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity duration-200">
           <p className="font-devanagari text-sm text-teal-dark dark:text-teal-light font-semibold">
             {item.exampleWord}
           </p>
