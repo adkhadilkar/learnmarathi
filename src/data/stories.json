@@ -1,0 +1,280 @@
+[
+  {
+    "id": "story-1",
+    "title": "ससा आणि कासव",
+    "titleEnglish": "The Hare and the Tortoise",
+    "level": "beginner",
+    "emoji": "🐢",
+    "coverImage": "/images/stories/story-1-cover.svg",
+    "sentences": [
+      {
+        "id": "story-1-s1",
+        "marathi": "एक ससा जंगलात राहत होता.",
+        "english": "A rabbit lived in a forest.",
+        "audio": "/audio/stories/story-1-s1.mp3"
+      },
+      {
+        "id": "story-1-s2",
+        "marathi": "तो खूप वेगाने पळत असे.",
+        "english": "He used to run very fast.",
+        "audio": "/audio/stories/story-1-s2.mp3"
+      },
+      {
+        "id": "story-1-s3",
+        "marathi": "एक कासव हळूहळू चालत होते.",
+        "english": "A tortoise was walking slowly.",
+        "audio": "/audio/stories/story-1-s3.mp3"
+      },
+      {
+        "id": "story-1-s4",
+        "marathi": "सशाने कासवाला शर्यतीसाठी आव्हान दिले.",
+        "english": "The rabbit challenged the tortoise to a race.",
+        "audio": "/audio/stories/story-1-s4.mp3"
+      },
+      {
+        "id": "story-1-s5",
+        "marathi": "शर्यत सुरू झाली.",
+        "english": "The race started.",
+        "audio": "/audio/stories/story-1-s5.mp3"
+      },
+      {
+        "id": "story-1-s6",
+        "marathi": "ससा पुढे गेला आणि झाडाखाली झोपला.",
+        "english": "The rabbit went ahead and slept under a tree.",
+        "audio": "/audio/stories/story-1-s6.mp3"
+      },
+      {
+        "id": "story-1-s7",
+        "marathi": "कासव हळूहळू पुढे गेले.",
+        "english": "The tortoise slowly moved ahead.",
+        "audio": "/audio/stories/story-1-s7.mp3"
+      },
+      {
+        "id": "story-1-s8",
+        "marathi": "कासव शर्यत जिंकले!",
+        "english": "The tortoise won the race!",
+        "audio": "/audio/stories/story-1-s8.mp3"
+      },
+      {
+        "id": "story-1-s9",
+        "marathi": "बोध: हळू पण खात्री.",
+        "english": "Moral: Slow and steady wins the race.",
+        "audio": "/audio/stories/story-1-s9.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-2",
+    "title": "तहानलेला कावळा",
+    "titleEnglish": "The Thirsty Crow",
+    "level": "beginner",
+    "emoji": "🪶",
+    "coverImage": "/images/stories/story-2-cover.svg",
+    "sentences": [
+      {
+        "id": "story-2-s1",
+        "marathi": "एक कावळा खूप तहानलेला होता.",
+        "english": "A crow was very thirsty.",
+        "audio": "/audio/stories/story-2-s1.mp3"
+      },
+      {
+        "id": "story-2-s2",
+        "marathi": "त्याला एक बरणी दिसली.",
+        "english": "He saw a pot.",
+        "audio": "/audio/stories/story-2-s2.mp3"
+      },
+      {
+        "id": "story-2-s3",
+        "marathi": "बरणीत थोडेच पाणी होते.",
+        "english": "There was very little water in the pot.",
+        "audio": "/audio/stories/story-2-s3.mp3"
+      },
+      {
+        "id": "story-2-s4",
+        "marathi": "कावळ्याची चोच पाण्यापर्यंत पोहोचत नव्हती.",
+        "english": "The crow's beak could not reach the water.",
+        "audio": "/audio/stories/story-2-s4.mp3"
+      },
+      {
+        "id": "story-2-s5",
+        "marathi": "त्याने एक कल्पना काढली.",
+        "english": "He came up with an idea.",
+        "audio": "/audio/stories/story-2-s5.mp3"
+      },
+      {
+        "id": "story-2-s6",
+        "marathi": "त्याने दगड बरणीत टाकले.",
+        "english": "He dropped pebbles into the pot.",
+        "audio": "/audio/stories/story-2-s6.mp3"
+      },
+      {
+        "id": "story-2-s7",
+        "marathi": "पाणी वर आले!",
+        "english": "The water came up!",
+        "audio": "/audio/stories/story-2-s7.mp3"
+      },
+      {
+        "id": "story-2-s8",
+        "marathi": "कावळ्याने पाणी प्यायले.",
+        "english": "The crow drank the water.",
+        "audio": "/audio/stories/story-2-s8.mp3"
+      },
+      {
+        "id": "story-2-s9",
+        "marathi": "बोध: बुद्धी हे बळ आहे.",
+        "english": "Moral: Intelligence is strength.",
+        "audio": "/audio/stories/story-2-s9.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-3",
+    "title": "सिंह आणि उंदीर",
+    "titleEnglish": "The Lion and the Mouse",
+    "level": "beginner",
+    "emoji": "🦁",
+    "coverImage": "/images/stories/story-3-cover.svg",
+    "sentences": [
+      {
+        "id": "story-3-s1",
+        "marathi": "एक सिंह जंगलात झोपला होता.",
+        "english": "A lion was sleeping in the forest.",
+        "audio": "/audio/stories/story-3-s1.mp3"
+      },
+      {
+        "id": "story-3-s2",
+        "marathi": "एक उंदीर सिंहाच्या अंगावर चढला.",
+        "english": "A mouse climbed on the lion's body.",
+        "audio": "/audio/stories/story-3-s2.mp3"
+      },
+      {
+        "id": "story-3-s3",
+        "marathi": "सिंह जागा झाला आणि रागावला.",
+        "english": "The lion woke up and got angry.",
+        "audio": "/audio/stories/story-3-s3.mp3"
+      },
+      {
+        "id": "story-3-s4",
+        "marathi": "उंदराने विनंती केली: 'मला सोडा, एक दिवस मी तुमची मदत करेन.'",
+        "english": "The mouse pleaded: 'Let me go, one day I will help you.'",
+        "audio": "/audio/stories/story-3-s4.mp3"
+      },
+      {
+        "id": "story-3-s5",
+        "marathi": "सिंहाने उंदराला सोडले.",
+        "english": "The lion let the mouse go.",
+        "audio": "/audio/stories/story-3-s5.mp3"
+      },
+      {
+        "id": "story-3-s6",
+        "marathi": "काही दिवसांनी, सिंह जाळ्यात अडकला.",
+        "english": "After a few days, the lion got trapped in a net.",
+        "audio": "/audio/stories/story-3-s6.mp3"
+      },
+      {
+        "id": "story-3-s7",
+        "marathi": "उंदराने जाळे कुरतडून सिंहाला सोडवले.",
+        "english": "The mouse gnawed through the net and freed the lion.",
+        "audio": "/audio/stories/story-3-s7.mp3"
+      },
+      {
+        "id": "story-3-s8",
+        "marathi": "बोध: कोणीही लहान नसतो.",
+        "english": "Moral: No one is too small to help.",
+        "audio": "/audio/stories/story-3-s8.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-4",
+    "title": "लोभी कुत्रा",
+    "titleEnglish": "The Greedy Dog",
+    "level": "beginner",
+    "emoji": "🐕",
+    "coverImage": "/images/stories/story-4-cover.svg",
+    "sentences": [
+      {
+        "id": "story-4-s1",
+        "marathi": "एका कुत्र्याला एक हाड सापडले.",
+        "english": "A dog found a bone.",
+        "audio": "/audio/stories/story-4-s1.mp3"
+      },
+      {
+        "id": "story-4-s2",
+        "marathi": "तो हाड घेऊन पुलावरून जात होता.",
+        "english": "He was crossing a bridge with the bone.",
+        "audio": "/audio/stories/story-4-s2.mp3"
+      },
+      {
+        "id": "story-4-s3",
+        "marathi": "त्याने पाण्यात स्वतःचे प्रतिबिंब पाहिले.",
+        "english": "He saw his own reflection in the water.",
+        "audio": "/audio/stories/story-4-s3.mp3"
+      },
+      {
+        "id": "story-4-s4",
+        "marathi": "त्याला वाटले दुसरा कुत्रा मोठे हाड घेऊन आहे.",
+        "english": "He thought another dog had a bigger bone.",
+        "audio": "/audio/stories/story-4-s4.mp3"
+      },
+      {
+        "id": "story-4-s5",
+        "marathi": "त्याने तोंड उघडले तेव्हा हाड पाण्यात पडले.",
+        "english": "When he opened his mouth, the bone fell into the water.",
+        "audio": "/audio/stories/story-4-s5.mp3"
+      },
+      {
+        "id": "story-4-s6",
+        "marathi": "बोध: लोभ हानिकारक असतो.",
+        "english": "Moral: Greed is harmful.",
+        "audio": "/audio/stories/story-4-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-5",
+    "title": "चतुर कोल्हा",
+    "titleEnglish": "The Clever Fox",
+    "level": "intermediate",
+    "emoji": "🦊",
+    "coverImage": "/images/stories/story-5-cover.svg",
+    "sentences": [
+      {
+        "id": "story-5-s1",
+        "marathi": "एका कोल्ह्याला एक सुंदर द्राक्षांचा घड दिसला.",
+        "english": "A fox saw a beautiful bunch of grapes.",
+        "audio": "/audio/stories/story-5-s1.mp3"
+      },
+      {
+        "id": "story-5-s2",
+        "marathi": "द्राक्षे खूप उंच होती.",
+        "english": "The grapes were very high.",
+        "audio": "/audio/stories/story-5-s2.mp3"
+      },
+      {
+        "id": "story-5-s3",
+        "marathi": "कोल्ह्याने पुन्हा पुन्हा उडी मारली.",
+        "english": "The fox jumped again and again.",
+        "audio": "/audio/stories/story-5-s3.mp3"
+      },
+      {
+        "id": "story-5-s4",
+        "marathi": "पण द्राक्षे हाताला लागली नाहीत.",
+        "english": "But the grapes were out of reach.",
+        "audio": "/audio/stories/story-5-s4.mp3"
+      },
+      {
+        "id": "story-5-s5",
+        "marathi": "शेवटी तो म्हणाला, 'ती द्राक्षे आंबट आहेत!'",
+        "english": "Finally he said, 'Those grapes are sour!'",
+        "audio": "/audio/stories/story-5-s5.mp3"
+      },
+      {
+        "id": "story-5-s6",
+        "marathi": "बोध: जे मिळत नाही ते नाकारणे सोपे असते.",
+        "english": "Moral: It's easy to despise what you cannot have.",
+        "audio": "/audio/stories/story-5-s6.mp3"
+      }
+    ]
+  }
+]

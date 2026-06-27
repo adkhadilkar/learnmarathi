@@ -1,0 +1,3133 @@
+[
+  {
+    "consonant": "क",
+    "forms": [
+      {
+        "text": "क",
+        "matra": "",
+        "transliteration": "ka",
+        "audio": "/audio/barakhadi/ka.mp3",
+        "exampleWord": "कमळ",
+        "exampleMeaning": "lotus"
+      },
+      {
+        "text": "का",
+        "matra": "ा",
+        "transliteration": "kaa",
+        "audio": "/audio/barakhadi/kaa.mp3",
+        "exampleWord": "काका",
+        "exampleMeaning": "uncle"
+      },
+      {
+        "text": "कि",
+        "matra": "ि",
+        "transliteration": "ki",
+        "audio": "/audio/barakhadi/ki.mp3",
+        "exampleWord": "किल्ला",
+        "exampleMeaning": "fort"
+      },
+      {
+        "text": "की",
+        "matra": "ी",
+        "transliteration": "kee",
+        "audio": "/audio/barakhadi/kee.mp3",
+        "exampleWord": "कीटक",
+        "exampleMeaning": "insect"
+      },
+      {
+        "text": "कु",
+        "matra": "ु",
+        "transliteration": "ku",
+        "audio": "/audio/barakhadi/ku.mp3",
+        "exampleWord": "कुत्रा",
+        "exampleMeaning": "dog"
+      },
+      {
+        "text": "कू",
+        "matra": "ू",
+        "transliteration": "koo",
+        "audio": "/audio/barakhadi/koo.mp3",
+        "exampleWord": "कूप",
+        "exampleMeaning": "well"
+      },
+      {
+        "text": "के",
+        "matra": "े",
+        "transliteration": "ke",
+        "audio": "/audio/barakhadi/ke.mp3",
+        "exampleWord": "केळ",
+        "exampleMeaning": "banana"
+      },
+      {
+        "text": "कै",
+        "matra": "ै",
+        "transliteration": "kai",
+        "audio": "/audio/barakhadi/kai.mp3",
+        "exampleWord": "कैरी",
+        "exampleMeaning": "raw mango"
+      },
+      {
+        "text": "को",
+        "matra": "ो",
+        "transliteration": "ko",
+        "audio": "/audio/barakhadi/ko.mp3",
+        "exampleWord": "कोंबडा",
+        "exampleMeaning": "rooster"
+      },
+      {
+        "text": "कौ",
+        "matra": "ौ",
+        "transliteration": "kau",
+        "audio": "/audio/barakhadi/kau.mp3",
+        "exampleWord": "कौशल्य",
+        "exampleMeaning": "skill"
+      },
+      {
+        "text": "कं",
+        "matra": "ं",
+        "transliteration": "kam",
+        "audio": "/audio/barakhadi/kam.mp3",
+        "exampleWord": "कंस",
+        "exampleMeaning": "bracket"
+      },
+      {
+        "text": "कः",
+        "matra": "ः",
+        "transliteration": "kah",
+        "audio": "/audio/barakhadi/kah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ख",
+    "forms": [
+      {
+        "text": "ख",
+        "matra": "",
+        "transliteration": "kha",
+        "audio": "/audio/barakhadi/kha.mp3",
+        "exampleWord": "खुर्ची",
+        "exampleMeaning": "chair"
+      },
+      {
+        "text": "खा",
+        "matra": "ा",
+        "transliteration": "khaa",
+        "audio": "/audio/barakhadi/khaa.mp3",
+        "exampleWord": "खारीक",
+        "exampleMeaning": "date"
+      },
+      {
+        "text": "खि",
+        "matra": "ि",
+        "transliteration": "khi",
+        "audio": "/audio/barakhadi/khi.mp3",
+        "exampleWord": "खिडकी",
+        "exampleMeaning": "window"
+      },
+      {
+        "text": "खी",
+        "matra": "ी",
+        "transliteration": "khee",
+        "audio": "/audio/barakhadi/khee.mp3",
+        "exampleWord": "खीर",
+        "exampleMeaning": "kheer"
+      },
+      {
+        "text": "खु",
+        "matra": "ु",
+        "transliteration": "khu",
+        "audio": "/audio/barakhadi/khu.mp3",
+        "exampleWord": "खुळा",
+        "exampleMeaning": "crazy"
+      },
+      {
+        "text": "खू",
+        "matra": "ू",
+        "transliteration": "khoo",
+        "audio": "/audio/barakhadi/khoo.mp3",
+        "exampleWord": "खूप",
+        "exampleMeaning": "much"
+      },
+      {
+        "text": "खे",
+        "matra": "े",
+        "transliteration": "khe",
+        "audio": "/audio/barakhadi/khe.mp3",
+        "exampleWord": "खेळ",
+        "exampleMeaning": "game"
+      },
+      {
+        "text": "खै",
+        "matra": "ै",
+        "transliteration": "khai",
+        "audio": "/audio/barakhadi/khai.mp3",
+        "exampleWord": "खैर",
+        "exampleMeaning": "well-being"
+      },
+      {
+        "text": "खो",
+        "matra": "ो",
+        "transliteration": "kho",
+        "audio": "/audio/barakhadi/kho.mp3",
+        "exampleWord": "खोली",
+        "exampleMeaning": "room"
+      },
+      {
+        "text": "खौ",
+        "matra": "ौ",
+        "transliteration": "khau",
+        "audio": "/audio/barakhadi/khau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "खं",
+        "matra": "ं",
+        "transliteration": "kham",
+        "audio": "/audio/barakhadi/kham.mp3",
+        "exampleWord": "खंजीर",
+        "exampleMeaning": "dagger"
+      },
+      {
+        "text": "खः",
+        "matra": "ः",
+        "transliteration": "khah",
+        "audio": "/audio/barakhadi/khah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ग",
+    "forms": [
+      {
+        "text": "ग",
+        "matra": "",
+        "transliteration": "ga",
+        "audio": "/audio/barakhadi/ga.mp3",
+        "exampleWord": "गाय",
+        "exampleMeaning": "cow"
+      },
+      {
+        "text": "गा",
+        "matra": "ा",
+        "transliteration": "gaa",
+        "audio": "/audio/barakhadi/gaa.mp3",
+        "exampleWord": "गाणे",
+        "exampleMeaning": "song"
+      },
+      {
+        "text": "गि",
+        "matra": "ि",
+        "transliteration": "gi",
+        "audio": "/audio/barakhadi/gi.mp3",
+        "exampleWord": "गिलास",
+        "exampleMeaning": "glass"
+      },
+      {
+        "text": "गी",
+        "matra": "ी",
+        "transliteration": "gee",
+        "audio": "/audio/barakhadi/gee.mp3",
+        "exampleWord": "गीत",
+        "exampleMeaning": "song"
+      },
+      {
+        "text": "गु",
+        "matra": "ु",
+        "transliteration": "gu",
+        "audio": "/audio/barakhadi/gu.mp3",
+        "exampleWord": "गुलाब",
+        "exampleMeaning": "rose"
+      },
+      {
+        "text": "गू",
+        "matra": "ू",
+        "transliteration": "goo",
+        "audio": "/audio/barakhadi/goo.mp3",
+        "exampleWord": "गूळ",
+        "exampleMeaning": "jaggery"
+      },
+      {
+        "text": "गे",
+        "matra": "े",
+        "transliteration": "ge",
+        "audio": "/audio/barakhadi/ge.mp3",
+        "exampleWord": "गेट",
+        "exampleMeaning": "gate"
+      },
+      {
+        "text": "गै",
+        "matra": "ै",
+        "transliteration": "gai",
+        "audio": "/audio/barakhadi/gai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "गो",
+        "matra": "ो",
+        "transliteration": "go",
+        "audio": "/audio/barakhadi/go.mp3",
+        "exampleWord": "गोळा",
+        "exampleMeaning": "ball"
+      },
+      {
+        "text": "गौ",
+        "matra": "ौ",
+        "transliteration": "gau",
+        "audio": "/audio/barakhadi/gau.mp3",
+        "exampleWord": "गौरव",
+        "exampleMeaning": "pride"
+      },
+      {
+        "text": "गं",
+        "matra": "ं",
+        "transliteration": "gam",
+        "audio": "/audio/barakhadi/gam.mp3",
+        "exampleWord": "गंमत",
+        "exampleMeaning": "fun"
+      },
+      {
+        "text": "गः",
+        "matra": "ः",
+        "transliteration": "gah",
+        "audio": "/audio/barakhadi/gah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "घ",
+    "forms": [
+      {
+        "text": "घ",
+        "matra": "",
+        "transliteration": "gha",
+        "audio": "/audio/barakhadi/gha.mp3",
+        "exampleWord": "घर",
+        "exampleMeaning": "house"
+      },
+      {
+        "text": "घा",
+        "matra": "ा",
+        "transliteration": "ghaa",
+        "audio": "/audio/barakhadi/ghaa.mp3",
+        "exampleWord": "घाम",
+        "exampleMeaning": "sweat"
+      },
+      {
+        "text": "घि",
+        "matra": "ि",
+        "transliteration": "ghi",
+        "audio": "/audio/barakhadi/ghi.mp3",
+        "exampleWord": "घिलाड",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "घी",
+        "matra": "ी",
+        "transliteration": "ghee",
+        "audio": "/audio/barakhadi/ghee.mp3",
+        "exampleWord": "घी",
+        "exampleMeaning": "ghee"
+      },
+      {
+        "text": "घु",
+        "matra": "ु",
+        "transliteration": "ghu",
+        "audio": "/audio/barakhadi/ghu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "घू",
+        "matra": "ू",
+        "transliteration": "ghoo",
+        "audio": "/audio/barakhadi/ghoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "घे",
+        "matra": "े",
+        "transliteration": "ghe",
+        "audio": "/audio/barakhadi/ghe.mp3",
+        "exampleWord": "घेणे",
+        "exampleMeaning": "to take"
+      },
+      {
+        "text": "घै",
+        "matra": "ै",
+        "transliteration": "ghai",
+        "audio": "/audio/barakhadi/ghai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "घो",
+        "matra": "ो",
+        "transliteration": "gho",
+        "audio": "/audio/barakhadi/gho.mp3",
+        "exampleWord": "घोडा",
+        "exampleMeaning": "horse"
+      },
+      {
+        "text": "घौ",
+        "matra": "ौ",
+        "transliteration": "ghau",
+        "audio": "/audio/barakhadi/ghau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "घं",
+        "matra": "ं",
+        "transliteration": "gham",
+        "audio": "/audio/barakhadi/gham.mp3",
+        "exampleWord": "घंटा",
+        "exampleMeaning": "bell"
+      },
+      {
+        "text": "घः",
+        "matra": "ः",
+        "transliteration": "ghah",
+        "audio": "/audio/barakhadi/ghah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "च",
+    "forms": [
+      {
+        "text": "च",
+        "matra": "",
+        "transliteration": "cha",
+        "audio": "/audio/barakhadi/cha.mp3",
+        "exampleWord": "चमचा",
+        "exampleMeaning": "spoon"
+      },
+      {
+        "text": "चा",
+        "matra": "ा",
+        "transliteration": "chaa",
+        "audio": "/audio/barakhadi/chaa.mp3",
+        "exampleWord": "चाँद",
+        "exampleMeaning": "moon"
+      },
+      {
+        "text": "चि",
+        "matra": "ि",
+        "transliteration": "chi",
+        "audio": "/audio/barakhadi/chi.mp3",
+        "exampleWord": "चित्र",
+        "exampleMeaning": "picture"
+      },
+      {
+        "text": "ची",
+        "matra": "ी",
+        "transliteration": "chee",
+        "audio": "/audio/barakhadi/chee.mp3",
+        "exampleWord": "चीज",
+        "exampleMeaning": "cheese"
+      },
+      {
+        "text": "चु",
+        "matra": "ु",
+        "transliteration": "chu",
+        "audio": "/audio/barakhadi/chu.mp3",
+        "exampleWord": "चुका",
+        "exampleMeaning": "mistakes"
+      },
+      {
+        "text": "चू",
+        "matra": "ू",
+        "transliteration": "choo",
+        "audio": "/audio/barakhadi/choo.mp3",
+        "exampleWord": "चूल",
+        "exampleMeaning": "stove"
+      },
+      {
+        "text": "चे",
+        "matra": "े",
+        "transliteration": "che",
+        "audio": "/audio/barakhadi/che.mp3",
+        "exampleWord": "चेंडू",
+        "exampleMeaning": "ball"
+      },
+      {
+        "text": "चै",
+        "matra": "ै",
+        "transliteration": "chai",
+        "audio": "/audio/barakhadi/chai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "चो",
+        "matra": "ो",
+        "transliteration": "cho",
+        "audio": "/audio/barakhadi/cho.mp3",
+        "exampleWord": "चोर",
+        "exampleMeaning": "thief"
+      },
+      {
+        "text": "चौ",
+        "matra": "ौ",
+        "transliteration": "chau",
+        "audio": "/audio/barakhadi/chau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "चं",
+        "matra": "ं",
+        "transliteration": "cham",
+        "audio": "/audio/barakhadi/cham.mp3",
+        "exampleWord": "चंद्र",
+        "exampleMeaning": "moon"
+      },
+      {
+        "text": "चः",
+        "matra": "ः",
+        "transliteration": "chah",
+        "audio": "/audio/barakhadi/chah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "छ",
+    "forms": [
+      {
+        "text": "छ",
+        "matra": "",
+        "transliteration": "chha",
+        "audio": "/audio/barakhadi/chha.mp3",
+        "exampleWord": "छत्री",
+        "exampleMeaning": "umbrella"
+      },
+      {
+        "text": "छा",
+        "matra": "ा",
+        "transliteration": "chhaa",
+        "audio": "/audio/barakhadi/chhaa.mp3",
+        "exampleWord": "छाया",
+        "exampleMeaning": "shadow"
+      },
+      {
+        "text": "छि",
+        "matra": "ि",
+        "transliteration": "chhi",
+        "audio": "/audio/barakhadi/chhi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छी",
+        "matra": "ी",
+        "transliteration": "chhee",
+        "audio": "/audio/barakhadi/chhee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छु",
+        "matra": "ु",
+        "transliteration": "chhu",
+        "audio": "/audio/barakhadi/chhu.mp3",
+        "exampleWord": "छुपा",
+        "exampleMeaning": "hidden"
+      },
+      {
+        "text": "छू",
+        "matra": "ू",
+        "transliteration": "chhoo",
+        "audio": "/audio/barakhadi/chhoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छे",
+        "matra": "े",
+        "transliteration": "chhe",
+        "audio": "/audio/barakhadi/chhe.mp3",
+        "exampleWord": "छेद",
+        "exampleMeaning": "cut"
+      },
+      {
+        "text": "छै",
+        "matra": "ै",
+        "transliteration": "chhai",
+        "audio": "/audio/barakhadi/chhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छो",
+        "matra": "ो",
+        "transliteration": "chho",
+        "audio": "/audio/barakhadi/chho.mp3",
+        "exampleWord": "छोटा",
+        "exampleMeaning": "small"
+      },
+      {
+        "text": "छौ",
+        "matra": "ौ",
+        "transliteration": "chhau",
+        "audio": "/audio/barakhadi/chhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छं",
+        "matra": "ं",
+        "transliteration": "chham",
+        "audio": "/audio/barakhadi/chham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "छः",
+        "matra": "ः",
+        "transliteration": "chhah",
+        "audio": "/audio/barakhadi/chhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ज",
+    "forms": [
+      {
+        "text": "ज",
+        "matra": "",
+        "transliteration": "ja",
+        "audio": "/audio/barakhadi/ja.mp3",
+        "exampleWord": "जहाज",
+        "exampleMeaning": "ship"
+      },
+      {
+        "text": "जा",
+        "matra": "ा",
+        "transliteration": "jaa",
+        "audio": "/audio/barakhadi/jaa.mp3",
+        "exampleWord": "जाळ",
+        "exampleMeaning": "net"
+      },
+      {
+        "text": "जि",
+        "matra": "ि",
+        "transliteration": "ji",
+        "audio": "/audio/barakhadi/ji.mp3",
+        "exampleWord": "जिराफ",
+        "exampleMeaning": "giraffe"
+      },
+      {
+        "text": "जी",
+        "matra": "ी",
+        "transliteration": "jee",
+        "audio": "/audio/barakhadi/jee.mp3",
+        "exampleWord": "जीव",
+        "exampleMeaning": "life"
+      },
+      {
+        "text": "जु",
+        "matra": "ु",
+        "transliteration": "ju",
+        "audio": "/audio/barakhadi/ju.mp3",
+        "exampleWord": "जुना",
+        "exampleMeaning": "old"
+      },
+      {
+        "text": "जू",
+        "matra": "ू",
+        "transliteration": "joo",
+        "audio": "/audio/barakhadi/joo.mp3",
+        "exampleWord": "जून",
+        "exampleMeaning": "June"
+      },
+      {
+        "text": "जे",
+        "matra": "े",
+        "transliteration": "je",
+        "audio": "/audio/barakhadi/je.mp3",
+        "exampleWord": "जेवण",
+        "exampleMeaning": "meal"
+      },
+      {
+        "text": "जै",
+        "matra": "ै",
+        "transliteration": "jai",
+        "audio": "/audio/barakhadi/jai.mp3",
+        "exampleWord": "जैन",
+        "exampleMeaning": "Jain"
+      },
+      {
+        "text": "जो",
+        "matra": "ो",
+        "transliteration": "jo",
+        "audio": "/audio/barakhadi/jo.mp3",
+        "exampleWord": "जोडा",
+        "exampleMeaning": "pair"
+      },
+      {
+        "text": "जौ",
+        "matra": "ौ",
+        "transliteration": "jau",
+        "audio": "/audio/barakhadi/jau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "जं",
+        "matra": "ं",
+        "transliteration": "jam",
+        "audio": "/audio/barakhadi/jam.mp3",
+        "exampleWord": "जंगल",
+        "exampleMeaning": "forest"
+      },
+      {
+        "text": "जः",
+        "matra": "ः",
+        "transliteration": "jah",
+        "audio": "/audio/barakhadi/jah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "झ",
+    "forms": [
+      {
+        "text": "झ",
+        "matra": "",
+        "transliteration": "jha",
+        "audio": "/audio/barakhadi/jha.mp3",
+        "exampleWord": "झाड",
+        "exampleMeaning": "tree"
+      },
+      {
+        "text": "झा",
+        "matra": "ा",
+        "transliteration": "jhaa",
+        "audio": "/audio/barakhadi/jhaa.mp3",
+        "exampleWord": "झाकण",
+        "exampleMeaning": "lid"
+      },
+      {
+        "text": "झि",
+        "matra": "ि",
+        "transliteration": "jhi",
+        "audio": "/audio/barakhadi/jhi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झी",
+        "matra": "ी",
+        "transliteration": "jhee",
+        "audio": "/audio/barakhadi/jhee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झु",
+        "matra": "ु",
+        "transliteration": "jhu",
+        "audio": "/audio/barakhadi/jhu.mp3",
+        "exampleWord": "झुला",
+        "exampleMeaning": "swing"
+      },
+      {
+        "text": "झू",
+        "matra": "ू",
+        "transliteration": "jhoo",
+        "audio": "/audio/barakhadi/jhoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झे",
+        "matra": "े",
+        "transliteration": "jhe",
+        "audio": "/audio/barakhadi/jhe.mp3",
+        "exampleWord": "झेंडा",
+        "exampleMeaning": "flag"
+      },
+      {
+        "text": "झै",
+        "matra": "ै",
+        "transliteration": "jhai",
+        "audio": "/audio/barakhadi/jhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झो",
+        "matra": "ो",
+        "transliteration": "jho",
+        "audio": "/audio/barakhadi/jho.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झौ",
+        "matra": "ौ",
+        "transliteration": "jhau",
+        "audio": "/audio/barakhadi/jhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झं",
+        "matra": "ं",
+        "transliteration": "jham",
+        "audio": "/audio/barakhadi/jham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "झः",
+        "matra": "ः",
+        "transliteration": "jhah",
+        "audio": "/audio/barakhadi/jhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ट",
+    "forms": [
+      {
+        "text": "ट",
+        "matra": "",
+        "transliteration": "Ta",
+        "audio": "/audio/barakhadi/txa.mp3",
+        "exampleWord": "टोपी",
+        "exampleMeaning": "cap"
+      },
+      {
+        "text": "टा",
+        "matra": "ा",
+        "transliteration": "Taa",
+        "audio": "/audio/barakhadi/txaa.mp3",
+        "exampleWord": "टाक",
+        "exampleMeaning": "put"
+      },
+      {
+        "text": "टि",
+        "matra": "ि",
+        "transliteration": "Ti",
+        "audio": "/audio/barakhadi/txi.mp3",
+        "exampleWord": "टिकली",
+        "exampleMeaning": "dot"
+      },
+      {
+        "text": "टी",
+        "matra": "ी",
+        "transliteration": "Tee",
+        "audio": "/audio/barakhadi/txee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "टु",
+        "matra": "ु",
+        "transliteration": "Tu",
+        "audio": "/audio/barakhadi/txu.mp3",
+        "exampleWord": "टुक",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "टू",
+        "matra": "ू",
+        "transliteration": "Too",
+        "audio": "/audio/barakhadi/txoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "टे",
+        "matra": "े",
+        "transliteration": "Te",
+        "audio": "/audio/barakhadi/txe.mp3",
+        "exampleWord": "टेबल",
+        "exampleMeaning": "table"
+      },
+      {
+        "text": "टै",
+        "matra": "ै",
+        "transliteration": "Tai",
+        "audio": "/audio/barakhadi/txai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "टो",
+        "matra": "ो",
+        "transliteration": "To",
+        "audio": "/audio/barakhadi/txo.mp3",
+        "exampleWord": "टोमॅटो",
+        "exampleMeaning": "tomato"
+      },
+      {
+        "text": "टौ",
+        "matra": "ौ",
+        "transliteration": "Tau",
+        "audio": "/audio/barakhadi/txau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "टं",
+        "matra": "ं",
+        "transliteration": "Tam",
+        "audio": "/audio/barakhadi/txam.mp3",
+        "exampleWord": "टंक",
+        "exampleMeaning": "mint"
+      },
+      {
+        "text": "टः",
+        "matra": "ः",
+        "transliteration": "Tah",
+        "audio": "/audio/barakhadi/txah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ठ",
+    "forms": [
+      {
+        "text": "ठ",
+        "matra": "",
+        "transliteration": "Tha",
+        "audio": "/audio/barakhadi/txha.mp3",
+        "exampleWord": "ठसा",
+        "exampleMeaning": "stamp"
+      },
+      {
+        "text": "ठा",
+        "matra": "ा",
+        "transliteration": "Thaa",
+        "audio": "/audio/barakhadi/txhaa.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठि",
+        "matra": "ि",
+        "transliteration": "Thi",
+        "audio": "/audio/barakhadi/txhi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठी",
+        "matra": "ी",
+        "transliteration": "Thee",
+        "audio": "/audio/barakhadi/txhee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठु",
+        "matra": "ु",
+        "transliteration": "Thu",
+        "audio": "/audio/barakhadi/txhu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठू",
+        "matra": "ू",
+        "transliteration": "Thoo",
+        "audio": "/audio/barakhadi/txhoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठे",
+        "matra": "े",
+        "transliteration": "The",
+        "audio": "/audio/barakhadi/txhe.mp3",
+        "exampleWord": "ठेवा",
+        "exampleMeaning": "treasure"
+      },
+      {
+        "text": "ठै",
+        "matra": "ै",
+        "transliteration": "Thai",
+        "audio": "/audio/barakhadi/txhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठो",
+        "matra": "ो",
+        "transliteration": "Tho",
+        "audio": "/audio/barakhadi/txho.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठौ",
+        "matra": "ौ",
+        "transliteration": "Thau",
+        "audio": "/audio/barakhadi/txhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठं",
+        "matra": "ं",
+        "transliteration": "Tham",
+        "audio": "/audio/barakhadi/txham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ठः",
+        "matra": "ः",
+        "transliteration": "Thah",
+        "audio": "/audio/barakhadi/txhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ड",
+    "forms": [
+      {
+        "text": "ड",
+        "matra": "",
+        "transliteration": "Da",
+        "audio": "/audio/barakhadi/dxa.mp3",
+        "exampleWord": "डोळा",
+        "exampleMeaning": "eye"
+      },
+      {
+        "text": "डा",
+        "matra": "ा",
+        "transliteration": "Daa",
+        "audio": "/audio/barakhadi/dxaa.mp3",
+        "exampleWord": "डाव",
+        "exampleMeaning": "turn"
+      },
+      {
+        "text": "डि",
+        "matra": "ि",
+        "transliteration": "Di",
+        "audio": "/audio/barakhadi/dxi.mp3",
+        "exampleWord": "डिंक",
+        "exampleMeaning": "gum"
+      },
+      {
+        "text": "डी",
+        "matra": "ी",
+        "transliteration": "Dee",
+        "audio": "/audio/barakhadi/dxee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "डु",
+        "matra": "ु",
+        "transliteration": "Du",
+        "audio": "/audio/barakhadi/dxu.mp3",
+        "exampleWord": "डुक्कर",
+        "exampleMeaning": "pig"
+      },
+      {
+        "text": "डू",
+        "matra": "ू",
+        "transliteration": "Doo",
+        "audio": "/audio/barakhadi/dxoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "डे",
+        "matra": "े",
+        "transliteration": "De",
+        "audio": "/audio/barakhadi/dxe.mp3",
+        "exampleWord": "डेरा",
+        "exampleMeaning": "camp"
+      },
+      {
+        "text": "डै",
+        "matra": "ै",
+        "transliteration": "Dai",
+        "audio": "/audio/barakhadi/dxai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "डो",
+        "matra": "ो",
+        "transliteration": "Do",
+        "audio": "/audio/barakhadi/dxo.mp3",
+        "exampleWord": "डोंगर",
+        "exampleMeaning": "mountain"
+      },
+      {
+        "text": "डौ",
+        "matra": "ौ",
+        "transliteration": "Dau",
+        "audio": "/audio/barakhadi/dxau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "डं",
+        "matra": "ं",
+        "transliteration": "Dam",
+        "audio": "/audio/barakhadi/dxam.mp3",
+        "exampleWord": "डंक",
+        "exampleMeaning": "sting"
+      },
+      {
+        "text": "डः",
+        "matra": "ः",
+        "transliteration": "Dah",
+        "audio": "/audio/barakhadi/dxah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ढ",
+    "forms": [
+      {
+        "text": "ढ",
+        "matra": "",
+        "transliteration": "Dha",
+        "audio": "/audio/barakhadi/dxha.mp3",
+        "exampleWord": "ढग",
+        "exampleMeaning": "cloud"
+      },
+      {
+        "text": "ढा",
+        "matra": "ा",
+        "transliteration": "Dhaa",
+        "audio": "/audio/barakhadi/dxhaa.mp3",
+        "exampleWord": "ढाल",
+        "exampleMeaning": "shield"
+      },
+      {
+        "text": "ढि",
+        "matra": "ि",
+        "transliteration": "Dhi",
+        "audio": "/audio/barakhadi/dxhi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढी",
+        "matra": "ी",
+        "transliteration": "Dhee",
+        "audio": "/audio/barakhadi/dxhee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढु",
+        "matra": "ु",
+        "transliteration": "Dhu",
+        "audio": "/audio/barakhadi/dxhu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढू",
+        "matra": "ू",
+        "transliteration": "Dhoo",
+        "audio": "/audio/barakhadi/dxhoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढे",
+        "matra": "े",
+        "transliteration": "Dhe",
+        "audio": "/audio/barakhadi/dxhe.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढै",
+        "matra": "ै",
+        "transliteration": "Dhai",
+        "audio": "/audio/barakhadi/dxhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढो",
+        "matra": "ो",
+        "transliteration": "Dho",
+        "audio": "/audio/barakhadi/dxho.mp3",
+        "exampleWord": "ढोल",
+        "exampleMeaning": "drum"
+      },
+      {
+        "text": "ढौ",
+        "matra": "ौ",
+        "transliteration": "Dhau",
+        "audio": "/audio/barakhadi/dxhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढं",
+        "matra": "ं",
+        "transliteration": "Dham",
+        "audio": "/audio/barakhadi/dxham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ढः",
+        "matra": "ः",
+        "transliteration": "Dhah",
+        "audio": "/audio/barakhadi/dxhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ण",
+    "forms": [
+      {
+        "text": "ण",
+        "matra": "",
+        "transliteration": "Na",
+        "audio": "/audio/barakhadi/nxa.mp3",
+        "exampleWord": "बाण",
+        "exampleMeaning": "arrow"
+      },
+      {
+        "text": "णा",
+        "matra": "ा",
+        "transliteration": "Naa",
+        "audio": "/audio/barakhadi/nxaa.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णि",
+        "matra": "ि",
+        "transliteration": "Ni",
+        "audio": "/audio/barakhadi/nxi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णी",
+        "matra": "ी",
+        "transliteration": "Nee",
+        "audio": "/audio/barakhadi/nxee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णु",
+        "matra": "ु",
+        "transliteration": "Nu",
+        "audio": "/audio/barakhadi/nxu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णू",
+        "matra": "ू",
+        "transliteration": "Noo",
+        "audio": "/audio/barakhadi/nxoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णे",
+        "matra": "े",
+        "transliteration": "Ne",
+        "audio": "/audio/barakhadi/nxe.mp3",
+        "exampleWord": "रणे",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णै",
+        "matra": "ै",
+        "transliteration": "Nai",
+        "audio": "/audio/barakhadi/nxai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णो",
+        "matra": "ो",
+        "transliteration": "No",
+        "audio": "/audio/barakhadi/nxo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णौ",
+        "matra": "ौ",
+        "transliteration": "Nau",
+        "audio": "/audio/barakhadi/nxau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णं",
+        "matra": "ं",
+        "transliteration": "Nam",
+        "audio": "/audio/barakhadi/nxam.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "णः",
+        "matra": "ः",
+        "transliteration": "Nah",
+        "audio": "/audio/barakhadi/nxah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "त",
+    "forms": [
+      {
+        "text": "त",
+        "matra": "",
+        "transliteration": "ta",
+        "audio": "/audio/barakhadi/ta.mp3",
+        "exampleWord": "तारा",
+        "exampleMeaning": "star"
+      },
+      {
+        "text": "ता",
+        "matra": "ा",
+        "transliteration": "taa",
+        "audio": "/audio/barakhadi/taa.mp3",
+        "exampleWord": "ताम्हण",
+        "exampleMeaning": "plate"
+      },
+      {
+        "text": "ति",
+        "matra": "ि",
+        "transliteration": "ti",
+        "audio": "/audio/barakhadi/ti.mp3",
+        "exampleWord": "तिळ",
+        "exampleMeaning": "sesame"
+      },
+      {
+        "text": "ती",
+        "matra": "ी",
+        "transliteration": "tee",
+        "audio": "/audio/barakhadi/tee.mp3",
+        "exampleWord": "तीर",
+        "exampleMeaning": "arrow"
+      },
+      {
+        "text": "तु",
+        "matra": "ु",
+        "transliteration": "tu",
+        "audio": "/audio/barakhadi/tu.mp3",
+        "exampleWord": "तुरी",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "तू",
+        "matra": "ू",
+        "transliteration": "too",
+        "audio": "/audio/barakhadi/too.mp3",
+        "exampleWord": "तूप",
+        "exampleMeaning": "ghee"
+      },
+      {
+        "text": "ते",
+        "matra": "े",
+        "transliteration": "te",
+        "audio": "/audio/barakhadi/te.mp3",
+        "exampleWord": "तेल",
+        "exampleMeaning": "oil"
+      },
+      {
+        "text": "तै",
+        "matra": "ै",
+        "transliteration": "tai",
+        "audio": "/audio/barakhadi/tai.mp3",
+        "exampleWord": "तैलचित्र",
+        "exampleMeaning": "oil painting"
+      },
+      {
+        "text": "तो",
+        "matra": "ो",
+        "transliteration": "to",
+        "audio": "/audio/barakhadi/to.mp3",
+        "exampleWord": "तोंड",
+        "exampleMeaning": "mouth"
+      },
+      {
+        "text": "तौ",
+        "matra": "ौ",
+        "transliteration": "tau",
+        "audio": "/audio/barakhadi/tau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "तं",
+        "matra": "ं",
+        "transliteration": "tam",
+        "audio": "/audio/barakhadi/tam.mp3",
+        "exampleWord": "तंबू",
+        "exampleMeaning": "tent"
+      },
+      {
+        "text": "तः",
+        "matra": "ः",
+        "transliteration": "tah",
+        "audio": "/audio/barakhadi/tah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "थ",
+    "forms": [
+      {
+        "text": "थ",
+        "matra": "",
+        "transliteration": "tha",
+        "audio": "/audio/barakhadi/tha.mp3",
+        "exampleWord": "थंडी",
+        "exampleMeaning": "cold"
+      },
+      {
+        "text": "था",
+        "matra": "ा",
+        "transliteration": "thaa",
+        "audio": "/audio/barakhadi/thaa.mp3",
+        "exampleWord": "थाळी",
+        "exampleMeaning": "plate"
+      },
+      {
+        "text": "थि",
+        "matra": "ि",
+        "transliteration": "thi",
+        "audio": "/audio/barakhadi/thi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "थी",
+        "matra": "ी",
+        "transliteration": "thee",
+        "audio": "/audio/barakhadi/thee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "थु",
+        "matra": "ु",
+        "transliteration": "thu",
+        "audio": "/audio/barakhadi/thu.mp3",
+        "exampleWord": "थुंकणे",
+        "exampleMeaning": "to spit"
+      },
+      {
+        "text": "थू",
+        "matra": "ू",
+        "transliteration": "thoo",
+        "audio": "/audio/barakhadi/thoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "थे",
+        "matra": "े",
+        "transliteration": "the",
+        "audio": "/audio/barakhadi/the.mp3",
+        "exampleWord": "थेट",
+        "exampleMeaning": "direct"
+      },
+      {
+        "text": "थै",
+        "matra": "ै",
+        "transliteration": "thai",
+        "audio": "/audio/barakhadi/thai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "थो",
+        "matra": "ो",
+        "transliteration": "tho",
+        "audio": "/audio/barakhadi/tho.mp3",
+        "exampleWord": "थोडा",
+        "exampleMeaning": "little"
+      },
+      {
+        "text": "थौ",
+        "matra": "ौ",
+        "transliteration": "thau",
+        "audio": "/audio/barakhadi/thau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "थं",
+        "matra": "ं",
+        "transliteration": "tham",
+        "audio": "/audio/barakhadi/tham.mp3",
+        "exampleWord": "थंब",
+        "exampleMeaning": "drop"
+      },
+      {
+        "text": "थः",
+        "matra": "ः",
+        "transliteration": "thah",
+        "audio": "/audio/barakhadi/thah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "द",
+    "forms": [
+      {
+        "text": "द",
+        "matra": "",
+        "transliteration": "da",
+        "audio": "/audio/barakhadi/da.mp3",
+        "exampleWord": "दिवा",
+        "exampleMeaning": "lamp"
+      },
+      {
+        "text": "दा",
+        "matra": "ा",
+        "transliteration": "daa",
+        "audio": "/audio/barakhadi/daa.mp3",
+        "exampleWord": "दार",
+        "exampleMeaning": "door"
+      },
+      {
+        "text": "दि",
+        "matra": "ि",
+        "transliteration": "di",
+        "audio": "/audio/barakhadi/di.mp3",
+        "exampleWord": "दिवस",
+        "exampleMeaning": "day"
+      },
+      {
+        "text": "दी",
+        "matra": "ी",
+        "transliteration": "dee",
+        "audio": "/audio/barakhadi/dee.mp3",
+        "exampleWord": "दीर",
+        "exampleMeaning": "brother-in-law"
+      },
+      {
+        "text": "दु",
+        "matra": "ु",
+        "transliteration": "du",
+        "audio": "/audio/barakhadi/du.mp3",
+        "exampleWord": "दुध",
+        "exampleMeaning": "milk"
+      },
+      {
+        "text": "दू",
+        "matra": "ू",
+        "transliteration": "doo",
+        "audio": "/audio/barakhadi/doo.mp3",
+        "exampleWord": "दूर",
+        "exampleMeaning": "far"
+      },
+      {
+        "text": "दे",
+        "matra": "े",
+        "transliteration": "de",
+        "audio": "/audio/barakhadi/de.mp3",
+        "exampleWord": "देव",
+        "exampleMeaning": "god"
+      },
+      {
+        "text": "दै",
+        "matra": "ै",
+        "transliteration": "dai",
+        "audio": "/audio/barakhadi/dai.mp3",
+        "exampleWord": "दैव",
+        "exampleMeaning": "fate"
+      },
+      {
+        "text": "दो",
+        "matra": "ो",
+        "transliteration": "do",
+        "audio": "/audio/barakhadi/do.mp3",
+        "exampleWord": "दोर",
+        "exampleMeaning": "rope"
+      },
+      {
+        "text": "दौ",
+        "matra": "ौ",
+        "transliteration": "dau",
+        "audio": "/audio/barakhadi/dau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "दं",
+        "matra": "ं",
+        "transliteration": "dam",
+        "audio": "/audio/barakhadi/dam.mp3",
+        "exampleWord": "दंत",
+        "exampleMeaning": "tooth"
+      },
+      {
+        "text": "दः",
+        "matra": "ः",
+        "transliteration": "dah",
+        "audio": "/audio/barakhadi/dah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ध",
+    "forms": [
+      {
+        "text": "ध",
+        "matra": "",
+        "transliteration": "dha",
+        "audio": "/audio/barakhadi/dha.mp3",
+        "exampleWord": "धनुष्य",
+        "exampleMeaning": "bow"
+      },
+      {
+        "text": "धा",
+        "matra": "ा",
+        "transliteration": "dhaa",
+        "audio": "/audio/barakhadi/dhaa.mp3",
+        "exampleWord": "धान्य",
+        "exampleMeaning": "grain"
+      },
+      {
+        "text": "धि",
+        "matra": "ि",
+        "transliteration": "dhi",
+        "audio": "/audio/barakhadi/dhi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "धी",
+        "matra": "ी",
+        "transliteration": "dhee",
+        "audio": "/audio/barakhadi/dhee.mp3",
+        "exampleWord": "धीर",
+        "exampleMeaning": "patience"
+      },
+      {
+        "text": "धु",
+        "matra": "ु",
+        "transliteration": "dhu",
+        "audio": "/audio/barakhadi/dhu.mp3",
+        "exampleWord": "धुणे",
+        "exampleMeaning": "to wash"
+      },
+      {
+        "text": "धू",
+        "matra": "ू",
+        "transliteration": "dhoo",
+        "audio": "/audio/barakhadi/dhoo.mp3",
+        "exampleWord": "धूप",
+        "exampleMeaning": "incense"
+      },
+      {
+        "text": "धे",
+        "matra": "े",
+        "transliteration": "dhe",
+        "audio": "/audio/barakhadi/dhe.mp3",
+        "exampleWord": "धेनू",
+        "exampleMeaning": "cow"
+      },
+      {
+        "text": "धै",
+        "matra": "ै",
+        "transliteration": "dhai",
+        "audio": "/audio/barakhadi/dhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "धो",
+        "matra": "ो",
+        "transliteration": "dho",
+        "audio": "/audio/barakhadi/dho.mp3",
+        "exampleWord": "धोबी",
+        "exampleMeaning": "washerman"
+      },
+      {
+        "text": "धौ",
+        "matra": "ौ",
+        "transliteration": "dhau",
+        "audio": "/audio/barakhadi/dhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "धं",
+        "matra": "ं",
+        "transliteration": "dham",
+        "audio": "/audio/barakhadi/dham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "धः",
+        "matra": "ः",
+        "transliteration": "dhah",
+        "audio": "/audio/barakhadi/dhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "न",
+    "forms": [
+      {
+        "text": "न",
+        "matra": "",
+        "transliteration": "na",
+        "audio": "/audio/barakhadi/na.mp3",
+        "exampleWord": "नदी",
+        "exampleMeaning": "river"
+      },
+      {
+        "text": "ना",
+        "matra": "ा",
+        "transliteration": "naa",
+        "audio": "/audio/barakhadi/naa.mp3",
+        "exampleWord": "नाक",
+        "exampleMeaning": "nose"
+      },
+      {
+        "text": "नि",
+        "matra": "ि",
+        "transliteration": "ni",
+        "audio": "/audio/barakhadi/ni.mp3",
+        "exampleWord": "निळा",
+        "exampleMeaning": "blue"
+      },
+      {
+        "text": "नी",
+        "matra": "ी",
+        "transliteration": "nee",
+        "audio": "/audio/barakhadi/nee.mp3",
+        "exampleWord": "नीट",
+        "exampleMeaning": "proper"
+      },
+      {
+        "text": "नु",
+        "matra": "ु",
+        "transliteration": "nu",
+        "audio": "/audio/barakhadi/nu.mp3",
+        "exampleWord": "नुकसान",
+        "exampleMeaning": "loss"
+      },
+      {
+        "text": "नू",
+        "matra": "ू",
+        "transliteration": "noo",
+        "audio": "/audio/barakhadi/noo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ने",
+        "matra": "े",
+        "transliteration": "ne",
+        "audio": "/audio/barakhadi/ne.mp3",
+        "exampleWord": "नेत्र",
+        "exampleMeaning": "eye"
+      },
+      {
+        "text": "नै",
+        "matra": "ै",
+        "transliteration": "nai",
+        "audio": "/audio/barakhadi/nai.mp3",
+        "exampleWord": "नैवेद्य",
+        "exampleMeaning": "offering"
+      },
+      {
+        "text": "नो",
+        "matra": "ो",
+        "transliteration": "no",
+        "audio": "/audio/barakhadi/no.mp3",
+        "exampleWord": "नोकर",
+        "exampleMeaning": "servant"
+      },
+      {
+        "text": "नौ",
+        "matra": "ौ",
+        "transliteration": "nau",
+        "audio": "/audio/barakhadi/nau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "नं",
+        "matra": "ं",
+        "transliteration": "nam",
+        "audio": "/audio/barakhadi/nam.mp3",
+        "exampleWord": "नंदन",
+        "exampleMeaning": "garden"
+      },
+      {
+        "text": "नः",
+        "matra": "ः",
+        "transliteration": "nah",
+        "audio": "/audio/barakhadi/nah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "प",
+    "forms": [
+      {
+        "text": "प",
+        "matra": "",
+        "transliteration": "pa",
+        "audio": "/audio/barakhadi/pa.mp3",
+        "exampleWord": "पतंग",
+        "exampleMeaning": "kite"
+      },
+      {
+        "text": "पा",
+        "matra": "ा",
+        "transliteration": "paa",
+        "audio": "/audio/barakhadi/paa.mp3",
+        "exampleWord": "पान",
+        "exampleMeaning": "leaf"
+      },
+      {
+        "text": "पि",
+        "matra": "ि",
+        "transliteration": "pi",
+        "audio": "/audio/barakhadi/pi.mp3",
+        "exampleWord": "पिशवी",
+        "exampleMeaning": "bag"
+      },
+      {
+        "text": "पी",
+        "matra": "ी",
+        "transliteration": "pee",
+        "audio": "/audio/barakhadi/pee.mp3",
+        "exampleWord": "पीठ",
+        "exampleMeaning": "flour"
+      },
+      {
+        "text": "पु",
+        "matra": "ु",
+        "transliteration": "pu",
+        "audio": "/audio/barakhadi/pu.mp3",
+        "exampleWord": "पुस्तक",
+        "exampleMeaning": "book"
+      },
+      {
+        "text": "पू",
+        "matra": "ू",
+        "transliteration": "poo",
+        "audio": "/audio/barakhadi/poo.mp3",
+        "exampleWord": "पूल",
+        "exampleMeaning": "bridge"
+      },
+      {
+        "text": "पे",
+        "matra": "े",
+        "transliteration": "pe",
+        "audio": "/audio/barakhadi/pe.mp3",
+        "exampleWord": "पेन",
+        "exampleMeaning": "pen"
+      },
+      {
+        "text": "पै",
+        "matra": "ै",
+        "transliteration": "pai",
+        "audio": "/audio/barakhadi/pai.mp3",
+        "exampleWord": "पैसा",
+        "exampleMeaning": "money"
+      },
+      {
+        "text": "पो",
+        "matra": "ो",
+        "transliteration": "po",
+        "audio": "/audio/barakhadi/po.mp3",
+        "exampleWord": "पोळी",
+        "exampleMeaning": "roti"
+      },
+      {
+        "text": "पौ",
+        "matra": "ौ",
+        "transliteration": "pau",
+        "audio": "/audio/barakhadi/pau.mp3",
+        "exampleWord": "पौर्णिमा",
+        "exampleMeaning": "full moon"
+      },
+      {
+        "text": "पं",
+        "matra": "ं",
+        "transliteration": "pam",
+        "audio": "/audio/barakhadi/pam.mp3",
+        "exampleWord": "पंख",
+        "exampleMeaning": "wing"
+      },
+      {
+        "text": "पः",
+        "matra": "ः",
+        "transliteration": "pah",
+        "audio": "/audio/barakhadi/pah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "फ",
+    "forms": [
+      {
+        "text": "फ",
+        "matra": "",
+        "transliteration": "pha",
+        "audio": "/audio/barakhadi/pha.mp3",
+        "exampleWord": "फुलपाखरू",
+        "exampleMeaning": "butterfly"
+      },
+      {
+        "text": "फा",
+        "matra": "ा",
+        "transliteration": "phaa",
+        "audio": "/audio/barakhadi/phaa.mp3",
+        "exampleWord": "फाटा",
+        "exampleMeaning": "branch"
+      },
+      {
+        "text": "फि",
+        "matra": "ि",
+        "transliteration": "phi",
+        "audio": "/audio/barakhadi/phi.mp3",
+        "exampleWord": "फिरणे",
+        "exampleMeaning": "to roam"
+      },
+      {
+        "text": "फी",
+        "matra": "ी",
+        "transliteration": "phee",
+        "audio": "/audio/barakhadi/phee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "फु",
+        "matra": "ु",
+        "transliteration": "phu",
+        "audio": "/audio/barakhadi/phu.mp3",
+        "exampleWord": "फुल",
+        "exampleMeaning": "flower"
+      },
+      {
+        "text": "फू",
+        "matra": "ू",
+        "transliteration": "phoo",
+        "audio": "/audio/barakhadi/phoo.mp3",
+        "exampleWord": "फूट",
+        "exampleMeaning": "foot"
+      },
+      {
+        "text": "फे",
+        "matra": "े",
+        "transliteration": "phe",
+        "audio": "/audio/barakhadi/phe.mp3",
+        "exampleWord": "फेरी",
+        "exampleMeaning": "trip"
+      },
+      {
+        "text": "फै",
+        "matra": "ै",
+        "transliteration": "phai",
+        "audio": "/audio/barakhadi/phai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "फो",
+        "matra": "ो",
+        "transliteration": "pho",
+        "audio": "/audio/barakhadi/pho.mp3",
+        "exampleWord": "फोडणी",
+        "exampleMeaning": "tempering"
+      },
+      {
+        "text": "फौ",
+        "matra": "ौ",
+        "transliteration": "phau",
+        "audio": "/audio/barakhadi/phau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "फं",
+        "matra": "ं",
+        "transliteration": "pham",
+        "audio": "/audio/barakhadi/pham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "फः",
+        "matra": "ः",
+        "transliteration": "phah",
+        "audio": "/audio/barakhadi/phah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ब",
+    "forms": [
+      {
+        "text": "ब",
+        "matra": "",
+        "transliteration": "ba",
+        "audio": "/audio/barakhadi/ba.mp3",
+        "exampleWord": "बदक",
+        "exampleMeaning": "duck"
+      },
+      {
+        "text": "बा",
+        "matra": "ा",
+        "transliteration": "baa",
+        "audio": "/audio/barakhadi/baa.mp3",
+        "exampleWord": "बाग",
+        "exampleMeaning": "garden"
+      },
+      {
+        "text": "बि",
+        "matra": "ि",
+        "transliteration": "bi",
+        "audio": "/audio/barakhadi/bi.mp3",
+        "exampleWord": "बिल",
+        "exampleMeaning": "bill"
+      },
+      {
+        "text": "बी",
+        "matra": "ी",
+        "transliteration": "bee",
+        "audio": "/audio/barakhadi/bee.mp3",
+        "exampleWord": "बीज",
+        "exampleMeaning": "seed"
+      },
+      {
+        "text": "बु",
+        "matra": "ु",
+        "transliteration": "bu",
+        "audio": "/audio/barakhadi/bu.mp3",
+        "exampleWord": "बुद्धी",
+        "exampleMeaning": "intelligence"
+      },
+      {
+        "text": "बू",
+        "matra": "ू",
+        "transliteration": "boo",
+        "audio": "/audio/barakhadi/boo.mp3",
+        "exampleWord": "बूट",
+        "exampleMeaning": "boot"
+      },
+      {
+        "text": "बे",
+        "matra": "े",
+        "transliteration": "be",
+        "audio": "/audio/barakhadi/be.mp3",
+        "exampleWord": "बेल",
+        "exampleMeaning": "vine"
+      },
+      {
+        "text": "बै",
+        "matra": "ै",
+        "transliteration": "bai",
+        "audio": "/audio/barakhadi/bai.mp3",
+        "exampleWord": "बैल",
+        "exampleMeaning": "ox"
+      },
+      {
+        "text": "बो",
+        "matra": "ो",
+        "transliteration": "bo",
+        "audio": "/audio/barakhadi/bo.mp3",
+        "exampleWord": "बोट",
+        "exampleMeaning": "finger"
+      },
+      {
+        "text": "बौ",
+        "matra": "ौ",
+        "transliteration": "bau",
+        "audio": "/audio/barakhadi/bau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "बं",
+        "matra": "ं",
+        "transliteration": "bam",
+        "audio": "/audio/barakhadi/bam.mp3",
+        "exampleWord": "बंगला",
+        "exampleMeaning": "bungalow"
+      },
+      {
+        "text": "बः",
+        "matra": "ः",
+        "transliteration": "bah",
+        "audio": "/audio/barakhadi/bah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "भ",
+    "forms": [
+      {
+        "text": "भ",
+        "matra": "",
+        "transliteration": "bha",
+        "audio": "/audio/barakhadi/bha.mp3",
+        "exampleWord": "भात",
+        "exampleMeaning": "rice"
+      },
+      {
+        "text": "भा",
+        "matra": "ा",
+        "transliteration": "bhaa",
+        "audio": "/audio/barakhadi/bhaa.mp3",
+        "exampleWord": "भाजी",
+        "exampleMeaning": "vegetable"
+      },
+      {
+        "text": "भि",
+        "matra": "ि",
+        "transliteration": "bhi",
+        "audio": "/audio/barakhadi/bhi.mp3",
+        "exampleWord": "भिंत",
+        "exampleMeaning": "wall"
+      },
+      {
+        "text": "भी",
+        "matra": "ी",
+        "transliteration": "bhee",
+        "audio": "/audio/barakhadi/bhee.mp3",
+        "exampleWord": "भीती",
+        "exampleMeaning": "fear"
+      },
+      {
+        "text": "भु",
+        "matra": "ु",
+        "transliteration": "bhu",
+        "audio": "/audio/barakhadi/bhu.mp3",
+        "exampleWord": "भुकेला",
+        "exampleMeaning": "hungry"
+      },
+      {
+        "text": "भू",
+        "matra": "ू",
+        "transliteration": "bhoo",
+        "audio": "/audio/barakhadi/bhoo.mp3",
+        "exampleWord": "भूक",
+        "exampleMeaning": "hunger"
+      },
+      {
+        "text": "भे",
+        "matra": "े",
+        "transliteration": "bhe",
+        "audio": "/audio/barakhadi/bhe.mp3",
+        "exampleWord": "भेट",
+        "exampleMeaning": "gift"
+      },
+      {
+        "text": "भै",
+        "matra": "ै",
+        "transliteration": "bhai",
+        "audio": "/audio/barakhadi/bhai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "भो",
+        "matra": "ो",
+        "transliteration": "bho",
+        "audio": "/audio/barakhadi/bho.mp3",
+        "exampleWord": "भोपळा",
+        "exampleMeaning": "pumpkin"
+      },
+      {
+        "text": "भौ",
+        "matra": "ौ",
+        "transliteration": "bhau",
+        "audio": "/audio/barakhadi/bhau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "भं",
+        "matra": "ं",
+        "transliteration": "bham",
+        "audio": "/audio/barakhadi/bham.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "भः",
+        "matra": "ः",
+        "transliteration": "bhah",
+        "audio": "/audio/barakhadi/bhah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "म",
+    "forms": [
+      {
+        "text": "म",
+        "matra": "",
+        "transliteration": "ma",
+        "audio": "/audio/barakhadi/ma.mp3",
+        "exampleWord": "मोर",
+        "exampleMeaning": "peacock"
+      },
+      {
+        "text": "मा",
+        "matra": "ा",
+        "transliteration": "maa",
+        "audio": "/audio/barakhadi/maa.mp3",
+        "exampleWord": "माणूस",
+        "exampleMeaning": "person"
+      },
+      {
+        "text": "मि",
+        "matra": "ि",
+        "transliteration": "mi",
+        "audio": "/audio/barakhadi/mi.mp3",
+        "exampleWord": "मिठाई",
+        "exampleMeaning": "sweets"
+      },
+      {
+        "text": "मी",
+        "matra": "ी",
+        "transliteration": "mee",
+        "audio": "/audio/barakhadi/mee.mp3",
+        "exampleWord": "मीठ",
+        "exampleMeaning": "salt"
+      },
+      {
+        "text": "मु",
+        "matra": "ु",
+        "transliteration": "mu",
+        "audio": "/audio/barakhadi/mu.mp3",
+        "exampleWord": "मुलगा",
+        "exampleMeaning": "boy"
+      },
+      {
+        "text": "मू",
+        "matra": "ू",
+        "transliteration": "moo",
+        "audio": "/audio/barakhadi/moo.mp3",
+        "exampleWord": "मूळ",
+        "exampleMeaning": "root"
+      },
+      {
+        "text": "मे",
+        "matra": "े",
+        "transliteration": "me",
+        "audio": "/audio/barakhadi/me.mp3",
+        "exampleWord": "मेघ",
+        "exampleMeaning": "cloud"
+      },
+      {
+        "text": "मै",
+        "matra": "ै",
+        "transliteration": "mai",
+        "audio": "/audio/barakhadi/mai.mp3",
+        "exampleWord": "मैदान",
+        "exampleMeaning": "ground"
+      },
+      {
+        "text": "मो",
+        "matra": "ो",
+        "transliteration": "mo",
+        "audio": "/audio/barakhadi/mo.mp3",
+        "exampleWord": "मोती",
+        "exampleMeaning": "pearl"
+      },
+      {
+        "text": "मौ",
+        "matra": "ौ",
+        "transliteration": "mau",
+        "audio": "/audio/barakhadi/mau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "मं",
+        "matra": "ं",
+        "transliteration": "mam",
+        "audio": "/audio/barakhadi/mam.mp3",
+        "exampleWord": "मंदिर",
+        "exampleMeaning": "temple"
+      },
+      {
+        "text": "मः",
+        "matra": "ः",
+        "transliteration": "mah",
+        "audio": "/audio/barakhadi/mah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "य",
+    "forms": [
+      {
+        "text": "य",
+        "matra": "",
+        "transliteration": "ya",
+        "audio": "/audio/barakhadi/ya.mp3",
+        "exampleWord": "यंत्र",
+        "exampleMeaning": "machine"
+      },
+      {
+        "text": "या",
+        "matra": "ा",
+        "transliteration": "yaa",
+        "audio": "/audio/barakhadi/yaa.mp3",
+        "exampleWord": "यात्रा",
+        "exampleMeaning": "journey"
+      },
+      {
+        "text": "यि",
+        "matra": "ि",
+        "transliteration": "yi",
+        "audio": "/audio/barakhadi/yi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "यी",
+        "matra": "ी",
+        "transliteration": "yee",
+        "audio": "/audio/barakhadi/yee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "यु",
+        "matra": "ु",
+        "transliteration": "yu",
+        "audio": "/audio/barakhadi/yu.mp3",
+        "exampleWord": "युद्ध",
+        "exampleMeaning": "war"
+      },
+      {
+        "text": "यू",
+        "matra": "ू",
+        "transliteration": "yoo",
+        "audio": "/audio/barakhadi/yoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ये",
+        "matra": "े",
+        "transliteration": "ye",
+        "audio": "/audio/barakhadi/ye.mp3",
+        "exampleWord": "येणे",
+        "exampleMeaning": "to come"
+      },
+      {
+        "text": "यै",
+        "matra": "ै",
+        "transliteration": "yai",
+        "audio": "/audio/barakhadi/yai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "यो",
+        "matra": "ो",
+        "transliteration": "yo",
+        "audio": "/audio/barakhadi/yo.mp3",
+        "exampleWord": "योग",
+        "exampleMeaning": "yoga"
+      },
+      {
+        "text": "यौ",
+        "matra": "ौ",
+        "transliteration": "yau",
+        "audio": "/audio/barakhadi/yau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "यं",
+        "matra": "ं",
+        "transliteration": "yam",
+        "audio": "/audio/barakhadi/yam.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "यः",
+        "matra": "ः",
+        "transliteration": "yah",
+        "audio": "/audio/barakhadi/yah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "र",
+    "forms": [
+      {
+        "text": "र",
+        "matra": "",
+        "transliteration": "ra",
+        "audio": "/audio/barakhadi/ra.mp3",
+        "exampleWord": "रथ",
+        "exampleMeaning": "chariot"
+      },
+      {
+        "text": "रा",
+        "matra": "ा",
+        "transliteration": "raa",
+        "audio": "/audio/barakhadi/raa.mp3",
+        "exampleWord": "राजा",
+        "exampleMeaning": "king"
+      },
+      {
+        "text": "रि",
+        "matra": "ि",
+        "transliteration": "ri",
+        "audio": "/audio/barakhadi/ri.mp3",
+        "exampleWord": "रिक्षा",
+        "exampleMeaning": "rickshaw"
+      },
+      {
+        "text": "री",
+        "matra": "ी",
+        "transliteration": "ree",
+        "audio": "/audio/barakhadi/ree.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "रु",
+        "matra": "ु",
+        "transliteration": "ru",
+        "audio": "/audio/barakhadi/ru.mp3",
+        "exampleWord": "रुमाल",
+        "exampleMeaning": "handkerchief"
+      },
+      {
+        "text": "रू",
+        "matra": "ू",
+        "transliteration": "roo",
+        "audio": "/audio/barakhadi/roo.mp3",
+        "exampleWord": "रूप",
+        "exampleMeaning": "form"
+      },
+      {
+        "text": "रे",
+        "matra": "े",
+        "transliteration": "re",
+        "audio": "/audio/barakhadi/re.mp3",
+        "exampleWord": "रेल्वे",
+        "exampleMeaning": "railway"
+      },
+      {
+        "text": "रै",
+        "matra": "ै",
+        "transliteration": "rai",
+        "audio": "/audio/barakhadi/rai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "रो",
+        "matra": "ो",
+        "transliteration": "ro",
+        "audio": "/audio/barakhadi/ro.mp3",
+        "exampleWord": "रोज",
+        "exampleMeaning": "daily"
+      },
+      {
+        "text": "रौ",
+        "matra": "ौ",
+        "transliteration": "rau",
+        "audio": "/audio/barakhadi/rau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "रं",
+        "matra": "ं",
+        "transliteration": "ram",
+        "audio": "/audio/barakhadi/ram.mp3",
+        "exampleWord": "रंग",
+        "exampleMeaning": "color"
+      },
+      {
+        "text": "रः",
+        "matra": "ः",
+        "transliteration": "rah",
+        "audio": "/audio/barakhadi/rah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ल",
+    "forms": [
+      {
+        "text": "ल",
+        "matra": "",
+        "transliteration": "la",
+        "audio": "/audio/barakhadi/la.mp3",
+        "exampleWord": "लिंबू",
+        "exampleMeaning": "lemon"
+      },
+      {
+        "text": "ला",
+        "matra": "ा",
+        "transliteration": "laa",
+        "audio": "/audio/barakhadi/laa.mp3",
+        "exampleWord": "लाल",
+        "exampleMeaning": "red"
+      },
+      {
+        "text": "लि",
+        "matra": "ि",
+        "transliteration": "li",
+        "audio": "/audio/barakhadi/li.mp3",
+        "exampleWord": "लिखाण",
+        "exampleMeaning": "writing"
+      },
+      {
+        "text": "ली",
+        "matra": "ी",
+        "transliteration": "lee",
+        "audio": "/audio/barakhadi/lee.mp3",
+        "exampleWord": "लीला",
+        "exampleMeaning": "play"
+      },
+      {
+        "text": "लु",
+        "matra": "ु",
+        "transliteration": "lu",
+        "audio": "/audio/barakhadi/lu.mp3",
+        "exampleWord": "लुटणे",
+        "exampleMeaning": "to rob"
+      },
+      {
+        "text": "लू",
+        "matra": "ू",
+        "transliteration": "loo",
+        "audio": "/audio/barakhadi/loo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ले",
+        "matra": "े",
+        "transliteration": "le",
+        "audio": "/audio/barakhadi/le.mp3",
+        "exampleWord": "लेखणी",
+        "exampleMeaning": "pen"
+      },
+      {
+        "text": "लै",
+        "matra": "ै",
+        "transliteration": "lai",
+        "audio": "/audio/barakhadi/lai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "लो",
+        "matra": "ो",
+        "transliteration": "lo",
+        "audio": "/audio/barakhadi/lo.mp3",
+        "exampleWord": "लोक",
+        "exampleMeaning": "people"
+      },
+      {
+        "text": "लौ",
+        "matra": "ौ",
+        "transliteration": "lau",
+        "audio": "/audio/barakhadi/lau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "लं",
+        "matra": "ं",
+        "transliteration": "lam",
+        "audio": "/audio/barakhadi/lam.mp3",
+        "exampleWord": "लंबा",
+        "exampleMeaning": "tall"
+      },
+      {
+        "text": "लः",
+        "matra": "ः",
+        "transliteration": "lah",
+        "audio": "/audio/barakhadi/lah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "व",
+    "forms": [
+      {
+        "text": "व",
+        "matra": "",
+        "transliteration": "va",
+        "audio": "/audio/barakhadi/va.mp3",
+        "exampleWord": "वाघ",
+        "exampleMeaning": "tiger"
+      },
+      {
+        "text": "वा",
+        "matra": "ा",
+        "transliteration": "vaa",
+        "audio": "/audio/barakhadi/vaa.mp3",
+        "exampleWord": "वारा",
+        "exampleMeaning": "wind"
+      },
+      {
+        "text": "वि",
+        "matra": "ि",
+        "transliteration": "vi",
+        "audio": "/audio/barakhadi/vi.mp3",
+        "exampleWord": "विद्या",
+        "exampleMeaning": "education"
+      },
+      {
+        "text": "वी",
+        "matra": "ी",
+        "transliteration": "vee",
+        "audio": "/audio/barakhadi/vee.mp3",
+        "exampleWord": "वीर",
+        "exampleMeaning": "brave"
+      },
+      {
+        "text": "वु",
+        "matra": "ु",
+        "transliteration": "vu",
+        "audio": "/audio/barakhadi/vu.mp3",
+        "exampleWord": "वृक्ष",
+        "exampleMeaning": "tree"
+      },
+      {
+        "text": "वू",
+        "matra": "ू",
+        "transliteration": "voo",
+        "audio": "/audio/barakhadi/voo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "वे",
+        "matra": "े",
+        "transliteration": "ve",
+        "audio": "/audio/barakhadi/ve.mp3",
+        "exampleWord": "वेळ",
+        "exampleMeaning": "time"
+      },
+      {
+        "text": "वै",
+        "matra": "ै",
+        "transliteration": "vai",
+        "audio": "/audio/barakhadi/vai.mp3",
+        "exampleWord": "वैद्य",
+        "exampleMeaning": "doctor"
+      },
+      {
+        "text": "वो",
+        "matra": "ो",
+        "transliteration": "vo",
+        "audio": "/audio/barakhadi/vo.mp3",
+        "exampleWord": "वोट",
+        "exampleMeaning": "vote"
+      },
+      {
+        "text": "वौ",
+        "matra": "ौ",
+        "transliteration": "vau",
+        "audio": "/audio/barakhadi/vau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "वं",
+        "matra": "ं",
+        "transliteration": "vam",
+        "audio": "/audio/barakhadi/vam.mp3",
+        "exampleWord": "वंश",
+        "exampleMeaning": "family"
+      },
+      {
+        "text": "वः",
+        "matra": "ः",
+        "transliteration": "vah",
+        "audio": "/audio/barakhadi/vah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "श",
+    "forms": [
+      {
+        "text": "श",
+        "matra": "",
+        "transliteration": "sha",
+        "audio": "/audio/barakhadi/sha.mp3",
+        "exampleWord": "शाळा",
+        "exampleMeaning": "school"
+      },
+      {
+        "text": "शा",
+        "matra": "ा",
+        "transliteration": "shaa",
+        "audio": "/audio/barakhadi/shaa.mp3",
+        "exampleWord": "शांत",
+        "exampleMeaning": "calm"
+      },
+      {
+        "text": "शि",
+        "matra": "ि",
+        "transliteration": "shi",
+        "audio": "/audio/barakhadi/shi.mp3",
+        "exampleWord": "शिक्षक",
+        "exampleMeaning": "teacher"
+      },
+      {
+        "text": "शी",
+        "matra": "ी",
+        "transliteration": "shee",
+        "audio": "/audio/barakhadi/shee.mp3",
+        "exampleWord": "शीतल",
+        "exampleMeaning": "cool"
+      },
+      {
+        "text": "शु",
+        "matra": "ु",
+        "transliteration": "shu",
+        "audio": "/audio/barakhadi/shu.mp3",
+        "exampleWord": "शुभ",
+        "exampleMeaning": "auspicious"
+      },
+      {
+        "text": "शू",
+        "matra": "ू",
+        "transliteration": "shoo",
+        "audio": "/audio/barakhadi/shoo.mp3",
+        "exampleWord": "शून्य",
+        "exampleMeaning": "zero"
+      },
+      {
+        "text": "शे",
+        "matra": "े",
+        "transliteration": "she",
+        "audio": "/audio/barakhadi/she.mp3",
+        "exampleWord": "शेत",
+        "exampleMeaning": "farm"
+      },
+      {
+        "text": "शै",
+        "matra": "ै",
+        "transliteration": "shai",
+        "audio": "/audio/barakhadi/shai.mp3",
+        "exampleWord": "शैली",
+        "exampleMeaning": "style"
+      },
+      {
+        "text": "शो",
+        "matra": "ो",
+        "transliteration": "sho",
+        "audio": "/audio/barakhadi/sho.mp3",
+        "exampleWord": "शोध",
+        "exampleMeaning": "discovery"
+      },
+      {
+        "text": "शौ",
+        "matra": "ौ",
+        "transliteration": "shau",
+        "audio": "/audio/barakhadi/shau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "शं",
+        "matra": "ं",
+        "transliteration": "sham",
+        "audio": "/audio/barakhadi/sham.mp3",
+        "exampleWord": "शंख",
+        "exampleMeaning": "conch"
+      },
+      {
+        "text": "शः",
+        "matra": "ः",
+        "transliteration": "shah",
+        "audio": "/audio/barakhadi/shah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "स",
+    "forms": [
+      {
+        "text": "स",
+        "matra": "",
+        "transliteration": "sa",
+        "audio": "/audio/barakhadi/sa.mp3",
+        "exampleWord": "सूर्य",
+        "exampleMeaning": "sun"
+      },
+      {
+        "text": "सा",
+        "matra": "ा",
+        "transliteration": "saa",
+        "audio": "/audio/barakhadi/saa.mp3",
+        "exampleWord": "साप",
+        "exampleMeaning": "snake"
+      },
+      {
+        "text": "सि",
+        "matra": "ि",
+        "transliteration": "si",
+        "audio": "/audio/barakhadi/si.mp3",
+        "exampleWord": "सिंह",
+        "exampleMeaning": "lion"
+      },
+      {
+        "text": "सी",
+        "matra": "ी",
+        "transliteration": "see",
+        "audio": "/audio/barakhadi/see.mp3",
+        "exampleWord": "सीता",
+        "exampleMeaning": "Sita"
+      },
+      {
+        "text": "सु",
+        "matra": "ु",
+        "transliteration": "su",
+        "audio": "/audio/barakhadi/su.mp3",
+        "exampleWord": "सुर",
+        "exampleMeaning": "melody"
+      },
+      {
+        "text": "सू",
+        "matra": "ू",
+        "transliteration": "soo",
+        "audio": "/audio/barakhadi/soo.mp3",
+        "exampleWord": "सूत",
+        "exampleMeaning": "thread"
+      },
+      {
+        "text": "से",
+        "matra": "े",
+        "transliteration": "se",
+        "audio": "/audio/barakhadi/se.mp3",
+        "exampleWord": "सेब",
+        "exampleMeaning": "apple"
+      },
+      {
+        "text": "सै",
+        "matra": "ै",
+        "transliteration": "sai",
+        "audio": "/audio/barakhadi/sai.mp3",
+        "exampleWord": "सैनिक",
+        "exampleMeaning": "soldier"
+      },
+      {
+        "text": "सो",
+        "matra": "ो",
+        "transliteration": "so",
+        "audio": "/audio/barakhadi/so.mp3",
+        "exampleWord": "सोने",
+        "exampleMeaning": "gold"
+      },
+      {
+        "text": "सौ",
+        "matra": "ौ",
+        "transliteration": "sau",
+        "audio": "/audio/barakhadi/sau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "सं",
+        "matra": "ं",
+        "transliteration": "sam",
+        "audio": "/audio/barakhadi/sam.mp3",
+        "exampleWord": "संगीत",
+        "exampleMeaning": "music"
+      },
+      {
+        "text": "सः",
+        "matra": "ः",
+        "transliteration": "sah",
+        "audio": "/audio/barakhadi/sah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ह",
+    "forms": [
+      {
+        "text": "ह",
+        "matra": "",
+        "transliteration": "ha",
+        "audio": "/audio/barakhadi/ha.mp3",
+        "exampleWord": "हत्ती",
+        "exampleMeaning": "elephant"
+      },
+      {
+        "text": "हा",
+        "matra": "ा",
+        "transliteration": "haa",
+        "audio": "/audio/barakhadi/haa.mp3",
+        "exampleWord": "हात",
+        "exampleMeaning": "hand"
+      },
+      {
+        "text": "हि",
+        "matra": "ि",
+        "transliteration": "hi",
+        "audio": "/audio/barakhadi/hi.mp3",
+        "exampleWord": "हिरवा",
+        "exampleMeaning": "green"
+      },
+      {
+        "text": "ही",
+        "matra": "ी",
+        "transliteration": "hee",
+        "audio": "/audio/barakhadi/hee.mp3",
+        "exampleWord": "हीरा",
+        "exampleMeaning": "diamond"
+      },
+      {
+        "text": "हु",
+        "matra": "ु",
+        "transliteration": "hu",
+        "audio": "/audio/barakhadi/hu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "हू",
+        "matra": "ू",
+        "transliteration": "hoo",
+        "audio": "/audio/barakhadi/hoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "हे",
+        "matra": "े",
+        "transliteration": "he",
+        "audio": "/audio/barakhadi/he.mp3",
+        "exampleWord": "हे",
+        "exampleMeaning": "this"
+      },
+      {
+        "text": "है",
+        "matra": "ै",
+        "transliteration": "hai",
+        "audio": "/audio/barakhadi/hai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "हो",
+        "matra": "ो",
+        "transliteration": "ho",
+        "audio": "/audio/barakhadi/ho.mp3",
+        "exampleWord": "होडी",
+        "exampleMeaning": "boat"
+      },
+      {
+        "text": "हौ",
+        "matra": "ौ",
+        "transliteration": "hau",
+        "audio": "/audio/barakhadi/hau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "हं",
+        "matra": "ं",
+        "transliteration": "ham",
+        "audio": "/audio/barakhadi/ham.mp3",
+        "exampleWord": "हंस",
+        "exampleMeaning": "swan"
+      },
+      {
+        "text": "हः",
+        "matra": "ः",
+        "transliteration": "hah",
+        "audio": "/audio/barakhadi/hah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  },
+  {
+    "consonant": "ळ",
+    "forms": [
+      {
+        "text": "ळ",
+        "matra": "",
+        "transliteration": "La",
+        "audio": "/audio/barakhadi/lxa.mp3",
+        "exampleWord": "फळ",
+        "exampleMeaning": "fruit"
+      },
+      {
+        "text": "ळा",
+        "matra": "ा",
+        "transliteration": "Laa",
+        "audio": "/audio/barakhadi/lxaa.mp3",
+        "exampleWord": "काळा",
+        "exampleMeaning": "black"
+      },
+      {
+        "text": "ळि",
+        "matra": "ि",
+        "transliteration": "Li",
+        "audio": "/audio/barakhadi/lxi.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळी",
+        "matra": "ी",
+        "transliteration": "Lee",
+        "audio": "/audio/barakhadi/lxee.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळु",
+        "matra": "ु",
+        "transliteration": "Lu",
+        "audio": "/audio/barakhadi/lxu.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळू",
+        "matra": "ू",
+        "transliteration": "Loo",
+        "audio": "/audio/barakhadi/lxoo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळे",
+        "matra": "े",
+        "transliteration": "Le",
+        "audio": "/audio/barakhadi/lxe.mp3",
+        "exampleWord": "खेळ",
+        "exampleMeaning": "game"
+      },
+      {
+        "text": "ळै",
+        "matra": "ै",
+        "transliteration": "Lai",
+        "audio": "/audio/barakhadi/lxai.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळो",
+        "matra": "ो",
+        "transliteration": "Lo",
+        "audio": "/audio/barakhadi/lxo.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळौ",
+        "matra": "ौ",
+        "transliteration": "Lau",
+        "audio": "/audio/barakhadi/lxau.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळं",
+        "matra": "ं",
+        "transliteration": "Lam",
+        "audio": "/audio/barakhadi/lxam.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      },
+      {
+        "text": "ळः",
+        "matra": "ः",
+        "transliteration": "Lah",
+        "audio": "/audio/barakhadi/lxah.mp3",
+        "exampleWord": "",
+        "exampleMeaning": ""
+      }
+    ]
+  }
+]

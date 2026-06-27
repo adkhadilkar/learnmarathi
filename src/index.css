@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Brand palette (Shekru-inspired, refined) */
+  --color-grape: #5B3FD6;
+  --color-grape-light: #7B63E8;
+  --color-grape-dark: #4830B0;
+  --color-rose: #E84A8A;
+  --color-rose-light: #F06CA3;
+  --color-rose-dark: #C0307A;
+  --color-jade: #16B69A;
+  --color-jade-light: #3DCFB4;
+  --color-jade-dark: #0E8C77;
+  --color-gold: #FFC94D;
+  --color-gold-dark: #FF9F1C;
+  --color-ink: #1C1640;
+  --color-ink-soft: #4A4470;
+  --color-ink-muted: #837DA0;
+
+  /* Light surfaces */
+  --color-lavender: #F4F1FF;
+  --color-lavender-soft: #EFEAFD;
+  --color-card-border: #E7E3F7;
+
+  /* Dark surfaces */
+  --color-dark-bg: #14102B;
+  --color-dark-surface: #1E183D;
+  --color-dark-card: #2A2350;
+  --color-dark-border: #3A3270;
+
+  /* Legacy aliases (mapped to new palette for consistency) */
+  --color-saffron: #E84A8A;
+  --color-saffron-light: #F06CA3;
+  --color-saffron-dark: #C0307A;
+  --color-teal: #16B69A;
+  --color-teal-light: #3DCFB4;
+  --color-teal-dark: #0E8C77;
+  --color-accent: #FFC94D;
+  --color-accent-light: #FFD98A;
+  --color-success: #3DCFB4;
+  --color-cream: #F4F1FF;
+
+  /* Fonts */
+  --font-family-devanagari: 'Noto Sans Devanagari', sans-serif;
+  --font-family-display: 'Fredoka', 'Baloo 2', sans-serif;
+  --font-family-round: 'Baloo 2', sans-serif;
+  --font-family-sans: 'Mulish', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  font-weight: 600;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-ink);
+}
+
+.font-devanagari { font-family: var(--font-family-devanagari); }
+.font-display { font-family: var(--font-family-display); }
+.font-round { font-family: var(--font-family-round); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 9px; height: 9px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #C9C0EC; border-radius: 5px; }
+.dark ::-webkit-scrollbar-thumb { background: #3A3270; }
+
+/* ============ Animations ============ */
+@keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-12px)} }
+.animate-float { animation: float 3.2s ease-in-out infinite; }
+
+@keyframes bob2 { 0%,100%{transform:translateY(0) rotate(-6deg)} 50%{transform:translateY(-16px) rotate(6deg)} }
+.animate-bob2 { animation: bob2 5s ease-in-out infinite; }
+
+@keyframes acorn-fall { 0%{transform:translateY(-12vh) rotate(0)} 100%{transform:translateY(112vh) rotate(680deg)} }
+.animate-acorn { animation: acorn-fall linear forwards; }
+
+@keyframes confetti-fall { 0%{transform:translateY(-100vh) rotate(0deg);opacity:1} 100%{transform:translateY(100vh) rotate(720deg);opacity:0} }
+.confetti-piece { animation: confetti-fall 3s ease-out forwards; }
+
+@keyframes sound-bar { 0%,100%{height:9px} 50%{height:24px} }
+
+@keyframes shake { 0%,100%{transform:translateX(0)} 20%,60%{transform:translateX(-9px)} 40%,80%{transform:translateX(9px)} }
+.animate-shake { animation: shake 0.4s ease; }
+
+@keyframes leaf-burst { 0%{transform:translate(0,0) rotate(0);opacity:1} 100%{transform:translate(var(--tx),var(--ty)) rotate(var(--rot));opacity:0} }
+.leaf-burst { animation: leaf-burst 1s ease-out forwards; }
+
+/* Squirrel mascot animations */
+@keyframes shk-bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-9px)} }
+@keyframes shk-wag { 0%,100%{transform:rotate(-7deg)} 50%{transform:rotate(9deg)} }
+@keyframes shk-wave { 0%,100%{transform:rotate(-4deg)} 50%{transform:rotate(26deg)} }
+@keyframes shk-blink { 0%,90%,100%{transform:scaleY(1)} 95%{transform:scaleY(.12)} }
+@keyframes shk-breathe { 0%,100%{transform:scaleY(1) scaleX(1)} 50%{transform:scaleY(1.045) scaleX(.99)} }
+@keyframes shk-ear { 0%,84%,100%{transform:rotate(0)} 90%{transform:rotate(-14deg)} 95%{transform:rotate(-4deg)} }
+@keyframes shk-earR { 0%,78%,100%{transform:rotate(0)} 86%{transform:rotate(13deg)} 92%{transform:rotate(3deg)} }
+@keyframes shk-hop { 0%{transform:translateY(0) scaleY(1)} 12%{transform:translateY(0) scaleY(.82) scaleX(1.12)} 32%{transform:translateY(-42px) scaleY(1.14) scaleX(.9)} 52%{transform:translateY(0) scaleY(.85) scaleX(1.12)} 68%{transform:translateY(-13px) scaleY(1.05)} 84%{transform:translateY(0) scaleY(.96)} 100%{transform:translateY(0) scaleY(1)} }
+@keyframes shk-bubble { 0%{transform:translateX(-50%) scale(0)} 70%{transform:translateX(-50%) scale(1.12)} 100%{transform:translateX(-50%) scale(1)} }
+
+/* Animal gallery cinematic */
+@keyframes ken-burns-a { from{transform:scale(1.06)} to{transform:scale(1.18) translate(-3%,-4%)} }
+@keyframes ken-burns-b { from{transform:scale(1.07)} to{transform:scale(1.17) translate(3%,-3%)} }
+@keyframes ken-burns-c { from{transform:scale(1.06)} to{transform:scale(1.19) translate(-1%,-5%)} }
+@keyframes sweep { 0%{transform:translateX(-160%) skewX(-16deg);opacity:0} 30%{opacity:.55} 55%{transform:translateX(220%) skewX(-16deg);opacity:0} 100%{transform:translateX(220%) skewX(-16deg);opacity:0} }
+@keyframes eq { 0%,100%{transform:scaleY(.35)} 50%{transform:scaleY(1)} }
+@keyframes ring-pulse { 0%{box-shadow:inset 0 0 0 3px rgba(255,255,255,.9)} 100%{box-shadow:inset 0 0 46px 8px rgba(255,255,255,0)} }

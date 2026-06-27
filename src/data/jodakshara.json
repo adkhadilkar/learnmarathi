@@ -1,0 +1,182 @@
+[
+  {
+    "id": "jk-ksha",
+    "conjunct": "क्ष",
+    "parts": [
+      "क्",
+      "ष"
+    ],
+    "transliteration": "ksha",
+    "audio": "/audio/jodakshara/ksha.mp3",
+    "exampleWord": "क्षण",
+    "exampleMeaning": "moment",
+    "exampleAudio": "/audio/words/kshan.mp3",
+    "image": "/images/jodakshara/ksha.svg",
+    "formationLabel": "क् + ष = क्ष"
+  },
+  {
+    "id": "jk-dnya",
+    "conjunct": "ज्ञ",
+    "parts": [
+      "ज्",
+      "ञ"
+    ],
+    "transliteration": "dnya",
+    "audio": "/audio/jodakshara/dnya.mp3",
+    "exampleWord": "ज्ञान",
+    "exampleMeaning": "knowledge",
+    "exampleAudio": "/audio/words/dnyan.mp3",
+    "image": "/images/jodakshara/dnya.svg",
+    "formationLabel": "ज् + ञ = ज्ञ"
+  },
+  {
+    "id": "jk-tra",
+    "conjunct": "त्र",
+    "parts": [
+      "त्",
+      "र"
+    ],
+    "transliteration": "tra",
+    "audio": "/audio/jodakshara/tra.mp3",
+    "exampleWord": "त्रास",
+    "exampleMeaning": "trouble",
+    "exampleAudio": "/audio/words/traas.mp3",
+    "image": "/images/jodakshara/tra.svg",
+    "formationLabel": "त् + र = त्र"
+  },
+  {
+    "id": "jk-shra",
+    "conjunct": "श्र",
+    "parts": [
+      "श्",
+      "र"
+    ],
+    "transliteration": "shra",
+    "audio": "/audio/jodakshara/shra.mp3",
+    "exampleWord": "श्रम",
+    "exampleMeaning": "effort",
+    "exampleAudio": "/audio/words/shram.mp3",
+    "image": "/images/jodakshara/shra.svg",
+    "formationLabel": "श् + र = श्र"
+  },
+  {
+    "id": "jk-ddha",
+    "conjunct": "द्ध",
+    "parts": [
+      "द्",
+      "ध"
+    ],
+    "transliteration": "ddha",
+    "audio": "/audio/jodakshara/ddha.mp3",
+    "exampleWord": "बुद्ध",
+    "exampleMeaning": "Buddha",
+    "exampleAudio": "/audio/words/buddha.mp3",
+    "image": "/images/jodakshara/ddha.svg",
+    "formationLabel": "द् + ध = द्ध"
+  },
+  {
+    "id": "jk-dra",
+    "conjunct": "द्र",
+    "parts": [
+      "द्",
+      "र"
+    ],
+    "transliteration": "dra",
+    "audio": "/audio/jodakshara/dra.mp3",
+    "exampleWord": "मुद्रा",
+    "exampleMeaning": "posture",
+    "exampleAudio": "/audio/words/mudra.mp3",
+    "image": "/images/jodakshara/dra.svg",
+    "formationLabel": "द् + र = द्र"
+  },
+  {
+    "id": "jk-pra",
+    "conjunct": "प्र",
+    "parts": [
+      "प्",
+      "र"
+    ],
+    "transliteration": "pra",
+    "audio": "/audio/jodakshara/pra.mp3",
+    "exampleWord": "प्रश्न",
+    "exampleMeaning": "question",
+    "exampleAudio": "/audio/words/prashna.mp3",
+    "image": "/images/jodakshara/pra.svg",
+    "formationLabel": "प् + र = प्र"
+  },
+  {
+    "id": "jk-kra",
+    "conjunct": "क्र",
+    "parts": [
+      "क्",
+      "र"
+    ],
+    "transliteration": "kra",
+    "audio": "/audio/jodakshara/kra.mp3",
+    "exampleWord": "क्रम",
+    "exampleMeaning": "order",
+    "exampleAudio": "/audio/words/kram.mp3",
+    "image": "/images/jodakshara/kra.svg",
+    "formationLabel": "क् + र = क्र"
+  },
+  {
+    "id": "jk-sta",
+    "conjunct": "स्त",
+    "parts": [
+      "स्",
+      "त"
+    ],
+    "transliteration": "sta",
+    "audio": "/audio/jodakshara/sta.mp3",
+    "exampleWord": "नमस्ते",
+    "exampleMeaning": "hello",
+    "exampleAudio": "/audio/words/namaste.mp3",
+    "image": "/images/jodakshara/sta.svg",
+    "formationLabel": "स् + त = स्त"
+  },
+  {
+    "id": "jk-nta",
+    "conjunct": "न्त",
+    "parts": [
+      "न्",
+      "त"
+    ],
+    "transliteration": "nta",
+    "audio": "/audio/jodakshara/nta.mp3",
+    "exampleWord": "अंत",
+    "exampleMeaning": "end",
+    "exampleAudio": "/audio/words/ant.mp3",
+    "image": "/images/jodakshara/nta.svg",
+    "formationLabel": "न् + त = न्त"
+  },
+  {
+    "id": "jk-nda",
+    "conjunct": "न्द",
+    "parts": [
+      "न्",
+      "द"
+    ],
+    "transliteration": "nda",
+    "audio": "/audio/jodakshara/nda.mp3",
+    "exampleWord": "आनंद",
+    "exampleMeaning": "happiness",
+    "exampleAudio": "/audio/words/anand.mp3",
+    "image": "/images/jodakshara/nda.svg",
+    "formationLabel": "न् + द = न्द"
+  },
+  {
+    "id": "jk-tva",
+    "conjunct": "त्व",
+    "parts": [
+      "त्",
+      "व"
+    ],
+    "transliteration": "tva",
+    "audio": "/audio/jodakshara/tva.mp3",
+    "exampleWord": "तत्व",
+    "exampleMeaning": "principle",
+    "exampleAudio": "/audio/words/tatva.mp3",
+    "image": "/images/jodakshara/tva.svg",
+    "formationLabel": "त् + व = त्व"
+  }
+]
