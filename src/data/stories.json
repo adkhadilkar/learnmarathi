@@ -1341,5 +1341,977 @@
         "audio": "/audio/stories/story-30-s6.mp3"
       }
     ]
+  },
+  {
+    "id": "story-31",
+    "title": "सोनाची पक्षी",
+    "titleEnglish": "The Golden Bird",
+    "level": "beginner",
+    "emoji": "🐦",
+    "sentences": [
+      {
+        "id": "story-31-s1",
+        "marathi": "एक गरीब शिकारी जंगलात पक्षी पकडत असे.",
+        "english": "A poor hunter caught birds in the forest.",
+        "audio": "/audio/stories/story-31-s1.mp3"
+      },
+      {
+        "id": "story-31-s2",
+        "marathi": "एक दिवस त्याला एक सोन्याचा पक्षी मिळाला.",
+        "english": "One day he caught a golden bird.",
+        "audio": "/audio/stories/story-31-s2.mp3"
+      },
+      {
+        "id": "story-31-s3",
+        "marathi": "पक्षी इतक्या सौंदर्याने चमकत होता.",
+        "english": "The bird shone with such beauty.",
+        "audio": "/audio/stories/story-31-s3.mp3"
+      },
+      {
+        "id": "story-31-s4",
+        "marathi": "शिकारीला लोभ आला, पक्षीला विकायचे ठरवले.",
+        "english": "The hunter got greedy and decided to sell it.",
+        "audio": "/audio/stories/story-31-s4.mp3"
+      },
+      {
+        "id": "story-31-s5",
+        "marathi": "पण राजाने त्याला मोठी रक्कम दिली.",
+        "english": "But the king gave him a large sum.",
+        "audio": "/audio/stories/story-31-s5.mp3"
+      },
+      {
+        "id": "story-31-s6",
+        "marathi": "पक्षीचे सोन्याचे पंख हळूहळू कुरवंत गेले.",
+        "english": "The bird's golden feathers gradually faded.",
+        "audio": "/audio/stories/story-31-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-32",
+    "title": "स्नान करणारा हत्ती",
+    "titleEnglish": "The Bathing Elephant",
+    "level": "beginner",
+    "emoji": "🐘",
+    "sentences": [
+      {
+        "id": "story-32-s1",
+        "marathi": "एक मोठा हत्ती नदीत स्नान करत असे.",
+        "english": "A big elephant bathed in the river.",
+        "audio": "/audio/stories/story-32-s1.mp3"
+      },
+      {
+        "id": "story-32-s2",
+        "marathi": "त्याला नाहाणे खूप आवडत होते.",
+        "english": "He loved bathing.",
+        "audio": "/audio/stories/story-32-s2.mp3"
+      },
+      {
+        "id": "story-32-s3",
+        "marathi": "एक दिवस हत्ती पाण्यात खोल पडला.",
+        "english": "One day the elephant went too deep.",
+        "audio": "/audio/stories/story-32-s3.mp3"
+      },
+      {
+        "id": "story-32-s4",
+        "marathi": "लहान मासे आणि जलजंतु त्याला साहाय्य केले.",
+        "english": "Small fish and aquatic creatures helped him.",
+        "audio": "/audio/stories/story-32-s4.mp3"
+      },
+      {
+        "id": "story-32-s5",
+        "marathi": "हत्ती सुरक्षित बाहेर आला.",
+        "english": "The elephant came out safely.",
+        "audio": "/audio/stories/story-32-s5.mp3"
+      },
+      {
+        "id": "story-32-s6",
+        "marathi": "त्याने सर्वांचे कृतज्ञता दिले.",
+        "english": "He thanked everyone.",
+        "audio": "/audio/stories/story-32-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-33",
+    "title": "बादलांचा उत्सव",
+    "titleEnglish": "The Cloud Festival",
+    "level": "beginner",
+    "emoji": "☁️",
+    "sentences": [
+      {
+        "id": "story-33-s1",
+        "marathi": "गरम ऋतूमध्ये बादल आकाशात जमले.",
+        "english": "Clouds gathered in the hot season sky.",
+        "audio": "/audio/stories/story-33-s1.mp3"
+      },
+      {
+        "id": "story-33-s2",
+        "marathi": "सूर्य आणि बादलांचा नाचा सुरू झाला.",
+        "english": "A dance between sun and clouds began.",
+        "audio": "/audio/stories/story-33-s2.mp3"
+      },
+      {
+        "id": "story-33-s3",
+        "marathi": "पृथ्वी गरमीचा सामना करत होती.",
+        "english": "The earth faced the heat.",
+        "audio": "/audio/stories/story-33-s3.mp3"
+      },
+      {
+        "id": "story-33-s4",
+        "marathi": "अखेरीस बादल पाऊस पाडू लागले.",
+        "english": "Finally the clouds began to rain.",
+        "audio": "/audio/stories/story-33-s4.mp3"
+      },
+      {
+        "id": "story-33-s5",
+        "marathi": "सर्व प्राणी आनंद पामन गेले.",
+        "english": "All creatures were delighted.",
+        "audio": "/audio/stories/story-33-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-34",
+    "title": "सांपाचे सोने",
+    "titleEnglish": "The Snake's Gold",
+    "level": "intermediate",
+    "emoji": "🐍",
+    "sentences": [
+      {
+        "id": "story-34-s1",
+        "marathi": "एका गाछाखाली एक काळा सांप राहत होता.",
+        "english": "A black snake lived under a tree.",
+        "audio": "/audio/stories/story-34-s1.mp3"
+      },
+      {
+        "id": "story-34-s2",
+        "marathi": "सांपाच्या खोलीत सोन्याची खाण होती.",
+        "english": "The snake's den had a gold mine.",
+        "audio": "/audio/stories/story-34-s2.mp3"
+      },
+      {
+        "id": "story-34-s3",
+        "marathi": "एक गरीब माणस त्याची शोधात होता.",
+        "english": "A poor man searched for it.",
+        "audio": "/audio/stories/story-34-s3.mp3"
+      },
+      {
+        "id": "story-34-s4",
+        "marathi": "सांपाने त्याला चेतावणी दिली.",
+        "english": "The snake warned him.",
+        "audio": "/audio/stories/story-34-s4.mp3"
+      },
+      {
+        "id": "story-34-s5",
+        "marathi": "माणसाने सांपाचा सन्मान केला.",
+        "english": "The man respected the snake.",
+        "audio": "/audio/stories/story-34-s5.mp3"
+      },
+      {
+        "id": "story-34-s6",
+        "marathi": "सांपाने त्याला लहान सोने दिले.",
+        "english": "The snake gave him small gold.",
+        "audio": "/audio/stories/story-34-s6.mp3"
+      },
+      {
+        "id": "story-34-s7",
+        "marathi": "माणस त्याच्या संपत्तीने संतुष्ट राहिला.",
+        "english": "The man was satisfied with his wealth.",
+        "audio": "/audio/stories/story-34-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-35",
+    "title": "महिषाचा विश्वास",
+    "titleEnglish": "The Buffalo's Trust",
+    "level": "intermediate",
+    "emoji": "🐃",
+    "sentences": [
+      {
+        "id": "story-35-s1",
+        "marathi": "एक गोपाळ महिषा चरवत असे.",
+        "english": "A cowherd tended his buffalo.",
+        "audio": "/audio/stories/story-35-s1.mp3"
+      },
+      {
+        "id": "story-35-s2",
+        "marathi": "महिषा गोपाळावर खूप विश्वास करत होता.",
+        "english": "The buffalo trusted the cowherd.",
+        "audio": "/audio/stories/story-35-s2.mp3"
+      },
+      {
+        "id": "story-35-s3",
+        "marathi": "एक दिवस गोपाळ अस्वस्थ पडला.",
+        "english": "One day the cowherd fell ill.",
+        "audio": "/audio/stories/story-35-s3.mp3"
+      },
+      {
+        "id": "story-35-s4",
+        "marathi": "महिषा त्याच्या सेवा करू लागला.",
+        "english": "The buffalo began to serve him.",
+        "audio": "/audio/stories/story-35-s4.mp3"
+      },
+      {
+        "id": "story-35-s5",
+        "marathi": "त्याने घास आणून दिले, पाणी आणून दिले.",
+        "english": "It brought grass and water.",
+        "audio": "/audio/stories/story-35-s5.mp3"
+      },
+      {
+        "id": "story-35-s6",
+        "marathi": "गोपाळ कधीच महिषाला दुःख देत नाही असे समजले.",
+        "english": "The buffalo knew the cowherd would never hurt it.",
+        "audio": "/audio/stories/story-35-s6.mp3"
+      },
+      {
+        "id": "story-35-s7",
+        "marathi": "विश्वास हेच सच्चे प्रेमाचे आधार आहे.",
+        "english": "Trust is the foundation of true love.",
+        "audio": "/audio/stories/story-35-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-36",
+    "title": "नदीचा प्रवाह",
+    "titleEnglish": "The River's Flow",
+    "level": "intermediate",
+    "emoji": "🌊",
+    "sentences": [
+      {
+        "id": "story-36-s1",
+        "marathi": "एक नदी पर्वताच्या शिखरावरून वाहत होती.",
+        "english": "A river flowed from the mountain peak.",
+        "audio": "/audio/stories/story-36-s1.mp3"
+      },
+      {
+        "id": "story-36-s2",
+        "marathi": "नदीने खडकांना आवाज दिला.",
+        "english": "The river asked the rocks to move.",
+        "audio": "/audio/stories/story-36-s2.mp3"
+      },
+      {
+        "id": "story-36-s3",
+        "marathi": "खडक कठोर होते, नाहीच हलले.",
+        "english": "The rocks were hard and didn't move.",
+        "audio": "/audio/stories/story-36-s3.mp3"
+      },
+      {
+        "id": "story-36-s4",
+        "marathi": "नदी हळूहळू खडकांना घेरून गेली.",
+        "english": "The river gradually surrounded the rocks.",
+        "audio": "/audio/stories/story-36-s4.mp3"
+      },
+      {
+        "id": "story-36-s5",
+        "marathi": "वर्षाच्या घराणीनंतर खडक टुकडे झाले.",
+        "english": "After years, the rocks broke into pieces.",
+        "audio": "/audio/stories/story-36-s5.mp3"
+      },
+      {
+        "id": "story-36-s6",
+        "marathi": "सातत्य आणि धैर्य कोणत्याही अडचण ओलांडू शकतात.",
+        "english": "Persistence and patience can overcome any obstacle.",
+        "audio": "/audio/stories/story-36-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-37",
+    "title": "सर्पमित्रता",
+    "titleEnglish": "Friendship with a Snake",
+    "level": "intermediate",
+    "emoji": "🐢",
+    "sentences": [
+      {
+        "id": "story-37-s1",
+        "marathi": "एक छोटे प्राणीने एक विषारी सांपाला बचावले.",
+        "english": "A small animal saved a venomous snake.",
+        "audio": "/audio/stories/story-37-s1.mp3"
+      },
+      {
+        "id": "story-37-s2",
+        "marathi": "सांप अचेतन होता.",
+        "english": "The snake was unconscious.",
+        "audio": "/audio/stories/story-37-s2.mp3"
+      },
+      {
+        "id": "story-37-s3",
+        "marathi": "प्राणीने सांपाचे उपचार केले.",
+        "english": "The animal treated the snake.",
+        "audio": "/audio/stories/story-37-s3.mp3"
+      },
+      {
+        "id": "story-37-s4",
+        "marathi": "सांप जागा झाला आणि संकटात मदत केली.",
+        "english": "The snake woke up and helped in danger.",
+        "audio": "/audio/stories/story-37-s4.mp3"
+      },
+      {
+        "id": "story-37-s5",
+        "marathi": "सर्प आणि प्राणी मित्र बनले.",
+        "english": "Snake and animal became friends.",
+        "audio": "/audio/stories/story-37-s5.mp3"
+      },
+      {
+        "id": "story-37-s6",
+        "marathi": "दयाला कोण गणना नाही करता.",
+        "english": "Compassion is never wasted.",
+        "audio": "/audio/stories/story-37-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-38",
+    "title": "तारकांचा संवाद",
+    "titleEnglish": "The Stars' Conversation",
+    "level": "advanced",
+    "emoji": "⭐",
+    "sentences": [
+      {
+        "id": "story-38-s1",
+        "marathi": "रात्रीचे आकाश तारकांनी भरलेले होते.",
+        "english": "The night sky was filled with stars.",
+        "audio": "/audio/stories/story-38-s1.mp3"
+      },
+      {
+        "id": "story-38-s2",
+        "marathi": "तारके एकत्र संवाद करत असत.",
+        "english": "The stars conversed together.",
+        "audio": "/audio/stories/story-38-s2.mp3"
+      },
+      {
+        "id": "story-38-s3",
+        "marathi": "एक तारा म्हणाला - मी सर्वांपेक्षा उजेड आहे.",
+        "english": "One star said, 'I am the brightest of all.'",
+        "audio": "/audio/stories/story-38-s3.mp3"
+      },
+      {
+        "id": "story-38-s4",
+        "marathi": "दुसरा तारा सांगणारा होता की प्रत्येकाचे स्वतःचे सौंदर्य आहे.",
+        "english": "Another star explained that each has its own beauty.",
+        "audio": "/audio/stories/story-38-s4.mp3"
+      },
+      {
+        "id": "story-38-s5",
+        "marathi": "रात्रीचा आकाश सर्व तारकांची समानता दाखवितो.",
+        "english": "The night sky shows the equality of all stars.",
+        "audio": "/audio/stories/story-38-s5.mp3"
+      },
+      {
+        "id": "story-38-s6",
+        "marathi": "एकत्रितपणे ते वर्ष उजेड करतात.",
+        "english": "Together they brighten the whole year.",
+        "audio": "/audio/stories/story-38-s6.mp3"
+      },
+      {
+        "id": "story-38-s7",
+        "marathi": "तारके एकमेकांचे गुणांचे कौतुक केले.",
+        "english": "The stars appreciated each other's qualities.",
+        "audio": "/audio/stories/story-38-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-39",
+    "title": "लागलेली बीज",
+    "titleEnglish": "The Planted Seed",
+    "level": "advanced",
+    "emoji": "🌳",
+    "sentences": [
+      {
+        "id": "story-39-s1",
+        "marathi": "एक बुजुर्ग माणस त्याच्या जीवनाच्या अंतिम दिनांमध्ये एक बीज लागत होता.",
+        "english": "An old man planted a seed in his last days.",
+        "audio": "/audio/stories/story-39-s1.mp3"
+      },
+      {
+        "id": "story-39-s2",
+        "marathi": "त्याचे मुलांनी विचारले - तुम्हाला याचा फल कधी मिळणार नाही.",
+        "english": "His children asked - you'll never see its fruit.",
+        "audio": "/audio/stories/story-39-s2.mp3"
+      },
+      {
+        "id": "story-39-s3",
+        "marathi": "बुजुर्गाने सांगितले की पुढील पिढ्यीसाठी आहे हा.",
+        "english": "The old man said it was for future generations.",
+        "audio": "/audio/stories/story-39-s3.mp3"
+      },
+      {
+        "id": "story-39-s4",
+        "marathi": "त्याने समज्ञानापूर्वक बीज पाणी दिले.",
+        "english": "He watered the seed thoughtfully.",
+        "audio": "/audio/stories/story-39-s4.mp3"
+      },
+      {
+        "id": "story-39-s5",
+        "marathi": "वर्षाच्या घराणीनंतर एक सुंदर झाड उगली.",
+        "english": "After years, a beautiful tree grew.",
+        "audio": "/audio/stories/story-39-s5.mp3"
+      },
+      {
+        "id": "story-39-s6",
+        "marathi": "बुजुर्गाचे पोते छायेत खेळत असत.",
+        "english": "The old man's grandchildren played in its shade.",
+        "audio": "/audio/stories/story-39-s6.mp3"
+      },
+      {
+        "id": "story-39-s7",
+        "marathi": "भविष्यासाठी केलेले काम कधीही व्यर्थ नाही.",
+        "english": "Work done for the future is never wasted.",
+        "audio": "/audio/stories/story-39-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-40",
+    "title": "राजा आणि ऋषी",
+    "titleEnglish": "The King and the Sage",
+    "level": "advanced",
+    "emoji": "👑",
+    "sentences": [
+      {
+        "id": "story-40-s1",
+        "marathi": "एक राजा त्याच्या राज्यात अन्याय पाहून चिंतित होता.",
+        "english": "A king was troubled seeing injustice in his kingdom.",
+        "audio": "/audio/stories/story-40-s1.mp3"
+      },
+      {
+        "id": "story-40-s2",
+        "marathi": "तो एक ऋषीला भेटायला गेला.",
+        "english": "He went to meet a sage.",
+        "audio": "/audio/stories/story-40-s2.mp3"
+      },
+      {
+        "id": "story-40-s3",
+        "marathi": "ऋषीने राजाला विचारले - तुम्ही स्वतःचे अन्याय पाहत आहात का?",
+        "english": "The sage asked - do you see your own injustices?",
+        "audio": "/audio/stories/story-40-s3.mp3"
+      },
+      {
+        "id": "story-40-s4",
+        "marathi": "राजा शांत राहिला आणि विचार केला.",
+        "english": "The king was silent and reflected.",
+        "audio": "/audio/stories/story-40-s4.mp3"
+      },
+      {
+        "id": "story-40-s5",
+        "marathi": "राजा स्वतःचा कसूर स्वीकारून सुधारण्याचा संकल्प केला.",
+        "english": "The king acknowledged his fault and resolved to improve.",
+        "audio": "/audio/stories/story-40-s5.mp3"
+      },
+      {
+        "id": "story-40-s6",
+        "marathi": "त्याने राज्यमधील गरीबांसाठी न्याय केला.",
+        "english": "He established justice for the poor in his kingdom.",
+        "audio": "/audio/stories/story-40-s6.mp3"
+      },
+      {
+        "id": "story-40-s7",
+        "marathi": "एक चांगला राजा बनण्यासाठी आत्मज्ञान आवश्यक आहे.",
+        "english": "Self-knowledge is necessary to become a good king.",
+        "audio": "/audio/stories/story-40-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-41",
+    "title": "दोन वेल्लांचा शर्यत",
+    "titleEnglish": "The Two Wells' Race",
+    "level": "beginner",
+    "emoji": "🚰",
+    "sentences": [
+      {
+        "id": "story-41-s1",
+        "marathi": "गावात दोन विहिरी होत्या.",
+        "english": "There were two wells in the village.",
+        "audio": "/audio/stories/story-41-s1.mp3"
+      },
+      {
+        "id": "story-41-s2",
+        "marathi": "एक विहिर खोल होती, दुसरी उथळ.",
+        "english": "One was deep, the other was shallow.",
+        "audio": "/audio/stories/story-41-s2.mp3"
+      },
+      {
+        "id": "story-41-s3",
+        "marathi": "उथळ विहिरीचे पाणी लवकर संपत होते.",
+        "english": "The shallow well ran out of water quickly.",
+        "audio": "/audio/stories/story-41-s3.mp3"
+      },
+      {
+        "id": "story-41-s4",
+        "marathi": "खोल विहिर हमेशा पाणीनी भरून होती.",
+        "english": "The deep well was always full of water.",
+        "audio": "/audio/stories/story-41-s4.mp3"
+      },
+      {
+        "id": "story-41-s5",
+        "marathi": "गावकरी खोल विहिरीचा वापर करू लागले.",
+        "english": "The villagers began using the deep well.",
+        "audio": "/audio/stories/story-41-s5.mp3"
+      },
+      {
+        "id": "story-41-s6",
+        "marathi": "उथळ विहिर सुकून गेली.",
+        "english": "The shallow well dried up.",
+        "audio": "/audio/stories/story-41-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-42",
+    "title": "हिरवा पत्रा",
+    "titleEnglish": "The Green Leaf",
+    "level": "beginner",
+    "emoji": "🍃",
+    "sentences": [
+      {
+        "id": "story-42-s1",
+        "marathi": "वसंत ऋतूमध्ये एक डाळ हिरवे पत्रे उगवत होती.",
+        "english": "In spring, a branch sprouted green leaves.",
+        "audio": "/audio/stories/story-42-s1.mp3"
+      },
+      {
+        "id": "story-42-s2",
+        "marathi": "एक पत्रा दुसऱ्या पत्रांपेक्षा अधिक हिरवे होते.",
+        "english": "One leaf was greener than the others.",
+        "audio": "/audio/stories/story-42-s2.mp3"
+      },
+      {
+        "id": "story-42-s3",
+        "marathi": "त्या पत्रांने एकत्र वाढायचे ठरवले.",
+        "english": "The leaves decided to grow together.",
+        "audio": "/audio/stories/story-42-s3.mp3"
+      },
+      {
+        "id": "story-42-s4",
+        "marathi": "सर्व पत्रे सूर्यकिरण पकडू लागले.",
+        "english": "All leaves caught the sunlight.",
+        "audio": "/audio/stories/story-42-s4.mp3"
+      },
+      {
+        "id": "story-42-s5",
+        "marathi": "गाछ अधिक शक्तिशाली बनला.",
+        "english": "The tree became stronger.",
+        "audio": "/audio/stories/story-42-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-43",
+    "title": "गोड आणि खार",
+    "titleEnglish": "Sweet and Sour",
+    "level": "beginner",
+    "emoji": "🍬",
+    "sentences": [
+      {
+        "id": "story-43-s1",
+        "marathi": "एका बागेमध्ये गोड फळे आणि खार अंगूर होते.",
+        "english": "In a garden were sweet fruits and sour grapes.",
+        "audio": "/audio/stories/story-43-s1.mp3"
+      },
+      {
+        "id": "story-43-s2",
+        "marathi": "गोड फळे आत्मप्रशंसा करत होते.",
+        "english": "The sweet fruits boasted about themselves.",
+        "audio": "/audio/stories/story-43-s2.mp3"
+      },
+      {
+        "id": "story-43-s3",
+        "marathi": "खार अंगूर लज्जित होते.",
+        "english": "The sour grapes felt ashamed.",
+        "audio": "/audio/stories/story-43-s3.mp3"
+      },
+      {
+        "id": "story-43-s4",
+        "marathi": "एक दिवस एक आजारी माणस बागेला आला.",
+        "english": "One day a sick man came to the garden.",
+        "audio": "/audio/stories/story-43-s4.mp3"
+      },
+      {
+        "id": "story-43-s5",
+        "marathi": "खार अंगूरने त्याला बरे केले.",
+        "english": "The sour grapes healed him.",
+        "audio": "/audio/stories/story-43-s5.mp3"
+      },
+      {
+        "id": "story-43-s6",
+        "marathi": "प्रत्येक वस्तूचे स्वतःचे मूल्य आहे.",
+        "english": "Everything has its own value.",
+        "audio": "/audio/stories/story-43-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-44",
+    "title": "बुद्धिमान गधा",
+    "titleEnglish": "The Wise Donkey",
+    "level": "intermediate",
+    "emoji": "🫏",
+    "sentences": [
+      {
+        "id": "story-44-s1",
+        "marathi": "एक गधा अपमानित होत होता कारण ते कमजोर माना जात होता.",
+        "english": "A donkey was disrespected because he was considered weak.",
+        "audio": "/audio/stories/story-44-s1.mp3"
+      },
+      {
+        "id": "story-44-s2",
+        "marathi": "एक दिवस गधे आणि सिंह एकत्र वणवट होते.",
+        "english": "One day the donkey and lion hunted together.",
+        "audio": "/audio/stories/story-44-s2.mp3"
+      },
+      {
+        "id": "story-44-s3",
+        "marathi": "गधे ने चतुराई दाखवून शिकार केले.",
+        "english": "The donkey showed cleverness in hunting.",
+        "audio": "/audio/stories/story-44-s3.mp3"
+      },
+      {
+        "id": "story-44-s4",
+        "marathi": "सिंह गधे ची बुद्धिमत्ता पाहून मुग्ध झाला.",
+        "english": "The lion was impressed by the donkey's wisdom.",
+        "audio": "/audio/stories/story-44-s4.mp3"
+      },
+      {
+        "id": "story-44-s5",
+        "marathi": "गधा आणि सिंह मित्र बनले.",
+        "english": "The donkey and lion became friends.",
+        "audio": "/audio/stories/story-44-s5.mp3"
+      },
+      {
+        "id": "story-44-s6",
+        "marathi": "बुद्धी शक्तिपेक्षा अधिक महत्वाची आहे.",
+        "english": "Intelligence is more important than strength.",
+        "audio": "/audio/stories/story-44-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-45",
+    "title": "साधु आणि संपत्ती",
+    "titleEnglish": "The Sage and Wealth",
+    "level": "intermediate",
+    "emoji": "🧘",
+    "sentences": [
+      {
+        "id": "story-45-s1",
+        "marathi": "एक साधु कंदरेत राहत होता.",
+        "english": "A sage lived in a cave.",
+        "audio": "/audio/stories/story-45-s1.mp3"
+      },
+      {
+        "id": "story-45-s2",
+        "marathi": "एक दिन्यामिन त्याला मोठी संपत्ती सापडली.",
+        "english": "One day he found great wealth.",
+        "audio": "/audio/stories/story-45-s2.mp3"
+      },
+      {
+        "id": "story-45-s3",
+        "marathi": "साधु संपत्ती पाहून विचारमग्न झाला.",
+        "english": "The sage became thoughtful seeing the wealth.",
+        "audio": "/audio/stories/story-45-s3.mp3"
+      },
+      {
+        "id": "story-45-s4",
+        "marathi": "त्याने संपत्ती गरिबांना दान केली.",
+        "english": "He donated the wealth to the poor.",
+        "audio": "/audio/stories/story-45-s4.mp3"
+      },
+      {
+        "id": "story-45-s5",
+        "marathi": "साधु आपल्या आनंदी जीवनात राहिला.",
+        "english": "The sage continued his peaceful life.",
+        "audio": "/audio/stories/story-45-s5.mp3"
+      },
+      {
+        "id": "story-45-s6",
+        "marathi": "सच्ची संपत्ती आंतरिक शांती आहे.",
+        "english": "True wealth is inner peace.",
+        "audio": "/audio/stories/story-45-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-46",
+    "title": "कोयलीचे गान",
+    "titleEnglish": "The Nightingale's Song",
+    "level": "intermediate",
+    "emoji": "🎵",
+    "sentences": [
+      {
+        "id": "story-46-s1",
+        "marathi": "रात्रीचे आकाश कोयलीचे मधुर गान सुनत होते.",
+        "english": "The night sky heard the nightingale's sweet song.",
+        "audio": "/audio/stories/story-46-s1.mp3"
+      },
+      {
+        "id": "story-46-s2",
+        "marathi": "सर्व पक्षी त्याचे गान ऐकू लागत असत.",
+        "english": "All birds would listen to its song.",
+        "audio": "/audio/stories/story-46-s2.mp3"
+      },
+      {
+        "id": "story-46-s3",
+        "marathi": "एक गरुड कोयलीला आव्हान दिले.",
+        "english": "An eagle challenged the nightingale.",
+        "audio": "/audio/stories/story-46-s3.mp3"
+      },
+      {
+        "id": "story-46-s4",
+        "marathi": "गरुड म्हणाले - मी शक्तिशाली आहे.",
+        "english": "The eagle said - I am powerful.",
+        "audio": "/audio/stories/story-46-s4.mp3"
+      },
+      {
+        "id": "story-46-s5",
+        "marathi": "कोयली म्हणाली - माझे गान हृदय स्पर्श करते.",
+        "english": "The nightingale said - my song touches hearts.",
+        "audio": "/audio/stories/story-46-s5.mp3"
+      },
+      {
+        "id": "story-46-s6",
+        "marathi": "गरुड शांत राहिला.",
+        "english": "The eagle was silent.",
+        "audio": "/audio/stories/story-46-s6.mp3"
+      },
+      {
+        "id": "story-46-s7",
+        "marathi": "कला आणि संगीत बल पेक्षा अधिक शक्तिशाली आहेत.",
+        "english": "Art and music are more powerful than force.",
+        "audio": "/audio/stories/story-46-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-47",
+    "title": "आंधळा आणि अपंग",
+    "titleEnglish": "The Blind and the Lame",
+    "level": "advanced",
+    "emoji": "🤝",
+    "sentences": [
+      {
+        "id": "story-47-s1",
+        "marathi": "एक आंधळा आणि एक अपंग जंगलात हरले होते.",
+        "english": "A blind man and a lame man were lost in the forest.",
+        "audio": "/audio/stories/story-47-s1.mp3"
+      },
+      {
+        "id": "story-47-s2",
+        "marathi": "आंधळ्याला रस्ता दिसत नव्हता.",
+        "english": "The blind man could not see the path.",
+        "audio": "/audio/stories/story-47-s2.mp3"
+      },
+      {
+        "id": "story-47-s3",
+        "marathi": "अपंगाला चालत येत नव्हते.",
+        "english": "The lame man could not walk.",
+        "audio": "/audio/stories/story-47-s3.mp3"
+      },
+      {
+        "id": "story-47-s4",
+        "marathi": "त्यांनी एकत्र काम करायचे ठरवले.",
+        "english": "They decided to work together.",
+        "audio": "/audio/stories/story-47-s4.mp3"
+      },
+      {
+        "id": "story-47-s5",
+        "marathi": "अपंग आंधळ्याचे कंधावर बसला.",
+        "english": "The lame man sat on the blind man's shoulders.",
+        "audio": "/audio/stories/story-47-s5.mp3"
+      },
+      {
+        "id": "story-47-s6",
+        "marathi": "आंधळा चालत होता, अपंग मार्ग दाखवत होता.",
+        "english": "The blind walked, the lame showed the way.",
+        "audio": "/audio/stories/story-47-s6.mp3"
+      },
+      {
+        "id": "story-47-s7",
+        "marathi": "दोघे एकत्र जंगलातून बाहेर आले.",
+        "english": "Both came out of the forest together.",
+        "audio": "/audio/stories/story-47-s7.mp3"
+      },
+      {
+        "id": "story-47-s8",
+        "marathi": "सहकार्य केव्हा अशक्य संभव करते.",
+        "english": "Cooperation makes the impossible possible.",
+        "audio": "/audio/stories/story-47-s8.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-48",
+    "title": "वायु आणि सूर्य",
+    "titleEnglish": "Wind and Sun",
+    "level": "advanced",
+    "emoji": "☀️",
+    "sentences": [
+      {
+        "id": "story-48-s1",
+        "marathi": "वायु आणि सूर्य एकत्र राहत होते.",
+        "english": "Wind and sun lived together.",
+        "audio": "/audio/stories/story-48-s1.mp3"
+      },
+      {
+        "id": "story-48-s2",
+        "marathi": "वायु प्रगल्भ होता, सूर्य शांत होता.",
+        "english": "Wind was arrogant, sun was calm.",
+        "audio": "/audio/stories/story-48-s2.mp3"
+      },
+      {
+        "id": "story-48-s3",
+        "marathi": "एक दिवस त्यांचा एक माणस आले.",
+        "english": "One day a man passed by.",
+        "audio": "/audio/stories/story-48-s3.mp3"
+      },
+      {
+        "id": "story-48-s4",
+        "marathi": "वायु म्हणाला - मी त्याचा कोट उतरवून दाखवेन.",
+        "english": "Wind said - I'll blow off his coat.",
+        "audio": "/audio/stories/story-48-s4.mp3"
+      },
+      {
+        "id": "story-48-s5",
+        "marathi": "वायु जोराने वाहत सुरू झाला.",
+        "english": "Wind began to blow hard.",
+        "audio": "/audio/stories/story-48-s5.mp3"
+      },
+      {
+        "id": "story-48-s6",
+        "marathi": "माणस कोट अधिक घट्ट करून घेतला.",
+        "english": "The man held his coat tighter.",
+        "audio": "/audio/stories/story-48-s6.mp3"
+      },
+      {
+        "id": "story-48-s7",
+        "marathi": "सूर्य हळूहळू तापण्याचे सुरू केले.",
+        "english": "Sun began to warm gently.",
+        "audio": "/audio/stories/story-48-s7.mp3"
+      },
+      {
+        "id": "story-48-s8",
+        "marathi": "माणसाला गरम आला आणि कोट स्वतः सोडला.",
+        "english": "The man felt warm and removed his coat himself.",
+        "audio": "/audio/stories/story-48-s8.mp3"
+      },
+      {
+        "id": "story-48-s9",
+        "marathi": "कोमलता आणि धैर्य बलापेक्षा बरे आहेत.",
+        "english": "Gentleness and patience are better than force.",
+        "audio": "/audio/stories/story-48-s9.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-49",
+    "title": "पंचतंत्रातील पत्र",
+    "titleEnglish": "A Letter from Panchatantra",
+    "level": "advanced",
+    "emoji": "📜",
+    "sentences": [
+      {
+        "id": "story-49-s1",
+        "marathi": "एक राजाने पंचतंत्र पुस्तक मागवले.",
+        "english": "A king requested the Panchatantra book.",
+        "audio": "/audio/stories/story-49-s1.mp3"
+      },
+      {
+        "id": "story-49-s2",
+        "marathi": "पुस्तकाने राजाला जीवनाचे रहस्य सांगितले.",
+        "english": "The book revealed life's secrets to the king.",
+        "audio": "/audio/stories/story-49-s2.mp3"
+      },
+      {
+        "id": "story-49-s3",
+        "marathi": "राजा गोष्टी वाचून शिक्षा घेत होता.",
+        "english": "The king learned lessons from the stories.",
+        "audio": "/audio/stories/story-49-s3.mp3"
+      },
+      {
+        "id": "story-49-s4",
+        "marathi": "प्रत्येक गोष्टीचा एक नैतिक संदेश होता.",
+        "english": "Each story had a moral message.",
+        "audio": "/audio/stories/story-49-s4.mp3"
+      },
+      {
+        "id": "story-49-s5",
+        "marathi": "राजा चांगल्या निर्णय घेतो लागला.",
+        "english": "The king began making good decisions.",
+        "audio": "/audio/stories/story-49-s5.mp3"
+      },
+      {
+        "id": "story-49-s6",
+        "marathi": "राज्य शांती आणि समृद्धीने भरून गेल्यं.",
+        "english": "The kingdom was filled with peace and prosperity.",
+        "audio": "/audio/stories/story-49-s6.mp3"
+      },
+      {
+        "id": "story-49-s7",
+        "marathi": "गोष्टी आणि सदुपदेश जीवन सुधारतात.",
+        "english": "Stories and teachings improve life.",
+        "audio": "/audio/stories/story-49-s7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-50",
+    "title": "अंतिम गोष्ट",
+    "titleEnglish": "The Final Story",
+    "level": "advanced",
+    "emoji": "🌟",
+    "sentences": [
+      {
+        "id": "story-50-s1",
+        "marathi": "हे पचाशे गोष्टीतील अंतिम गोष्ट आहे.",
+        "english": "This is the final story of fifty.",
+        "audio": "/audio/stories/story-50-s1.mp3"
+      },
+      {
+        "id": "story-50-s2",
+        "marathi": "प्रत्येक गोष्ट एक शिक्षा घेऊन आली.",
+        "english": "Each story brought a lesson.",
+        "audio": "/audio/stories/story-50-s2.mp3"
+      },
+      {
+        "id": "story-50-s3",
+        "marathi": "गरिबी, संपत्ती, प्रेम, विश्वास - सर्वकाही सांगितली.",
+        "english": "Poverty, wealth, love, trust - all were told.",
+        "audio": "/audio/stories/story-50-s3.mp3"
+      },
+      {
+        "id": "story-50-s4",
+        "marathi": "जीवन एक गोष्ट आहे, प्रत्येकाचा स्वतःचा प्लॉट आहे.",
+        "english": "Life is a story, each person has their own plot.",
+        "audio": "/audio/stories/story-50-s4.mp3"
+      },
+      {
+        "id": "story-50-s5",
+        "marathi": "तुमच्या गोष्टीचे हीरो बनून राहा.",
+        "english": "Be the hero of your own story.",
+        "audio": "/audio/stories/story-50-s5.mp3"
+      },
+      {
+        "id": "story-50-s6",
+        "marathi": "शिकूया, सुधारा, आणि इतरांना सिखवा.",
+        "english": "Learn, improve, and teach others.",
+        "audio": "/audio/stories/story-50-s6.mp3"
+      },
+      {
+        "id": "story-50-s7",
+        "marathi": "हे गोष्टी तुम्हाला मराठी शिकायला मदत करतील.",
+        "english": "These stories will help you learn Marathi.",
+        "audio": "/audio/stories/story-50-s7.mp3"
+      },
+      {
+        "id": "story-50-s8",
+        "marathi": "आशीर्वाद, प्रेम, आणि प्रार्थना सर्वांसाठी.",
+        "english": "Blessings, love, and prayers for all.",
+        "audio": "/audio/stories/story-50-s8.mp3"
+      }
+    ]
   }
 ]
