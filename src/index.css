@@ -106,6 +106,35 @@ body {
 @keyframes shk-hop { 0%{transform:translateY(0) scaleY(1)} 12%{transform:translateY(0) scaleY(.82) scaleX(1.12)} 32%{transform:translateY(-42px) scaleY(1.14) scaleX(.9)} 52%{transform:translateY(0) scaleY(.85) scaleX(1.12)} 68%{transform:translateY(-13px) scaleY(1.05)} 84%{transform:translateY(0) scaleY(.96)} 100%{transform:translateY(0) scaleY(1)} }
 @keyframes shk-bubble { 0%{transform:translateX(-50%) scale(0)} 70%{transform:translateX(-50%) scale(1.12)} 100%{transform:translateX(-50%) scale(1)} }
 
+/* ============ Delight pass ============ */
+/* Soft pastel blobs floating behind content */
+@keyframes blob-drift { 0%,100%{transform:translate(0,0) scale(1)} 33%{transform:translate(26px,-34px) scale(1.08)} 66%{transform:translate(-22px,22px) scale(.94)} }
+.bg-blob { position:fixed; border-radius:50%; filter:blur(70px); pointer-events:none; z-index:0; animation:blob-drift 18s ease-in-out infinite; }
+
+/* Tiny sparkles drifting upward */
+@keyframes sparkle-drift { 0%{transform:translateY(0) scale(1);opacity:0} 12%{opacity:.65} 88%{opacity:.65} 100%{transform:translateY(-46vh) scale(.4);opacity:0} }
+.bg-sparkle { position:fixed; pointer-events:none; z-index:0; animation:sparkle-drift linear infinite; }
+
+/* Gold star shower (theme-toggle easter egg) */
+@keyframes star-fall { 0%{transform:translateY(-10vh) rotate(0) scale(1);opacity:1} 100%{transform:translateY(112vh) rotate(400deg) scale(.6);opacity:.2} }
+.animate-star { animation: star-fall linear forwards; }
+
+/* Emoji wiggle on card hover */
+@keyframes wiggle { 0%,100%{transform:rotate(0)} 25%{transform:rotate(-12deg) scale(1.15)} 75%{transform:rotate(12deg) scale(1.15)} }
+.group:hover .wiggle-on-hover { animation: wiggle .5s ease-in-out; }
+
+/* Shekru celebration dance */
+@keyframes shk-dance { 0%,100%{transform:rotate(0) translateY(0)} 15%{transform:rotate(-10deg) translateY(-18px)} 30%{transform:rotate(10deg) translateY(0)} 45%{transform:rotate(-10deg) translateY(-18px)} 60%{transform:rotate(10deg) translateY(0)} 75%{transform:rotate(-6deg) translateY(-10px)} 90%{transform:rotate(6deg) translateY(0)} }
+
+/* Footer chestnut spin */
+@keyframes chestnut-spin { 0%{transform:rotate(0) scale(1)} 60%{transform:rotate(320deg) scale(1.35)} 100%{transform:rotate(360deg) scale(1)} }
+.chestnut-spin { display:inline-block; animation: chestnut-spin .7s ease; }
+
+/* Respect users who prefer less motion */
+@media (prefers-reduced-motion: reduce) {
+  .bg-blob, .bg-sparkle { animation: none; }
+}
+
 /* Animal gallery cinematic */
 @keyframes ken-burns-a { from{transform:scale(1.06)} to{transform:scale(1.18) translate(-3%,-4%)} }
 @keyframes ken-burns-b { from{transform:scale(1.07)} to{transform:scale(1.17) translate(3%,-3%)} }

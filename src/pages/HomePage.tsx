@@ -5,11 +5,12 @@ import { playClip } from '../lib/speak';
 
 const VOWELS = ['अ', 'आ', 'इ', 'ई', 'उ', 'ऊ', 'ए'];
 
+// 🥚 The floating letters around Shekru sing when you tap them.
 const FLOATING = [
-  { char: 'आ', color: '#E0913A', top: '14px', left: '30px', delay: '0s' },
-  { char: 'ई', color: '#16B69A', top: '60px', right: '18px', delay: '.6s' },
-  { char: 'उ', color: '#E84A8A', bottom: '40px', left: '8px', delay: '.3s' },
-  { char: 'ए', color: '#D99A3A', bottom: '18px', right: '40px', delay: '.9s' },
+  { char: 'आ', audio: '/audio/alphabets/aa.mp3', color: '#E0913A', top: '14px', left: '30px', delay: '0s' },
+  { char: 'ई', audio: '/audio/alphabets/ee.mp3', color: '#16B69A', top: '60px', right: '18px', delay: '.6s' },
+  { char: 'उ', audio: '/audio/alphabets/u.mp3', color: '#E84A8A', bottom: '40px', left: '8px', delay: '.3s' },
+  { char: 'ए', audio: '/audio/alphabets/e.mp3', color: '#D99A3A', bottom: '18px', right: '40px', delay: '.9s' },
 ];
 
 const STEPS = [
@@ -99,13 +100,15 @@ export function HomePage() {
         >
           <div className="absolute w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] rounded-full" style={{ background: 'radial-gradient(circle at 50% 45%,#FFE7A0,#FFC94D)' }} />
           {FLOATING.map((f, i) => (
-            <div
+            <button
               key={i}
-              className="absolute font-display font-bold animate-bob2"
+              onClick={() => playClip(f.audio, f.char)}
+              aria-label={`Hear ${f.char}`}
+              className="absolute font-display font-bold animate-bob2 cursor-pointer hover:scale-125 active:scale-90 transition-transform z-20"
               style={{ color: f.color, fontSize: i % 2 === 0 ? 44 : 36, top: f.top, left: f.left, right: f.right, bottom: f.bottom, animationDelay: f.delay }}
             >
               {f.char}
-            </div>
+            </button>
           ))}
           <div className="relative z-10">
             <Shekru scale={1.05} />
@@ -202,6 +205,7 @@ export function HomePage() {
         </div>
         <div className="text-center text-ink-muted font-bold text-[13px] mt-5">
           psst — tap the acorn up top, or poke Shekru. he's got opinions. 🌰
+          <span className="block mt-1 opacity-70">…and rumor has it there are more secrets hiding around here. 🤫</span>
         </div>
       </section>
     </div>

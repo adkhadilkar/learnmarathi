@@ -1,39 +1,63 @@
 import { useState, useRef, useCallback } from 'react';
+import { playClip } from '../../lib/speak';
 
 interface ShekruProps {
   scale?: number;
   speakOnPoke?: boolean;
 }
 
-const GREETINGS = ['नमस्कार!', 'शाब्बास!', 'मस्त!', 'छान!', 'पुढे चला!', 'बरोबर!'];
+// Marathi cheers with bundled native-voice clips (see scripts/generate-audio.cjs).
+const GREETINGS = [
+  { text: 'नमस्कार!', audio: '/audio/ui/namaskar.mp3' },
+  { text: 'शाब्बास!', audio: '/audio/ui/shabbas.mp3' },
+  { text: 'मस्त!', audio: '/audio/ui/mast.mp3' },
+  { text: 'छान!', audio: '/audio/ui/chhan.mp3' },
+  { text: 'पुढे चला!', audio: '/audio/ui/pudhe-chala.mp3' },
+  { text: 'बरोबर!', audio: '/audio/ui/barobar.mp3' },
+];
+
+const DANCE_MSG = 'नाच रे मोरा! 💃';
 
 /**
  * Shekru — the giant squirrel mascot (शेकरू), the state animal of Maharashtra.
- * Built entirely with CSS shapes. Poke it for a hop + Marathi greeting.
+ * Built entirely with CSS shapes. Poke it for a hop + a spoken Marathi cheer.
+ * Easter egg: five quick pokes and it breaks into a dance with acorn rain. 🕺
  */
 export function Shekru({ scale = 1, speakOnPoke = true }: ShekruProps) {
   const [hop, setHop] = useState(false);
+  const [dance, setDance] = useState(false);
   const [msg, setMsg] = useState('');
+  const pokes = useRef(0);
+  const lastPoke = useRef(0);
   const t1 = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
   const t2 = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
 
   const poke = useCallback(() => {
-    const m = GREETINGS[Math.floor(Math.random() * GREETINGS.length)];
-    setHop(true);
-    setMsg(m);
-    if (speakOnPoke && 'speechSynthesis' in window) {
-      try {
-        const u = new SpeechSynthesisUtterance(m);
-        u.lang = 'mr-IN';
-        u.rate = 0.8;
-        speechSynthesis.cancel();
-        speechSynthesis.speak(u);
-      } catch {
-        /* ignore */
-      }
-    }
+    const now = Date.now();
+    pokes.current = now - lastPoke.current < 2600 ? pokes.current + 1 : 1;
+    lastPoke.current = now;
+
     clearTimeout(t1.current);
     clearTimeout(t2.current);
+
+    if (pokes.current >= 5) {
+      // 🥚 Five quick pokes — dance party + acorns!
+      pokes.current = 0;
+      setDance(true);
+      setHop(false);
+      setMsg(DANCE_MSG);
+      window.dispatchEvent(new CustomEvent('shekru:acorns'));
+      const g = GREETINGS[1]; // शाब्बास!
+      if (speakOnPoke) playClip(g.audio, g.text);
+      t1.current = setTimeout(() => setDance(false), 1600);
+      t2.current = setTimeout(() => setMsg(''), 2400);
+      return;
+    }
+
+    const g = GREETINGS[Math.floor(Math.random() * GREETINGS.length)];
+    setHop(true);
+    setMsg(g.text);
+    if (speakOnPoke) playClip(g.audio, g.text);
     t1.current = setTimeout(() => setHop(false), 760);
     t2.current = setTimeout(() => setMsg(''), 1900);
   }, [speakOnPoke]);
@@ -48,7 +72,7 @@ export function Shekru({ scale = 1, speakOnPoke = true }: ShekruProps) {
         height: 212,
         cursor: 'pointer',
         userSelect: 'none',
-        animation: hop ? 'shk-hop .76s ease' : undefined,
+        animation: dance ? 'shk-dance 1.5s ease' : hop ? 'shk-hop .76s ease' : undefined,
         transform: `scale(${scale})`,
         transformOrigin: 'bottom center',
       }}

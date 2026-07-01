@@ -276,5 +276,1070 @@
         "audio": "/audio/stories/story-5-s6.mp3"
       }
     ]
+  },
+  {
+    "id": "story-6",
+    "title": "माकड आणि मगर",
+    "titleEnglish": "The Monkey and the Crocodile",
+    "level": "beginner",
+    "emoji": "🐵",
+    "sentences": [
+      {
+        "id": "story-6-s1",
+        "marathi": "एक माकड आणि एक मगर मित्र होते.",
+        "english": "A monkey and a crocodile were friends.",
+        "audio": "/audio/stories/story-6-s1.mp3"
+      },
+      {
+        "id": "story-6-s2",
+        "marathi": "ते रोज एकत्र खेळत असत.",
+        "english": "They used to play together every day.",
+        "audio": "/audio/stories/story-6-s2.mp3"
+      },
+      {
+        "id": "story-6-s3",
+        "marathi": "एक दिवस मगराची पत्नी आली.",
+        "english": "One day the crocodile's wife came.",
+        "audio": "/audio/stories/story-6-s3.mp3"
+      },
+      {
+        "id": "story-6-s4",
+        "marathi": "तिला माकडाचे हृदय खाऊ पाहिजे असे विचार आले.",
+        "english": "She thought she wanted to eat the monkey's heart.",
+        "audio": "/audio/stories/story-6-s4.mp3"
+      },
+      {
+        "id": "story-6-s5",
+        "marathi": "माकडला नव्वड असे लक्षात आले.",
+        "english": "The monkey became cautious.",
+        "audio": "/audio/stories/story-6-s5.mp3"
+      },
+      {
+        "id": "story-6-s6",
+        "marathi": "मगराच्या मागून पळून गेल्यावर त्याने झाडावर चढले.",
+        "english": "He ran from the crocodile and climbed a tree.",
+        "audio": "/audio/stories/story-6-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-7",
+    "title": "शृगाल आणि ढोलकी",
+    "titleEnglish": "The Jackal and the Drum",
+    "level": "beginner",
+    "emoji": "🐺",
+    "sentences": [
+      {
+        "id": "story-7-s1",
+        "marathi": "एक भूक्या शृगालने एक ढोलकी पाहिली.",
+        "english": "A hungry jackal saw a drum.",
+        "audio": "/audio/stories/story-7-s1.mp3"
+      },
+      {
+        "id": "story-7-s2",
+        "marathi": "वाऱ्यामुळे ढोलकीला मार लागला.",
+        "english": "The wind hit the drum.",
+        "audio": "/audio/stories/story-7-s2.mp3"
+      },
+      {
+        "id": "story-7-s3",
+        "marathi": "ढोलकीतून मोठी आवाज येत असे.",
+        "english": "Loud sounds came from the drum.",
+        "audio": "/audio/stories/story-7-s3.mp3"
+      },
+      {
+        "id": "story-7-s4",
+        "marathi": "शृगाल भयभीत होऊन पळून गेला.",
+        "english": "The jackal ran away in fear.",
+        "audio": "/audio/stories/story-7-s4.mp3"
+      },
+      {
+        "id": "story-7-s5",
+        "marathi": "नंतर त्याने समजून घेतले की ढोलकी कोणतीही धमकी नाही.",
+        "english": "Later he understood the drum was not a threat.",
+        "audio": "/audio/stories/story-7-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-8",
+    "title": "कासव आणि हंस",
+    "titleEnglish": "The Tortoise and the Geese",
+    "level": "beginner",
+    "emoji": "🦢",
+    "sentences": [
+      {
+        "id": "story-8-s1",
+        "marathi": "एक कासव दोन हंसांचा मित्र होता.",
+        "english": "A tortoise was friends with two geese.",
+        "audio": "/audio/stories/story-8-s1.mp3"
+      },
+      {
+        "id": "story-8-s2",
+        "marathi": "हंसांनी कासवला नदीच्या पार नेण्याचे वचन दिले.",
+        "english": "The geese promised to take the tortoise across the river.",
+        "audio": "/audio/stories/story-8-s2.mp3"
+      },
+      {
+        "id": "story-8-s3",
+        "marathi": "त्यांनी कासवला एक काठी घेऊन उडाले.",
+        "english": "They flew with the tortoise holding a stick.",
+        "audio": "/audio/stories/story-8-s3.mp3"
+      },
+      {
+        "id": "story-8-s4",
+        "marathi": "कासव बोलत राहिला.",
+        "english": "The tortoise kept talking.",
+        "audio": "/audio/stories/story-8-s4.mp3"
+      },
+      {
+        "id": "story-8-s5",
+        "marathi": "काठीचा पकडा सोडला आणि खाली पडला.",
+        "english": "He let go of the stick and fell down.",
+        "audio": "/audio/stories/story-8-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-9",
+    "title": "लोभी शिल्पी",
+    "titleEnglish": "The Greedy Woodcutter",
+    "level": "beginner",
+    "emoji": "🪵",
+    "sentences": [
+      {
+        "id": "story-9-s1",
+        "marathi": "एक शिल्पी प्रतिदिन झाडे कापत असे.",
+        "english": "A woodcutter cut trees every day.",
+        "audio": "/audio/stories/story-9-s1.mp3"
+      },
+      {
+        "id": "story-9-s2",
+        "marathi": "एक दिवस त्याला एक सोन्याचे झाड सापडले.",
+        "english": "One day he found a golden tree.",
+        "audio": "/audio/stories/story-9-s2.mp3"
+      },
+      {
+        "id": "story-9-s3",
+        "marathi": "त्याने सोन्याचे झाड कापण्याचे ठरवले.",
+        "english": "He decided to cut the golden tree.",
+        "audio": "/audio/stories/story-9-s3.mp3"
+      },
+      {
+        "id": "story-9-s4",
+        "marathi": "परंतु झाड कापल्यानंतर ते सोन्याचे नव्हते.",
+        "english": "But after cutting it, it was not golden.",
+        "audio": "/audio/stories/story-9-s4.mp3"
+      },
+      {
+        "id": "story-9-s5",
+        "marathi": "त्याचा लोभ त्याला नुकसान केले.",
+        "english": "His greed caused him loss.",
+        "audio": "/audio/stories/story-9-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-10",
+    "title": "मुलांचा खेळ",
+    "titleEnglish": "The Children's Game",
+    "level": "beginner",
+    "emoji": "🎮",
+    "sentences": [
+      {
+        "id": "story-10-s1",
+        "marathi": "तीन लहान मुले खेळत होते.",
+        "english": "Three little children were playing.",
+        "audio": "/audio/stories/story-10-s1.mp3"
+      },
+      {
+        "id": "story-10-s2",
+        "marathi": "एक मुला दुसऱ्या मुलाच्या खेळण्याला नको म्हणाला.",
+        "english": "One child said the other couldn't play.",
+        "audio": "/audio/stories/story-10-s2.mp3"
+      },
+      {
+        "id": "story-10-s3",
+        "marathi": "तिसरे मुल बिचारे मुलाला सांभाळले.",
+        "english": "The third child took care of the poor child.",
+        "audio": "/audio/stories/story-10-s3.mp3"
+      },
+      {
+        "id": "story-10-s4",
+        "marathi": "सर्वजण एकत्र खेळू लागले.",
+        "english": "Everyone started playing together.",
+        "audio": "/audio/stories/story-10-s4.mp3"
+      },
+      {
+        "id": "story-10-s5",
+        "marathi": "खेळ आणखी मजेचा झाला.",
+        "english": "The game became more fun.",
+        "audio": "/audio/stories/story-10-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-11",
+    "title": "मोरचे पाखरे",
+    "titleEnglish": "The Peacock's Feathers",
+    "level": "beginner",
+    "emoji": "🦚",
+    "sentences": [
+      {
+        "id": "story-11-s1",
+        "marathi": "एक मोर खूप सुंदर पाखरे हवेत खेळत असे.",
+        "english": "A peacock's beautiful feathers danced in the wind.",
+        "audio": "/audio/stories/story-11-s1.mp3"
+      },
+      {
+        "id": "story-11-s2",
+        "marathi": "दुसरे प्राणी त्याच्या सौंदर्याविषयी खूष होत असे.",
+        "english": "Other animals were jealous of his beauty.",
+        "audio": "/audio/stories/story-11-s2.mp3"
+      },
+      {
+        "id": "story-11-s3",
+        "marathi": "परंतु मोर विनम्र राहिला.",
+        "english": "But the peacock remained humble.",
+        "audio": "/audio/stories/story-11-s3.mp3"
+      },
+      {
+        "id": "story-11-s4",
+        "marathi": "त्याने सर्वांना अपूर्व नृत्य दाखवले.",
+        "english": "He showed everyone a wonderful dance.",
+        "audio": "/audio/stories/story-11-s4.mp3"
+      },
+      {
+        "id": "story-11-s5",
+        "marathi": "सर्वजण त्याच्या नृत्यात आनंद पामन गेले.",
+        "english": "Everyone enjoyed his dance.",
+        "audio": "/audio/stories/story-11-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-12",
+    "title": "गणपतीचा जन्मदिन",
+    "titleEnglish": "Ganpati's Birthday",
+    "level": "beginner",
+    "emoji": "🐘",
+    "sentences": [
+      {
+        "id": "story-12-s1",
+        "marathi": "आजचा दिवस गणपतीचा जन्मदिन आहे.",
+        "english": "Today is Ganpati's birthday.",
+        "audio": "/audio/stories/story-12-s1.mp3"
+      },
+      {
+        "id": "story-12-s2",
+        "marathi": "गाव जनता सजावट करीत आहे.",
+        "english": "The villagers are decorating.",
+        "audio": "/audio/stories/story-12-s2.mp3"
+      },
+      {
+        "id": "story-12-s3",
+        "marathi": "मुले मोदक बनवत आहेत.",
+        "english": "Children are making modak.",
+        "audio": "/audio/stories/story-12-s3.mp3"
+      },
+      {
+        "id": "story-12-s4",
+        "marathi": "सर्वजण मंदिरात गेले.",
+        "english": "Everyone went to the temple.",
+        "audio": "/audio/stories/story-12-s4.mp3"
+      },
+      {
+        "id": "story-12-s5",
+        "marathi": "गणपती त्यांच्या प्रेमाने खुश झाला.",
+        "english": "Ganpati was pleased with their love.",
+        "audio": "/audio/stories/story-12-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-13",
+    "title": "खोल्याचा यात्रा",
+    "titleEnglish": "The Little Frog's Journey",
+    "level": "beginner",
+    "emoji": "🐸",
+    "sentences": [
+      {
+        "id": "story-13-s1",
+        "marathi": "एक लहान खोल्याला बाहेरचे जग पाहायचे होते.",
+        "english": "A little frog wanted to see the outside world.",
+        "audio": "/audio/stories/story-13-s1.mp3"
+      },
+      {
+        "id": "story-13-s2",
+        "marathi": "तो तलावातून बाहेर आला.",
+        "english": "He came out of the pond.",
+        "audio": "/audio/stories/story-13-s2.mp3"
+      },
+      {
+        "id": "story-13-s3",
+        "marathi": "बाहेर खूप मोठे प्राणी दिसले.",
+        "english": "He saw very big animals outside.",
+        "audio": "/audio/stories/story-13-s3.mp3"
+      },
+      {
+        "id": "story-13-s4",
+        "marathi": "खोल्या भयभीत होऊन तलावात परत आला.",
+        "english": "The frog returned to the pond in fear.",
+        "audio": "/audio/stories/story-13-s4.mp3"
+      },
+      {
+        "id": "story-13-s5",
+        "marathi": "त्याला समजले की त्याचा घर सर्वात सुरक्षित आहे.",
+        "english": "He understood his home was the safest place.",
+        "audio": "/audio/stories/story-13-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-14",
+    "title": "दीपावली उत्सव",
+    "titleEnglish": "Diwali Celebration",
+    "level": "beginner",
+    "emoji": "🪔",
+    "sentences": [
+      {
+        "id": "story-14-s1",
+        "marathi": "दीपावलीचा पहिला दिवस आला.",
+        "english": "Diwali's first day arrived.",
+        "audio": "/audio/stories/story-14-s1.mp3"
+      },
+      {
+        "id": "story-14-s2",
+        "marathi": "मुले घर साफ करत आहेत.",
+        "english": "Children are cleaning the house.",
+        "audio": "/audio/stories/story-14-s2.mp3"
+      },
+      {
+        "id": "story-14-s3",
+        "marathi": "आई रंग लावत आहे.",
+        "english": "Mother is painting.",
+        "audio": "/audio/stories/story-14-s3.mp3"
+      },
+      {
+        "id": "story-14-s4",
+        "marathi": "दीपांचा प्रकाश घरात पसरला.",
+        "english": "The light of lamps spread in the house.",
+        "audio": "/audio/stories/story-14-s4.mp3"
+      },
+      {
+        "id": "story-14-s5",
+        "marathi": "रामायण कथा म्हणून दिवाळी आनंद देते.",
+        "english": "Diwali brings joy as told in Ramayana.",
+        "audio": "/audio/stories/story-14-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-15",
+    "title": "वर्षाचा दिवस",
+    "titleEnglish": "A Rainy Day",
+    "level": "beginner",
+    "emoji": "☔",
+    "sentences": [
+      {
+        "id": "story-15-s1",
+        "marathi": "पहिल्या वर्षाचा दिवस आला.",
+        "english": "The day of the first rain arrived.",
+        "audio": "/audio/stories/story-15-s1.mp3"
+      },
+      {
+        "id": "story-15-s2",
+        "marathi": "मुले खिडकीतून पाऊस पाहत आहेत.",
+        "english": "Children are watching rain from the window.",
+        "audio": "/audio/stories/story-15-s2.mp3"
+      },
+      {
+        "id": "story-15-s3",
+        "marathi": "पाऊसमुळे धरती हरीतलाई उगवली.",
+        "english": "Rain brought greenery to the earth.",
+        "audio": "/audio/stories/story-15-s3.mp3"
+      },
+      {
+        "id": "story-15-s4",
+        "marathi": "शेतकऱ्याचा चेहरा आनंद उमटला.",
+        "english": "The farmer's face brightened with joy.",
+        "audio": "/audio/stories/story-15-s4.mp3"
+      },
+      {
+        "id": "story-15-s5",
+        "marathi": "पाऊस आशीर्वाद आहे असे सर्वजण सांगत होते.",
+        "english": "Everyone said rain is a blessing.",
+        "audio": "/audio/stories/story-15-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-16",
+    "title": "बाजारातील पहिली वेळ",
+    "titleEnglish": "First Time at the Market",
+    "level": "beginner",
+    "emoji": "🛒",
+    "sentences": [
+      {
+        "id": "story-16-s1",
+        "marathi": "एक लहान मुल पहिल्या वेळी बाजारात गेले.",
+        "english": "A small child went to the market for the first time.",
+        "audio": "/audio/stories/story-16-s1.mp3"
+      },
+      {
+        "id": "story-16-s2",
+        "marathi": "बाजारात खूप लोक आणि दुकाने होती.",
+        "english": "There were many people and shops in the market.",
+        "audio": "/audio/stories/story-16-s2.mp3"
+      },
+      {
+        "id": "story-16-s3",
+        "marathi": "मुल सर्व वस्तू पाहून आश्चर्य चकित झाले.",
+        "english": "The child was amazed seeing everything.",
+        "audio": "/audio/stories/story-16-s3.mp3"
+      },
+      {
+        "id": "story-16-s4",
+        "marathi": "त्याला फळ खूप अच्छे वाटले.",
+        "english": "He thought fruits were very nice.",
+        "audio": "/audio/stories/story-16-s4.mp3"
+      },
+      {
+        "id": "story-16-s5",
+        "marathi": "बाजार पहिला मजेचा अनुभव होता.",
+        "english": "The market was a fun first experience.",
+        "audio": "/audio/stories/story-16-s5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-17",
+    "title": "चिमुटीचे घर",
+    "titleEnglish": "The Little Bird's Nest",
+    "level": "intermediate",
+    "emoji": "🐦",
+    "sentences": [
+      {
+        "id": "story-17-s1",
+        "marathi": "एक लहान चिमुटी आपले घर बनवत होती.",
+        "english": "A little bird was building her home.",
+        "audio": "/audio/stories/story-17-s1.mp3"
+      },
+      {
+        "id": "story-17-s2",
+        "marathi": "तिने टहारीच्या डाखातून खवय्य घेतल्या.",
+        "english": "She gathered twigs from branches.",
+        "audio": "/audio/stories/story-17-s2.mp3"
+      },
+      {
+        "id": "story-17-s3",
+        "marathi": "सर्वजण त्याच्या मेहनतीचा कौतुक करत होते.",
+        "english": "Everyone admired her hard work.",
+        "audio": "/audio/stories/story-17-s3.mp3"
+      },
+      {
+        "id": "story-17-s4",
+        "marathi": "अखेर चिमुटीने एक सुंदर घर बनवले.",
+        "english": "Finally the bird built a beautiful home.",
+        "audio": "/audio/stories/story-17-s4.mp3"
+      },
+      {
+        "id": "story-17-s5",
+        "marathi": "तिने त्याच घरातून अंडी दिली आणि बाळे जन्माला आली.",
+        "english": "She laid eggs in that home and chicks were born.",
+        "audio": "/audio/stories/story-17-s5.mp3"
+      },
+      {
+        "id": "story-17-s6",
+        "marathi": "मेहनत कधी व्यर्थ नाही असे शिक्षण मिळाले.",
+        "english": "We learned that hard work is never wasted.",
+        "audio": "/audio/stories/story-17-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-18",
+    "title": "मुंगीचे काम",
+    "titleEnglish": "The Ants' Work",
+    "level": "intermediate",
+    "emoji": "🐜",
+    "sentences": [
+      {
+        "id": "story-18-s1",
+        "marathi": "मुंग्यांचा एक समाज होता.",
+        "english": "There was a colony of ants.",
+        "audio": "/audio/stories/story-18-s1.mp3"
+      },
+      {
+        "id": "story-18-s2",
+        "marathi": "सकाळच्या सूर्योदयावेळी सर्व मुंग्या काम सुरू करत असत.",
+        "english": "All ants started work at sunrise.",
+        "audio": "/audio/stories/story-18-s2.mp3"
+      },
+      {
+        "id": "story-18-s3",
+        "marathi": "एक मुंगी आराम करू इच्छिला.",
+        "english": "One ant wanted to rest.",
+        "audio": "/audio/stories/story-18-s3.mp3"
+      },
+      {
+        "id": "story-18-s4",
+        "marathi": "परंतु शिमटीने मुंगीला अन्न साठवण्याचे महत्व सांगितले.",
+        "english": "But the queen told the ant the importance of storing food.",
+        "audio": "/audio/stories/story-18-s4.mp3"
+      },
+      {
+        "id": "story-18-s5",
+        "marathi": "शीत ऋतूमध्ये सर्वजण अन्नाभाव ग्रस्त होत होत.",
+        "english": "Without food everyone would suffer in winter.",
+        "audio": "/audio/stories/story-18-s5.mp3"
+      },
+      {
+        "id": "story-18-s6",
+        "marathi": "मुंगी समजून गेली आणि सज्जतेने काम सुरू केली.",
+        "english": "The ant understood and started working earnestly.",
+        "audio": "/audio/stories/story-18-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-19",
+    "title": "शेतकरी आणि बियाणे",
+    "titleEnglish": "The Farmer and His Seeds",
+    "level": "intermediate",
+    "emoji": "🌾",
+    "sentences": [
+      {
+        "id": "story-19-s1",
+        "marathi": "एक शेतकरी शेतातून बियाणे बोवत होता.",
+        "english": "A farmer was sowing seeds in the field.",
+        "audio": "/audio/stories/story-19-s1.mp3"
+      },
+      {
+        "id": "story-19-s2",
+        "marathi": "मेहनत करणे सोपे नाही असा विचार त्याच्या मनात आला.",
+        "english": "He thought working hard was not easy.",
+        "audio": "/audio/stories/story-19-s2.mp3"
+      },
+      {
+        "id": "story-19-s3",
+        "marathi": "परंतु तो हरवून गेला नाही आणि मेहनत सुरू राखली.",
+        "english": "But he didn't give up and kept working.",
+        "audio": "/audio/stories/story-19-s3.mp3"
+      },
+      {
+        "id": "story-19-s4",
+        "marathi": "वर्षभर नंतर सोने सारखी धान तयार झाली.",
+        "english": "After a year, golden grain was ready.",
+        "audio": "/audio/stories/story-19-s4.mp3"
+      },
+      {
+        "id": "story-19-s5",
+        "marathi": "शेतकऱ्याचा चेहरा आनंदाने चमकला.",
+        "english": "The farmer's face shone with joy.",
+        "audio": "/audio/stories/story-19-s5.mp3"
+      },
+      {
+        "id": "story-19-s6",
+        "marathi": "मेहनत हीच सर्वोत्तम फळ देते असे त्याला समजले.",
+        "english": "He understood that hard work gives the best results.",
+        "audio": "/audio/stories/story-19-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-20",
+    "title": "दोन बकरे",
+    "titleEnglish": "The Two Goats",
+    "level": "intermediate",
+    "emoji": "🐐",
+    "sentences": [
+      {
+        "id": "story-20-s1",
+        "marathi": "दोन बकरे एक पुलावर मिळाले.",
+        "english": "Two goats met on a bridge.",
+        "audio": "/audio/stories/story-20-s1.mp3"
+      },
+      {
+        "id": "story-20-s2",
+        "marathi": "एक दिशेतून एक बकरा आला, दुसऱ्या दिशेतून दुसरी.",
+        "english": "One goat came from one direction, another from the opposite.",
+        "audio": "/audio/stories/story-20-s2.mp3"
+      },
+      {
+        "id": "story-20-s3",
+        "marathi": "पुलावर फक्त एकच बकरा जाऊ शकत होता.",
+        "english": "Only one goat could cross the bridge.",
+        "audio": "/audio/stories/story-20-s3.mp3"
+      },
+      {
+        "id": "story-20-s4",
+        "marathi": "दोन्ही जिद्दीने सामना केला.",
+        "english": "Both stubbornly faced each other.",
+        "audio": "/audio/stories/story-20-s4.mp3"
+      },
+      {
+        "id": "story-20-s5",
+        "marathi": "एक बकरी समजदारीपूर्वक मागे गेली.",
+        "english": "One goat wisely stepped back.",
+        "audio": "/audio/stories/story-20-s5.mp3"
+      },
+      {
+        "id": "story-20-s6",
+        "marathi": "दुसरी बकरी सहजेने पुलावरून उतरली.",
+        "english": "The other goat easily crossed the bridge.",
+        "audio": "/audio/stories/story-20-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-21",
+    "title": "माकड आणि चंद्र",
+    "titleEnglish": "The Monkeys and the Moon",
+    "level": "intermediate",
+    "emoji": "🌙",
+    "sentences": [
+      {
+        "id": "story-21-s1",
+        "marathi": "एक रात्री एक बुज्जु माकडी कुण्डात चंद्रबिंबाला पाहिली.",
+        "english": "One night an old monkey saw the moon's reflection in a well.",
+        "audio": "/audio/stories/story-21-s1.mp3"
+      },
+      {
+        "id": "story-21-s2",
+        "marathi": "त्याने विचार केला की चंद्र कुंडातून बाहेर आला आहे.",
+        "english": "She thought the moon had fallen into the well.",
+        "audio": "/audio/stories/story-21-s2.mp3"
+      },
+      {
+        "id": "story-21-s3",
+        "marathi": "सर्व माकडांना वाचवण्यचे म्हणून ओरडली.",
+        "english": "She called all the monkeys to rescue it.",
+        "audio": "/audio/stories/story-21-s3.mp3"
+      },
+      {
+        "id": "story-21-s4",
+        "marathi": "माकडांनी एकमेकांचा पकडवून कुंडातून चंद्र काढायचा प्रयत्न केला.",
+        "english": "The monkeys tried to pull the moon out by linking hands.",
+        "audio": "/audio/stories/story-21-s4.mp3"
+      },
+      {
+        "id": "story-21-s5",
+        "marathi": "पण चंद्र तरी कुंडातून बाहेर आला नाही.",
+        "english": "But the moon didn't come out of the well.",
+        "audio": "/audio/stories/story-21-s5.mp3"
+      },
+      {
+        "id": "story-21-s6",
+        "marathi": "एका जाणत्या माकडीने सांगितले की हेच चंद्राचे प्रतिबिंब आहे.",
+        "english": "A wise monkey explained it was just a reflection.",
+        "audio": "/audio/stories/story-21-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-22",
+    "title": "कोल्हा आणि द्राक्षे",
+    "titleEnglish": "The Fox and the Grapes",
+    "level": "intermediate",
+    "emoji": "🍇",
+    "sentences": [
+      {
+        "id": "story-22-s1",
+        "marathi": "एक कोल्हा भूक्या पोटाने भटकत होता.",
+        "english": "A hungry fox was wandering about.",
+        "audio": "/audio/stories/story-22-s1.mp3"
+      },
+      {
+        "id": "story-22-s2",
+        "marathi": "त्याला एक बाग दिसला ज्यामध्ये सुंदर द्राक्षे होते.",
+        "english": "He saw a garden with beautiful grapes.",
+        "audio": "/audio/stories/story-22-s2.mp3"
+      },
+      {
+        "id": "story-22-s3",
+        "marathi": "द्राक्षे खूप उंच होते, कोल्हा पोहोचू शकत नव्हता.",
+        "english": "The grapes were too high, the fox couldn't reach them.",
+        "audio": "/audio/stories/story-22-s3.mp3"
+      },
+      {
+        "id": "story-22-s4",
+        "marathi": "अनेक वेळा उडी मारल्यावर कोल्हा हारून गेला.",
+        "english": "After many attempts, the fox gave up.",
+        "audio": "/audio/stories/story-22-s4.mp3"
+      },
+      {
+        "id": "story-22-s5",
+        "marathi": "मागे जाताना कोल्ह्या म्हणाला द्राक्षे कड्वे असतील.",
+        "english": "While leaving, the fox said the grapes must be sour.",
+        "audio": "/audio/stories/story-22-s5.mp3"
+      },
+      {
+        "id": "story-22-s6",
+        "marathi": "इच्छा नसताना त्याला द्राक्षे कड्वे वाटले.",
+        "english": "Unable to get them, the grapes seemed sour to him.",
+        "audio": "/audio/stories/story-22-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-23",
+    "title": "कावळा आणि घडा",
+    "titleEnglish": "The Crow and the Pitcher",
+    "level": "intermediate",
+    "emoji": "🪶",
+    "sentences": [
+      {
+        "id": "story-23-s1",
+        "marathi": "एक कावळा खूप तहानलेला होता.",
+        "english": "A crow was very thirsty.",
+        "audio": "/audio/stories/story-23-s1.mp3"
+      },
+      {
+        "id": "story-23-s2",
+        "marathi": "त्याला एक घडा मिळाला पण पाणी बऱ्यापैकी खाली होते.",
+        "english": "He found a pitcher but the water was too deep.",
+        "audio": "/audio/stories/story-23-s2.mp3"
+      },
+      {
+        "id": "story-23-s3",
+        "marathi": "कोणत्या हिसाबाने त्याला पाणी काढता येणार नाही असे वाटले.",
+        "english": "It seemed impossible for him to drink.",
+        "audio": "/audio/stories/story-23-s3.mp3"
+      },
+      {
+        "id": "story-23-s4",
+        "marathi": "तर कावळ्याला बुद्धिचा विचार आला.",
+        "english": "Then the crow got an idea.",
+        "audio": "/audio/stories/story-23-s4.mp3"
+      },
+      {
+        "id": "story-23-s5",
+        "marathi": "त्याने लहान दगड घडातून टाकायला सुरू केले.",
+        "english": "He started putting small pebbles into the pitcher.",
+        "audio": "/audio/stories/story-23-s5.mp3"
+      },
+      {
+        "id": "story-23-s6",
+        "marathi": "अखेरीस पाणी वर आले आणि कावळ्याने पाणी प्यायले.",
+        "english": "Finally the water came up and the crow drank.",
+        "audio": "/audio/stories/story-23-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-24",
+    "title": "मांजर आणि उंदीर",
+    "titleEnglish": "The Cat and the Mice",
+    "level": "intermediate",
+    "emoji": "🐱",
+    "sentences": [
+      {
+        "id": "story-24-s1",
+        "marathi": "एक घरात एक काळ्या मांजराने राज्य केले होते.",
+        "english": "A black cat ruled a house.",
+        "audio": "/audio/stories/story-24-s1.mp3"
+      },
+      {
+        "id": "story-24-s2",
+        "marathi": "मांजराची भीती पाहून उंदीर घरातून निघून गेले.",
+        "english": "The mice fled in fear of the cat.",
+        "audio": "/audio/stories/story-24-s2.mp3"
+      },
+      {
+        "id": "story-24-s3",
+        "marathi": "उंदीरांनी मांजरान घंटी बांधायचे ठरवले.",
+        "english": "The mice decided to tie a bell to the cat.",
+        "audio": "/audio/stories/story-24-s3.mp3"
+      },
+      {
+        "id": "story-24-s4",
+        "marathi": "परंतु कोणी घंटी बांधायला साहस केला नाही.",
+        "english": "But no one dared to tie the bell.",
+        "audio": "/audio/stories/story-24-s4.mp3"
+      },
+      {
+        "id": "story-24-s5",
+        "marathi": "अखेर उंदीरांनी समजून घेतले की बोलणे आणि करणे वेगळे आहे.",
+        "english": "Finally the mice understood that saying and doing are different.",
+        "audio": "/audio/stories/story-24-s5.mp3"
+      },
+      {
+        "id": "story-24-s6",
+        "marathi": "त्यांनी चतुराई दाखवून मांजरास मूर्ख केले आणि निसटले.",
+        "english": "They cleverly outwitted the cat and escaped.",
+        "audio": "/audio/stories/story-24-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-25",
+    "title": "शाळेचे बाग",
+    "titleEnglish": "The School Garden",
+    "level": "intermediate",
+    "emoji": "🌱",
+    "sentences": [
+      {
+        "id": "story-25-s1",
+        "marathi": "शिक्षकांनी मुलांना शाळेत बाग लावायला सांगितले.",
+        "english": "Teachers asked children to make a garden in school.",
+        "audio": "/audio/stories/story-25-s1.mp3"
+      },
+      {
+        "id": "story-25-s2",
+        "marathi": "सर्व मुले मिळून भूमी तयार केली.",
+        "english": "All children together prepared the soil.",
+        "audio": "/audio/stories/story-25-s2.mp3"
+      },
+      {
+        "id": "story-25-s3",
+        "marathi": "काही मुलांनी बियाणे बोवली तर काहीजणांनी पाणी दिले.",
+        "english": "Some sowed seeds while others watered.",
+        "audio": "/audio/stories/story-25-s3.mp3"
+      },
+      {
+        "id": "story-25-s4",
+        "marathi": "महिना पुरते न पुरते बाग सुंदर झाली.",
+        "english": "Soon the garden became beautiful.",
+        "audio": "/audio/stories/story-25-s4.mp3"
+      },
+      {
+        "id": "story-25-s5",
+        "marathi": "फुले आणि भाजीपाला येऊ लागल्या.",
+        "english": "Flowers and vegetables started appearing.",
+        "audio": "/audio/stories/story-25-s5.mp3"
+      },
+      {
+        "id": "story-25-s6",
+        "marathi": "मुलांना एकत्र काम करून मिळालेले आनंद कधी विसरणार नव्हता.",
+        "english": "The children would never forget the joy of working together.",
+        "audio": "/audio/stories/story-25-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-26",
+    "title": "सिंह आणि चार प्राणी",
+    "titleEnglish": "The Lion and the Four Animals",
+    "level": "advanced",
+    "emoji": "🦁",
+    "sentences": [
+      {
+        "id": "story-26-s1",
+        "marathi": "एक सिंह चार प्राण्यांना भेटला - गाय, कोल्हा, चिता आणि उंदीर.",
+        "english": "A lion met four animals - a cow, fox, leopard, and mouse.",
+        "audio": "/audio/stories/story-26-s1.mp3"
+      },
+      {
+        "id": "story-26-s2",
+        "marathi": "सिंहने सर्वांना एकत्र राहण्याचे प्रस्ताव दिले.",
+        "english": "The lion proposed they live together.",
+        "audio": "/audio/stories/story-26-s2.mp3"
+      },
+      {
+        "id": "story-26-s3",
+        "marathi": "गायने म्हणाले की कोल्हा आणि चिता धोकेदार आहेत.",
+        "english": "The cow said the fox and leopard were dangerous.",
+        "audio": "/audio/stories/story-26-s3.mp3"
+      },
+      {
+        "id": "story-26-s4",
+        "marathi": "उंदीरने सांगितले की सिंह सर्वांपेक्षा जास्त सशक्त आहे.",
+        "english": "The mouse said the lion was stronger than all.",
+        "audio": "/audio/stories/story-26-s4.mp3"
+      },
+      {
+        "id": "story-26-s5",
+        "marathi": "सिंहने व्रत घेतले की तो कोणाला दुखवणार नाही.",
+        "english": "The lion vowed he would hurt no one.",
+        "audio": "/audio/stories/story-26-s5.mp3"
+      },
+      {
+        "id": "story-26-s6",
+        "marathi": "सर्वजण एकत्र राहू लागल्या आणि शांतीचे जीवन जगू लागल्या.",
+        "english": "All started living together in peace and harmony.",
+        "audio": "/audio/stories/story-26-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-27",
+    "title": "व्यापारी आणि इच्छापूरक झाड",
+    "titleEnglish": "The Merchant and the Wish-Fulfilling Tree",
+    "level": "advanced",
+    "emoji": "🌳",
+    "sentences": [
+      {
+        "id": "story-27-s1",
+        "marathi": "एक व्यापारी जंगलातून फिरत होता तर त्याला एक चमत्कारी झाड आढळली.",
+        "english": "A merchant found a magical tree while walking in the forest.",
+        "audio": "/audio/stories/story-27-s1.mp3"
+      },
+      {
+        "id": "story-27-s2",
+        "marathi": "झाडने सांगितले की ती इच्छापूरक झाड आहे.",
+        "english": "The tree said it was a wish-fulfilling tree.",
+        "audio": "/audio/stories/story-27-s2.mp3"
+      },
+      {
+        "id": "story-27-s3",
+        "marathi": "व्यापारी लोभी होता, त्याने पहिली इच्छा केली - सोने.",
+        "english": "The merchant was greedy and wished for gold.",
+        "audio": "/audio/stories/story-27-s3.mp3"
+      },
+      {
+        "id": "story-27-s4",
+        "marathi": "गोल्ड मिळाल्यानंतर दुसरी इच्छा - हीरे.",
+        "english": "After getting gold, he wished for diamonds.",
+        "audio": "/audio/stories/story-27-s4.mp3"
+      },
+      {
+        "id": "story-27-s5",
+        "marathi": "त्याचा लोभ कधीही संतुष्ट नव्हता.",
+        "english": "His greed was never satisfied.",
+        "audio": "/audio/stories/story-27-s5.mp3"
+      },
+      {
+        "id": "story-27-s6",
+        "marathi": "अखेरीस झाडने सांगितले की लोभ हीच सर्वोबड़ी गरिबी आहे.",
+        "english": "Finally the tree said greed is the greatest poverty.",
+        "audio": "/audio/stories/story-27-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-28",
+    "title": "गणपती जयंती",
+    "titleEnglish": "Ganpati's Birthday Story",
+    "level": "advanced",
+    "emoji": "🙏",
+    "sentences": [
+      {
+        "id": "story-28-s1",
+        "marathi": "गणपतीचा जन्मदिन आला.",
+        "english": "Ganpati's birthday arrived.",
+        "audio": "/audio/stories/story-28-s1.mp3"
+      },
+      {
+        "id": "story-28-s2",
+        "marathi": "सर्व देवदूत आणि असुर गणपतीला पूजायला आले.",
+        "english": "All gods and demons came to worship Ganpati.",
+        "audio": "/audio/stories/story-28-s2.mp3"
+      },
+      {
+        "id": "story-28-s3",
+        "marathi": "गणपतीने सर्वांना समान दृष्टीने पाहिले.",
+        "english": "Ganpati looked at everyone equally.",
+        "audio": "/audio/stories/story-28-s3.mp3"
+      },
+      {
+        "id": "story-28-s4",
+        "marathi": "असुरांच्या मनातला दुष्टपणा गणपतीच्या पूजेने दूर होऊन गेला.",
+        "english": "The evil in the demons' hearts vanished through Ganpati's worship.",
+        "audio": "/audio/stories/story-28-s4.mp3"
+      },
+      {
+        "id": "story-28-s5",
+        "marathi": "सर्वजण एकत्र संगीत आणि नृत्य करू लागल्या.",
+        "english": "Everyone started dancing and singing together.",
+        "audio": "/audio/stories/story-28-s5.mp3"
+      },
+      {
+        "id": "story-28-s6",
+        "marathi": "भक्तीचा शक्ती सर्वांना एकत्र आणू शकते असे शिक्षण मिळाले.",
+        "english": "We learned that devotion can bring everyone together.",
+        "audio": "/audio/stories/story-28-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-29",
+    "title": "तीन इच्छा",
+    "titleEnglish": "The Three Wishes",
+    "level": "advanced",
+    "emoji": "✨",
+    "sentences": [
+      {
+        "id": "story-29-s1",
+        "marathi": "एका गरीब माणसाला जादूचा दीप मिळाला.",
+        "english": "A poor man found a magical lamp.",
+        "audio": "/audio/stories/story-29-s1.mp3"
+      },
+      {
+        "id": "story-29-s2",
+        "marathi": "दीपातून देव आला आणि तीन इच्छा पूरक होतील असे सांगितले.",
+        "english": "A genie came from the lamp and said three wishes would be granted.",
+        "audio": "/audio/stories/story-29-s2.mp3"
+      },
+      {
+        "id": "story-29-s3",
+        "marathi": "पहिली इच्छा - महल.",
+        "english": "First wish - a palace.",
+        "audio": "/audio/stories/story-29-s3.mp3"
+      },
+      {
+        "id": "story-29-s4",
+        "marathi": "दुसरी इच्छा - सोने आणि रत्ने.",
+        "english": "Second wish - gold and jewels.",
+        "audio": "/audio/stories/story-29-s4.mp3"
+      },
+      {
+        "id": "story-29-s5",
+        "marathi": "तिसरी इच्छा करायला विचारल्यावर माणसाला समजले की कुटुंब सर्वोपरी आहे.",
+        "english": "When asked for the third wish, the man realized family comes first.",
+        "audio": "/audio/stories/story-29-s5.mp3"
+      },
+      {
+        "id": "story-29-s6",
+        "marathi": "त्याने कोणतीही इच्छा न करता कुटुंबासह सुखाने राहिले.",
+        "english": "He didn't wish for anything and lived happily with his family.",
+        "audio": "/audio/stories/story-29-s6.mp3"
+      }
+    ]
+  },
+  {
+    "id": "story-30",
+    "title": "धाडसी उंदीर",
+    "titleEnglish": "The Brave Little Mouse",
+    "level": "advanced",
+    "emoji": "🐭",
+    "sentences": [
+      {
+        "id": "story-30-s1",
+        "marathi": "एक छोटा उंदीर शेरीच्या घरातून पाणी पिऊ गेला.",
+        "english": "A small mouse went to drink water from a lion's den.",
+        "audio": "/audio/stories/story-30-s1.mp3"
+      },
+      {
+        "id": "story-30-s2",
+        "marathi": "शेरी उंदीरला पकडली आणि खाणार होता.",
+        "english": "The lion caught the mouse and was about to eat it.",
+        "audio": "/audio/stories/story-30-s2.mp3"
+      },
+      {
+        "id": "story-30-s3",
+        "marathi": "उंदीरने विनयपूर्वक माझे जीवन सोडा असे विनंती केली.",
+        "english": "The mouse humbly begged for his life.",
+        "audio": "/audio/stories/story-30-s3.mp3"
+      },
+      {
+        "id": "story-30-s4",
+        "marathi": "शेरी प्रभावित झाला आणि उंदीरला सोडून दिले.",
+        "english": "The lion was impressed and let the mouse go.",
+        "audio": "/audio/stories/story-30-s4.mp3"
+      },
+      {
+        "id": "story-30-s5",
+        "marathi": "काही दिनांनी शेरी जाळ्यात अडकला.",
+        "english": "Days later the lion got trapped in a net.",
+        "audio": "/audio/stories/story-30-s5.mp3"
+      },
+      {
+        "id": "story-30-s6",
+        "marathi": "आता तो छोटा उंदीर शेरीला मदत करून त्याच्या जाळ्याचे दोरे कुडून मुक्त केला.",
+        "english": "The small mouse helped and freed the lion by biting the net ropes.",
+        "audio": "/audio/stories/story-30-s6.mp3"
+      }
+    ]
   }
 ]

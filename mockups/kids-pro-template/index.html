@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Marathi Shikuya Pro Kids Mockup</title>
+    <meta
+      name="description"
+      content="Professional, animated, kids-friendly mockup for the Marathi Shikuya learning website."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Fredoka:wght@500;600;700&family=Mulish:wght@500;600;700;800&family=Noto+Sans+Devanagari:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true">
+      <span class="spark spark-a">अ</span>
+      <span class="spark spark-b">क</span>
+      <span class="spark spark-c">म</span>
+      <span class="spark spark-d">७</span>
+      <span class="trail trail-a"></span>
+      <span class="trail trail-b"></span>
+    </div>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Marathi Shikuya home">
+        <button class="acorn-button" type="button" data-easter="acorn" aria-label="Drop acorns">
+          <span class="acorn-cap"></span>
+          <span class="acorn-body"></span>
+        </button>
+        <span>
+          <strong>मराठी शिकूया</strong>
+          <small>Learn Marathi</small>
+        </span>
+      </a>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="#map">Map</a>
+        <a href="#lab">Practice</a>
+        <a href="#stories">Stories</a>
+        <a href="#rewards">Rewards</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="icon-button" type="button" data-theme-toggle aria-label="Toggle night mode" title="Night mode">
+          <span class="moon"></span>
+        </button>
+        <button class="star-bank" type="button" data-easter="stars" aria-label="Collected stars">
+          <span>★</span>
+          <strong data-star-count>12</strong>
+        </button>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero-shell" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <div class="eyebrow">
+            <span class="pulse-dot"></span>
+            Kid-safe, audio-first Marathi learning
+          </div>
+          <h1 id="hero-title">Marathi reading that feels like a treasure hunt.</h1>
+          <p>
+            Letters, barakhadi, numbers, animals, and stories become short animated quests with tap-to-hear
+            audio, friendly rewards, and hidden surprises.
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#lab">Start today's quest</a>
+            <a class="secondary-action" href="#map">Explore the map</a>
+          </div>
+          <div class="hero-metrics" aria-label="Learning content summary">
+            <span><strong>48</strong> letters</span>
+            <span><strong>432</strong> barakhadi sounds</span>
+            <span><strong>5</strong> story worlds</span>
+          </div>
+        </div>
+
+        <div class="hero-stage" aria-label="Animated Marathi learning scene">
+          <div class="sun-medal">शिका</div>
+          <div class="letter-orbit orbit-one">आ</div>
+          <div class="letter-orbit orbit-two">ई</div>
+          <div class="letter-orbit orbit-three">त्र</div>
+          <div class="butterfly" aria-hidden="true">
+            <span></span><span></span><i></i>
+          </div>
+          <button class="mascot" type="button" data-easter="mascot" aria-label="Poke Shekru">
+            <span class="mascot-bubble" data-mascot-bubble>नमस्कार!</span>
+            <span class="tail"></span>
+            <span class="body"></span>
+            <span class="belly"></span>
+            <span class="head">
+              <i class="ear left"></i>
+              <i class="ear right"></i>
+              <i class="eye left"></i>
+              <i class="eye right"></i>
+              <i class="nose"></i>
+              <i class="tooth"></i>
+            </span>
+          </button>
+          <div class="quest-card">
+            <span class="quest-label">Today's path</span>
+            <strong>स्वर Safari</strong>
+            <div class="quest-progress">
+              <span style="width: 68%"></span>
+            </div>
+            <small>3 tiny wins left</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="learning-map" id="map" aria-labelledby="map-title">
+        <div class="section-heading">
+          <span>Choose a world</span>
+          <h2 id="map-title">A complete Marathi path, redesigned as playful islands.</h2>
+        </div>
+        <div class="island-grid">
+          <article class="island island-letters" data-tilt>
+            <div class="island-icon devanagari">अ</div>
+            <h3>Letter Lagoon</h3>
+            <p>Hear each sound, spot it in familiar words, then pop the matching bubble.</p>
+            <button type="button" data-letter-jump="अ">Try vowels</button>
+          </article>
+          <article class="island island-barakhadi" data-tilt>
+            <div class="island-icon devanagari">का</div>
+            <h3>Barakhadi Bridge</h3>
+            <p>Walk across consonant + matra tiles with color-coded sound changes.</p>
+            <button type="button" data-secret-word="बाराखडी">Preview grid</button>
+          </article>
+          <article class="island island-jodakshara" data-tilt>
+            <div class="island-icon devanagari">क्ष</div>
+            <h3>Jodakshara Jungle</h3>
+            <p>Build conjuncts as snapping puzzle pieces, then read real words.</p>
+            <button type="button" data-letter-jump="क्ष">Build one</button>
+          </article>
+          <article class="island island-stories" data-tilt>
+            <div class="island-icon">📖</div>
+            <h3>Story Fort</h3>
+            <p>Read sentence-by-sentence stories with tappable Marathi words.</p>
+            <button type="button" data-scroll="#stories">Open story</button>
+          </article>
+        </div>
+      </section>
+
+      <section class="practice-lab" id="lab" aria-labelledby="lab-title">
+        <div class="lab-panel">
+          <div class="section-heading">
+            <span>Interactive lab</span>
+            <h2 id="lab-title">Tap, hear, trace, and collect a star.</h2>
+          </div>
+          <div class="letter-picker" aria-label="Pick a Marathi letter">
+            <button class="active" type="button" data-letter="अ" data-word="अंबर" data-sound="../../public/audio/words/v-a.mp3">अ</button>
+            <button type="button" data-letter="आ" data-word="आंबा" data-sound="../../public/audio/words/v-aa.mp3">आ</button>
+            <button type="button" data-letter="इ" data-word="इमली" data-sound="../../public/audio/words/v-i.mp3">इ</button>
+            <button type="button" data-letter="क" data-word="कमळ" data-sound="../../public/audio/words/c-ka.mp3">क</button>
+            <button type="button" data-letter="म" data-word="मोर" data-sound="../../public/audio/words/friend-mor.mp3">म</button>
+            <button type="button" data-letter="क्ष" data-word="क्षण" data-sound="../../public/audio/jodakshara/ksha.mp3">क्ष</button>
+          </div>
+
+          <div class="lab-card">
+            <div class="sound-tile">
+              <button type="button" class="sound-button" data-play-current aria-label="Play current letter">
+                <span class="current-letter devanagari" data-current-letter>अ</span>
+                <span class="sound-bars" aria-hidden="true"><i></i><i></i><i></i></span>
+              </button>
+              <p>Tap the big tile to hear the sound.</p>
+            </div>
+            <div class="word-card">
+              <span class="word-label">Word clue</span>
+              <strong class="devanagari" data-current-word>अंबर</strong>
+              <p>Find the same sound hiding inside the word.</p>
+              <button type="button" data-reward>Mark learned</button>
+            </div>
+            <div class="trace-card">
+              <span>Trace path</span>
+              <svg viewBox="0 0 210 150" role="img" aria-label="Decorative tracing path">
+                <path class="trace-guide" d="M44 118 C38 66, 86 22, 132 44 C179 66, 165 129, 93 117" />
+                <path class="trace-active" d="M44 118 C38 66, 86 22, 132 44 C179 66, 165 129, 93 117" />
+              </svg>
+              <small>Hover or tap to animate the stroke.</small>
+            </div>
+          </div>
+        </div>
+
+        <aside class="challenge-panel" aria-label="Mini quiz">
+          <span class="challenge-kicker">2-second quiz</span>
+          <h3>Which tile says <span class="devanagari">मोर</span>?</h3>
+          <div class="quiz-options">
+            <button type="button" data-quiz="wrong">क</button>
+            <button type="button" data-quiz="correct">म</button>
+            <button type="button" data-quiz="wrong">आ</button>
+          </div>
+          <p data-quiz-message>Pick one to wake the reward fireworks.</p>
+        </aside>
+      </section>
+
+      <section class="story-strip" id="stories" aria-labelledby="stories-title">
+        <div class="section-heading">
+          <span>Story mode</span>
+          <h2 id="stories-title">A reader that feels animated, not like homework.</h2>
+        </div>
+        <div class="storybook">
+          <div class="story-art" aria-hidden="true">
+            <div class="hill hill-one"></div>
+            <div class="hill hill-two"></div>
+            <div class="tree tree-one"></div>
+            <div class="tree tree-two"></div>
+            <div class="peacock">
+              <i></i><span></span><b></b>
+            </div>
+          </div>
+          <div class="story-copy">
+            <span>Goshti 01</span>
+            <h3 class="devanagari">शेकरू आणि मोर</h3>
+            <p>
+              Every sentence can highlight word-by-word, play audio, and reward kids for finishing a tiny
+              reading moment.
+            </p>
+            <div class="sentence-player">
+              <button type="button" data-story-step>▶</button>
+              <p class="devanagari" data-story-line>शेकरू झाडावर चढला.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="reward-section" id="rewards" aria-labelledby="rewards-title">
+        <div class="section-heading">
+          <span>Reward system</span>
+          <h2 id="rewards-title">Professional structure, kid-friendly delight.</h2>
+        </div>
+        <div class="reward-grid">
+          <article>
+            <span class="reward-icon">🏅</span>
+            <h3>Daily quest cards</h3>
+            <p>Short, visible goals prevent the site from becoming an endless list of lessons.</p>
+          </article>
+          <article>
+            <span class="reward-icon">🌰</span>
+            <h3>Hidden acorn economy</h3>
+            <p>Tap brand acorns, mascot paws, and secret words to trigger surprise animations.</p>
+          </article>
+          <article>
+            <span class="reward-icon">🎭</span>
+            <h3>Character reactions</h3>
+            <p>Shekru celebrates, gives Marathi praise, and makes wrong answers feel low-pressure.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <button type="button" data-easter="modak">मोदक</button>
+      <span>Mockup only. Current app files are untouched.</span>
+      <span class="footer-code">Tip: type SHIKUYA</span>
+    </footer>
+
+    <div class="toast" role="status" aria-live="polite" data-toast></div>
+    <div class="burst-layer" aria-hidden="true" data-burst-layer></div>
+    <script src="./script.js"></script>
+  </body>
+</html>

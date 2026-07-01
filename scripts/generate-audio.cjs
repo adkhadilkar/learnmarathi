@@ -52,6 +52,13 @@ const EXTRA = [
   ['/audio/words/friend-shekru.mp3', 'शेकरू'],
   ['/audio/words/friend-mor.mp3', 'मोर'],
   ['/audio/words/friend-phulpakhru.mp3', 'फुलपाखरू'],
+  // Shekru's cheer phrases (mascot pokes, easter eggs)
+  ['/audio/ui/namaskar.mp3', 'नमस्कार'],
+  ['/audio/ui/shabbas.mp3', 'शाब्बास'],
+  ['/audio/ui/mast.mp3', 'मस्त'],
+  ['/audio/ui/chhan.mp3', 'छान'],
+  ['/audio/ui/pudhe-chala.mp3', 'पुढे चला'],
+  ['/audio/ui/barobar.mp3', 'बरोबर'],
 ];
 for (const [p, t] of EXTRA) add(p, t);
 

@@ -21,9 +21,9 @@ export function AlphabetCard({ item, index }: AlphabetCardProps) {
       <div className="absolute inset-0 bg-gradient-to-br from-saffron/5 to-teal/5 dark:from-saffron/10 dark:to-teal/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
 
       <div className="relative text-center">
-        {/* Emoji illustration */}
-        <div className="text-2xl sm:text-3xl mb-1 opacity-70 group-hover:opacity-100 transition-opacity group-hover:scale-110 transform duration-200">
-          {item.emoji}
+        {/* Emoji illustration — wiggles hello on hover */}
+        <div className="text-2xl sm:text-3xl mb-1 opacity-70 group-hover:opacity-100 transition-opacity duration-200">
+          <span className="inline-block wiggle-on-hover">{item.emoji}</span>
         </div>
 
         {/* Main letter */}

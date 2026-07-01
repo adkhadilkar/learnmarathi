@@ -5,9 +5,11 @@ import type { NumberItem } from '../../types';
 interface NumberCardProps {
   item: NumberItem;
   index: number;
+  /** Called after the card is tapped — lets the page track counting streaks. */
+  onPlayed?: (item: NumberItem) => void;
 }
 
-export function NumberCard({ item, index }: NumberCardProps) {
+export function NumberCard({ item, index, onPlayed }: NumberCardProps) {
   const { play, isPlaying } = useAudio();
 
   return (
@@ -18,7 +20,10 @@ export function NumberCard({ item, index }: NumberCardProps) {
       transition={{ delay: index * 0.03, duration: 0.3 }}
       whileHover={{ scale: 1.05, y: -4 }}
       whileTap={{ scale: 0.96 }}
-      onClick={() => play(item.audio, item.word)}
+      onClick={() => {
+        play(item.audio, item.word);
+        onPlayed?.(item);
+      }}
       aria-label={`Play ${item.word}`}
       className="group relative w-full bg-white dark:bg-dark-card rounded-2xl p-4 shadow-sm hover:shadow-lg transition-shadow duration-300 border border-gray-100 dark:border-gray-700/50 cursor-pointer"
     >

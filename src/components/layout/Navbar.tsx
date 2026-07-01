@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import clsx from 'clsx';
 
@@ -32,9 +32,23 @@ function AcornLogo() {
 export function Navbar({ theme, toggleTheme }: NavbarProps) {
   const location = useLocation();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const themeTaps = useRef(0);
+  const lastTap = useRef(0);
 
   const dropAcorns = () => {
     window.dispatchEvent(new CustomEvent('shekru:acorns'));
+  };
+
+  // 🥚 Tap the sun/moon five times fast → star shower.
+  const handleThemeToggle = () => {
+    const now = Date.now();
+    themeTaps.current = now - lastTap.current < 1800 ? themeTaps.current + 1 : 1;
+    lastTap.current = now;
+    if (themeTaps.current >= 5) {
+      themeTaps.current = 0;
+      window.dispatchEvent(new CustomEvent('shekru:stars'));
+    }
+    toggleTheme();
   };
 
   return (
@@ -87,7 +101,7 @@ export function Navbar({ theme, toggleTheme }: NavbarProps) {
           <div className="flex items-center gap-1.5">
             <motion.button
               whileTap={{ scale: 0.9 }}
-              onClick={toggleTheme}
+              onClick={handleThemeToggle}
               className="w-9 h-9 rounded-full flex items-center justify-center bg-white dark:bg-dark-card border border-card-border dark:border-dark-border"
               aria-label={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
             >

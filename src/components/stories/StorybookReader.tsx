@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import clsx from 'clsx';
-import { playClip, stopAudio } from '../../lib/speak';
+import { playClip, stopAudio, asset } from '../../lib/speak';
 import { Confetti } from '../common/Confetti';
 
 interface StorySentence {
@@ -19,6 +19,12 @@ export interface Story {
   emoji: string;
   sentences: StorySentence[];
 }
+
+// Get image URL for a story page (1-indexed, returns path for fetch)
+const getStoryImageUrl = (storyId: string, pageIndex: number): string => {
+  const pageNum = pageIndex + 1;
+  return `${asset('/images/stories')}/${storyId}-page-${pageNum}.png`;
+};
 
 interface StorybookReaderProps {
   story: Story;
@@ -181,7 +187,7 @@ export function StorybookReader({ story, onBack }: StorybookReaderProps) {
             >
               {/* Illustration scene */}
               <div
-                className="relative h-56 sm:h-72 flex items-center justify-center overflow-hidden"
+                className="relative h-56 sm:h-72 lg:h-80 flex items-center justify-center overflow-hidden"
                 style={{ background: `linear-gradient(160deg, var(--scene-from), var(--scene-to))` } as React.CSSProperties}
                 ref={el => {
                   if (el) {
@@ -191,31 +197,51 @@ export function StorybookReader({ story, onBack }: StorybookReaderProps) {
                   }
                 }}
               >
-                {/* Floating decorations */}
-                {scene.floats.map((f, i) => (
-                  <motion.span
-                    key={i}
-                    className="absolute text-3xl sm:text-4xl opacity-70"
-                    style={{
-                      left: `${12 + i * 22}%`,
-                      top: i % 2 === 0 ? '18%' : '62%',
+                {/* Story page image (falls back to emoji if not found) */}
+                {current && (
+                  <motion.img
+                    key={`img-${page}`}
+                    src={getStoryImageUrl(story.id, page)}
+                    alt={current.english}
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.4 }}
+                    className="absolute inset-0 w-full h-full object-cover"
+                    onError={(e) => {
+                      // If image fails to load (404), hide it and show emoji fallback
+                      (e.target as HTMLImageElement).style.display = 'none';
                     }}
-                    animate={{ y: [0, -12, 0], rotate: [0, i % 2 === 0 ? 8 : -8, 0] }}
-                    transition={{ duration: 4 + i, repeat: Infinity, ease: 'easeInOut', delay: i * 0.3 }}
+                  />
+                )}
+
+                {/* Fallback: Floating decorations + emoji (shown if image not available) */}
+                <div className="relative z-10 flex flex-col items-center justify-center gap-4">
+                  {scene.floats.map((f, i) => (
+                    <motion.span
+                      key={i}
+                      className="absolute text-3xl sm:text-4xl opacity-70"
+                      style={{
+                        left: `${12 + i * 22}%`,
+                        top: i % 2 === 0 ? '18%' : '62%',
+                      }}
+                      animate={{ y: [0, -12, 0], rotate: [0, i % 2 === 0 ? 8 : -8, 0] }}
+                      transition={{ duration: 4 + i, repeat: Infinity, ease: 'easeInOut', delay: i * 0.3 }}
+                    >
+                      {f}
+                    </motion.span>
+                  ))}
+                  {/* Hero emoji */}
+                  <motion.div
+                    key={`hero-${page}`}
+                    initial={{ scale: 0.5, rotate: -10 }}
+                    animate={{ scale: 1, rotate: 0 }}
+                    transition={{ type: 'spring', bounce: 0.5, delay: 0.1 }}
+                    className="relative text-7xl sm:text-8xl drop-shadow-lg"
                   >
-                    {f}
-                  </motion.span>
-                ))}
-                {/* Hero emoji */}
-                <motion.div
-                  key={`hero-${page}`}
-                  initial={{ scale: 0.5, rotate: -10 }}
-                  animate={{ scale: 1, rotate: 0 }}
-                  transition={{ type: 'spring', bounce: 0.5, delay: 0.1 }}
-                  className="relative text-7xl sm:text-8xl drop-shadow-lg"
-                >
-                  {story.emoji}
-                </motion.div>
+                    {story.emoji}
+                  </motion.div>
+                </div>
 
                 {/* Page number badge */}
                 <div className="absolute top-3 right-4 font-round font-bold text-xs text-ink-muted bg-white/70 dark:bg-dark-bg/50 backdrop-blur px-2.5 py-1 rounded-full">
